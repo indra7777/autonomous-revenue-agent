@@ -92,9 +92,10 @@ SELLER_KEYWORDS = {
 BUYER_KEYWORDS = {
     "[hiring]",
     "[task]",
-    "hiring",
     "need someone",
+    "i need",
     "looking for someone",
+    "looking to hire",
     "seeking",
     "paid task",
     "fixed budget",

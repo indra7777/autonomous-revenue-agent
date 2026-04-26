@@ -74,6 +74,19 @@ class RankerTest(unittest.TestCase):
         self.assertEqual(ranked[0].opportunity.url, "https://example.com/buyer")
         self.assertGreaterEqual(ranked[1].risk, 3)
 
+    def test_generic_hiring_market_language_is_not_direct_buyer_intent(self) -> None:
+        article = Opportunity(
+            source="hn/need a freelancer",
+            title="Show HN: Real-time hiring posts and AI outreach",
+            url="https://example.com/hiring-market",
+            summary="Freelance contacts and cover letter tools.",
+        )
+
+        scored = rank_opportunities([article])[0]
+
+        self.assertLessEqual(scored.payment_probability, 3)
+        self.assertGreaterEqual(scored.risk, 3)
+
 
 if __name__ == "__main__":
     unittest.main()
