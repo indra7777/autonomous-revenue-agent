@@ -1,0 +1,18 @@
+{
+  "role": "sales_copy_subagent",
+  "created_at": "2026-04-26T18:36:50+00:00",
+  "goal": "Prepare one approval-gated revenue action for the human overseer.",
+  "opportunity": {
+    "source": "hn/paid gig",
+    "title": "Show HN: NotchPrompter \u2013 A simple, open-source teleprompter for macOS,no AI-slop",
+    "url": "https://github.com/jpomykala/NotchPrompter",
+    "summary": "Hi HN, I built NotchPrompter because I needed a simple way to read notes while looking at the camera during calls, without heavy or paid software. - 100% free & open-source - native macOS (SwiftUI) - minimalist - focuses on the essentials. Feedback and contributions are more than welcome! PS No, I didn't use AI for it. I always wanted to play with SwiftUI and this is my 6th approach to this. Previous projects were too complex for my beginner skills. I'm mainly a Java developer. It took me ~5 mon"
+  },
+  "constraints": [
+    "No autonomous posting.",
+    "No account creation.",
+    "No paid tools.",
+    "No false claims.",
+    "Human must approve and send the final message."
+  ]
+}

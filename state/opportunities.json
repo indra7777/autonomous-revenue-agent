@@ -1,20 +1,20 @@
 [
   {
-    "total": 10,
+    "total": 9,
     "ease": 4,
-    "payment_probability": 5,
+    "payment_probability": 4,
     "repeatability": 1,
     "risk": 0,
     "reasons": [
-      "easy keywords: cover letter",
-      "payment signals: freelance, hiring",
-      "buyer signals: hiring"
+      "easy keywords: prompt",
+      "payment signals: paid",
+      "buyer signals: i need"
     ],
-    "source": "hn/need a freelancer",
-    "title": "Show HN: Feuxo \u2013 Real-Time hiring posts + contacts + AI personalized outreach",
-    "url": "https://feuxo.com",
-    "summary": "Hi HN, I built Feuxo to help freelancers and job seeker finds real-time active opportunities outside traditional job boards. It scans public posts where people explicitly say they\u2019re looking for specific skills (e.g., \u201cneed a developer\u201d, \u201clooking for digital marketer\u201d), and surfaces: - The original live post link - Contact information when available - AI-generated personalized outreach / cover letter you can use quickly I started by doing this manually for people replying to my posts, and in the",
-    "published_at": "2026-02-19T15:20:41Z"
+    "source": "hn/paid gig",
+    "title": "Show HN: NotchPrompter \u2013 A simple, open-source teleprompter for macOS,no AI-slop",
+    "url": "https://github.com/jpomykala/NotchPrompter",
+    "summary": "Hi HN, I built NotchPrompter because I needed a simple way to read notes while looking at the camera during calls, without heavy or paid software. - 100% free & open-source - native macOS (SwiftUI) - minimalist - focuses on the essentials. Feedback and contributions are more than welcome! PS No, I didn't use AI for it. I always wanted to play with SwiftUI and this is my 6th approach to this. Previous projects were too complex for my beginner skills. I'm mainly a Java developer. It took me ~5 mon",
+    "published_at": "2026-04-17T11:39:46Z"
   },
   {
     "total": 8,
@@ -34,54 +34,6 @@
     "url": "https://mnml.page/",
     "summary": "I'm a UI/UX designer with 10+ years in the industry. I kept seeing the same problem: freelancers and creatives who need a simple online presence end up fighting Webflow or paying $15/mo for features they'll never use. mnml.page lets you build a clean one-page site in minutes. Pick a template, edit your content, publish. No drag-and-drop complexity, no CMS, no bloat. A few things that make it different: - AI site generation from your CV or links - Flat $49/year pricing (no tiers, no upsells) - De",
     "published_at": "2026-04-09T08:28:34Z"
-  },
-  {
-    "total": 7,
-    "ease": 2,
-    "payment_probability": 4,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "payment signals: hiring",
-      "buyer signals: hiring"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "What Are the Top Skills to Prioritize in 2026? Hiring Managers Chime In - The HR Digest",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkd5R1FTU2FtNDFReWxRa2J1cmlub3h5WWl2T3EycWxUbEh4aXk4QU9JZzhRZ3ZwNDZNOGlPX1UzNFlpNW9VUlNMcXNEOXpkb2FUUGNTZG9XN2VjRkFvWFpLZmJsZC1uUmQ0VW41UW51Y0dRLWcyaHJqc2hRbEp5UWk4QzhZUzRoUG84TnREb3NPZW1VVUJNd21rUFE5b080?oc=5",
-    "summary": "What Are the Top Skills to Prioritize in 2026? Hiring Managers Chime In The HR Digest",
-    "published_at": "Tue, 09 Dec 2025 08:00:00 GMT"
-  },
-  {
-    "total": 7,
-    "ease": 2,
-    "payment_probability": 4,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "payment signals: hiring",
-      "buyer signals: hiring"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants - U.S. Chamber of Commerce",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVlaVDNkUVMtT1BtV0V4S0ZxZHYxTExOT29iWVFySzRzaEFoTzVoODFUZWh4TWxMLVVNNlk0bS10UksyOUxfOVJmejlyWW5wNU4wZlBCb3VuZkJhNzFzQ2lrM1dEdzZGSjhSRzJ0N2Q4UTdEcnBqSHZWX1UxTi1FLW5haGFBMnNaaFZJ?oc=5",
-    "summary": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants U.S. Chamber of Commerce",
-    "published_at": "Wed, 24 Jan 2024 08:00:00 GMT"
-  },
-  {
-    "total": 7,
-    "ease": 2,
-    "payment_probability": 4,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "payment signals: hiring",
-      "buyer signals: hiring"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) - Toronto Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZjaTJlSkJHazlaVmJESkppS0tMMGpzdXh1SFR2NTNpOE5mQkg0NUlQMnR4MlR0VWtmRlFTckVESUh1UGpGV1dVWjN5NmxnMkxLbkVSTk9fZ1pYWlJoUm1TTWxJQlM3X3FaalZ5RFpQaFdVRXQ0ZzExd0tmOG9vaExENkFzTG96Y1pDYVAzdVB0eWxIR2xfUnZRc1Z6NFlDV2pPQTVMSnFaQQ?oc=5",
-    "summary": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) Toronto Guardian",
-    "published_at": "Mon, 11 Aug 2025 06:36:02 GMT"
   },
   {
     "total": 7,
@@ -135,23 +87,6 @@
     "url": "https://www.ogimageapi.io",
     "summary": "Hey HN! I built this because I was tired of manually creating OG images for every blog post and side project. How it works: - Send a POST request with JSON (title, subtitle, template, etc.) - Get back a PNG in ~50-100ms - No Puppeteer, no browser automation \u2014 uses node-canvas for fast server-side rendering Live demo on the homepage (no signup needed). Free tier includes 10 images/month. I'm launching on Product Hunt today too, but honestly HN feedback is what I care about most. Would love to hea",
     "published_at": "2025-12-11T18:47:55Z"
-  },
-  {
-    "total": 7,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 5,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume, template",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "ResumeTemplates.com Survey: 3 in 5 Business Leaders Back Microsoft's Warning That AI Will Replace Most White-Collar Work Within 18 Months - Eastern Progress",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORmY0V0JEYi1vMGwxelNQY0hyMnUtNGdfM3VGOXZtZ1BpdmREeC1Cb0RCcDZaaENuLUxiLTA2YzlZbkhMLUJraFBxT1pBcXJVaTgzejhiVXk5ZlFTZUJ2LTlvWTl0X252UE5Sc1JMVXZSNF8tZ0U5YlYyY3FiTnRmYk4tLTVWTmhmM2s1TVc2SUpnemV5R0RlcGNDelFCWWlFU2lWR1UwMjRLdE1OMFZNSW5qNmc1Y1M2eEFhSzJZeEJLVWpodERYUm1YdTF0TGlQZThpbG5DMmVqNUxkdHMwX1JoZzQ4RWNLRVZBai12SFZ5c1U3UlhHakNkQzRNOWp4cThaWnptM1o?oc=5",
-    "summary": "ResumeTemplates.com Survey: 3 in 5 Business Leaders Back Microsoft's Warning That AI Will Replace Most White-Collar Work Within 18 Months Eastern Progress",
-    "published_at": "Thu, 05 Mar 2026 08:00:00 GMT"
   },
   {
     "total": 7,
@@ -226,6 +161,21 @@
   },
   {
     "total": 6,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "buyer signals: i need"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: LocalLLM \u2013 Recipes for Running the Local LLM (Need Contributors)",
+    "url": "https://locallllm.fly.dev",
+    "summary": "I built localLLLM: a small community project for running local models. Live: https://locallllm.fly.dev The goal is simple: if someone has model + OS + GPU + RAM, they should get steps that actually work (ideally one liner) I need help populating and validating guides. If you run local models, please submit one working recipe (or report what failed). Would love to hear general feedback as well!",
+    "published_at": "2026-04-23T15:01:24Z"
+  },
+  {
+    "total": 6,
     "ease": 4,
     "payment_probability": 2,
     "repeatability": 3,
@@ -241,6 +191,23 @@
     "url": "https://github.com/re-marked/claude-corp",
     "summary": "Claude Corp is a daemon that runs and orchestrates an autonomous personal corporation of AI agents on your machine. OpenClaw agents form a social hierarchy, and everybody knows who they listen and report to. Agents can discuss stuff in channels, by @mentioning each other or using threads. Agents can create Tasks and Contracts, where Tasks are persistent tasks stored as file, and Contracts are a bundle of tasks, with a shared goal. When all tasks in a contract are done, the Contract is marked as ",
     "published_at": "2026-04-08T16:20:32Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: cover letter",
+      "payment signals: freelance, hiring",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/need a freelancer",
+    "title": "Show HN: Feuxo \u2013 Real-Time hiring posts + contacts + AI personalized outreach",
+    "url": "https://feuxo.com",
+    "summary": "Hi HN, I built Feuxo to help freelancers and job seeker finds real-time active opportunities outside traditional job boards. It scans public posts where people explicitly say they\u2019re looking for specific skills (e.g., \u201cneed a developer\u201d, \u201clooking for digital marketer\u201d), and surfaces: - The original live post link - Contact information when available - AI-generated personalized outreach / cover letter you can use quickly I started by doing this manually for people replying to my posts, and in the",
+    "published_at": "2026-02-19T15:20:41Z"
   },
   {
     "total": 5,
@@ -424,6 +391,23 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
+    "title": "What Are Hard Skills? 45 Examples For Your Resume - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMHJreEhwRFdWQmszbDJuQzNUOVVtNDNSTW9MWHhFc3NFUzFqU1dKcm5vVkhsRi0zMTdNRE9mZ3dnLS1aV0F6U0pEWGFoY2k0QjRN?oc=5",
+    "summary": "What Are Hard Skills? 45 Examples For Your Resume BetterUp",
+    "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
     "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
     "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
@@ -445,6 +429,23 @@
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
     "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
     "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOZXJ2UGNHVzhVenEyUzVfVVdZSVZVV2VzS0FkQ0ZaY0FWOV9yMzhVaG1ucGpsTGl4S0tXTWw2T05xdk9WQ05BeFE0MnNvaDNRWW1IRHczazhra0VpaTBxdVhmR25pMGhGYlpDdFk0cUpZTGNsMXfSAXtBVV95cUxQM2FTQ0lNOF9WVW84bkdGM21zUk0zc08tV3VVcTk1bWIwUmk5OTBhX2ZlZm5SU3pkcmRfa0h2OXR0RkhTQTRKWF9xNEpXdzFIM3hKQzhRSDctQ1o2dkJqTEpTTUxlQk94dF83NTZmVTRrNEJJUFhRZjZfNFU?oc=5",
+    "summary": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 CNBC",
+    "published_at": "Wed, 19 Oct 2022 07:00:00 GMT"
   },
   {
     "total": 4,
@@ -482,20 +483,19 @@
   },
   {
     "total": 4,
-    "ease": 4,
-    "payment_probability": 2,
+    "ease": 0,
+    "payment_probability": 3,
     "repeatability": 1,
-    "risk": 3,
+    "risk": 0,
     "reasons": [
-      "easy keywords: prompt",
-      "payment signals: paid",
-      "market-signal source without direct buyer intent"
+      "hard keywords: rust",
+      "buyer signals: i need"
     ],
     "source": "hn/paid gig",
-    "title": "Show HN: NotchPrompter \u2013 A simple, open-source teleprompter for macOS,no AI-slop",
-    "url": "https://github.com/jpomykala/NotchPrompter",
-    "summary": "Hi HN, I built NotchPrompter because I needed a simple way to read notes while looking at the camera during calls, without heavy or paid software. - 100% free & open-source - native macOS (SwiftUI) - minimalist - focuses on the essentials. Feedback and contributions are more than welcome! PS No, I didn't use AI for it. I always wanted to play with SwiftUI and this is my 6th approach to this. Previous projects were too complex for my beginner skills. I'm mainly a Java developer. It took me ~5 mon",
-    "published_at": "2026-04-17T11:39:46Z"
+    "title": "Show HN: Jigs-tiny Rust framework for interactive maps of composable pipelines",
+    "url": "https://github.com/ValeriaVG/jigs",
+    "summary": "I needed a way to see complicated systems in a simpler way, especially if said system has been AI generated and is hard to review. I am only starting to migrate my own projects to it and it\u2019s far from production ready, but I\u2019d love to hear your thoughts on the approach and structure!",
+    "published_at": "2026-04-26T16:33:18Z"
   },
   {
     "total": 4,
