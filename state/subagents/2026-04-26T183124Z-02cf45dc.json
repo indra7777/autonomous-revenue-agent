@@ -1,0 +1,18 @@
+{
+  "role": "sales_copy_subagent",
+  "created_at": "2026-04-26T18:31:24+00:00",
+  "goal": "Prepare one approval-gated revenue action for the human overseer.",
+  "opportunity": {
+    "source": "reddit/r/DesignJobs",
+    "title": "[Hiring] Turn Logo into Vector Art? $30 Paid",
+    "url": "https://www.reddit.com/r/DesignJobs/comments/1stqhiu/hiring_turn_logo_into_vector_art_30_paid/",
+    "summary": "Hi there, I would like to hire someone to turn this logo into a vector art file to send over to a truck wrap company. Paid $30 job. Thank you for your consideration."
+  },
+  "constraints": [
+    "No autonomous posting.",
+    "No account creation.",
+    "No paid tools.",
+    "No false claims.",
+    "Human must approve and send the final message."
+  ]
+}
