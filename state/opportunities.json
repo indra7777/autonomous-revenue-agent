@@ -524,23 +524,6 @@
     "repeatability": 1,
     "risk": 3,
     "reasons": [
-      "visible budget: $260",
-      "payment signals: $",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Mike Rowe says data center electricians earning $260K are getting 'poached' like pro athletes \u2014 no college degree required - MSN",
-    "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPVUNaTE1GX29pU0RnV1g2R0Q0Z3otODVjS2R2YW5ubWZFb2hra0Q1Z1lQN2R1b0x6M1VQRUlMVHctMmhDenIyaTI3R1hSbzhpNUR5NFA1Q0xTMG5PVFlfNm5YMlVBUzVvSl9aN0w4eXc3U0ktcXl5NlZhQng0end3cXUxUU1LV0FENDhMRndqVG1pRW9OX2FqZ2JOd280VzBqdUVOZ2VpLXRmR2hhMHAtbVZLUTkxcnItSU1jSDRjTndubFFqcHpmamVybktKT2NxSk1uSmk0aU5LWjVpLXRiQW12WHE0X0FpMXptSTZHYVgwWElpZ0ZfT1VCRzJIODFvZ1AtclFsMzVoOC1ScHdyLWpZd0s5Njk1bTZMTjlmSjNCa3F0ekpVc2pvRDJabWNMb2RGTEdiQlNmS081MDR0ZnVwMm5uS211Wlo3alVzTEs5SFM1VnMxSE9IQnUzbkN5YTNpN0RRQmVFNU95UXk3dnpaQjFLTk1qS1JyY1hTZ1BPelNET0xvRGN1ZHZlbkhEbndkalJVajVWb19zOVdoaVVUdzgyNmZoUUlyVTJBZm5wZw?oc=5",
-    "summary": "Mike Rowe says data center electricians earning $260K are getting 'poached' like pro athletes \u2014 no college degree required MSN",
-    "published_at": "Fri, 24 Apr 2026 06:24:38 GMT"
-  },
-  {
-    "total": 3,
-    "ease": 2,
-    "payment_probability": 3,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
       "visible budget: $1",
       "payment signals: $",
       "market-signal source without direct buyer intent"
@@ -618,6 +601,23 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVjZuWXZqOU00S2dhY29rcElnUkZia193T0dkSGs1V2QwZ1NFQWJRbkZYNVZRX2FhUlNrZnBqakdtRm9pV1JDbXRxc1U0TEdlZzcxWm91T0FIVFkwYk5QTE9pWmFFclM4Y19fNFNoLUR0TDdQS0xYTF9KVUhBNXdERE5ZbkJyV2FnRDRmNmVHMDJ1dEMtR1dBVTZUTU83SGFVRjctcTRkeTU?oc=5",
     "summary": "How I Built a Virtual-Assistant Company That's Made $500,000 This Year Business Insider",
     "published_at": "Thu, 18 Aug 2022 07:00:00 GMT"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $9,000",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDJwNTd6OXlJR3JabldKZnF3QzB0ZUlOSlFNcTg4TW9zSmY5aVdqSG5WVklRQ0ZsNEhyVnFxS0dJT1QtbC11eGY4cEo0Si0tU1N0V2tmaGs1NktLVW5ITTlnRXdPREFtOTd4LW03S1JRX21OV3J1bE1Jc1NXcmhHdGZacFI1WEloT0xobTVYWk4xU0ItMzJDRHd6NVRxb2dES3c?oc=5",
+    "summary": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. Business Insider",
+    "published_at": "Fri, 18 Feb 2022 08:00:00 GMT"
   },
   {
     "total": 3,
