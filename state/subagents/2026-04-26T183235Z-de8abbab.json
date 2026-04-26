@@ -1,0 +1,18 @@
+{
+  "role": "sales_copy_subagent",
+  "created_at": "2026-04-26T18:32:35+00:00",
+  "goal": "Prepare one approval-gated revenue action for the human overseer.",
+  "opportunity": {
+    "source": "hn/paid gig",
+    "title": "Show HN: Trustless Campaigns \u2013 Gecko transforms brand-creator deals",
+    "url": "https://www.geckovision.tech",
+    "summary": "Gecko turns brand-creator deals into self-enforcing contracts \u2014 budget locked before the campaign starts, creators paid automatically when delivery is verified. Every brand-creator deal runs on trust. Brand pays after the creator posts. Creator posts before payment is locked. A *$21 billion industry on Telegram DMs and email threads* \u2014 when it breaks, there's no enforcement. Just a conversation that goes nowhere. Gecko fixes that at the contract level. A brand locks its budget into an on-chain v"
+  },
+  "constraints": [
+    "No autonomous posting.",
+    "No account creation.",
+    "No paid tools.",
+    "No false claims.",
+    "Human must approve and send the final message."
+  ]
+}

@@ -1,220 +1,5 @@
 [
   {
-    "total": 17,
-    "ease": 4,
-    "payment_probability": 10,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: logo",
-      "visible budget: $30",
-      "payment signals: $, hire, hiring",
-      "buyer signals: [hiring], hiring, i would like to hire",
-      "repeatable: logo"
-    ],
-    "source": "reddit/r/DesignJobs",
-    "title": "[Hiring] Turn Logo into Vector Art? $30 Paid",
-    "url": "https://www.reddit.com/r/DesignJobs/comments/1stqhiu/hiring_turn_logo_into_vector_art_30_paid/",
-    "summary": "Hi there, I would like to hire someone to turn this logo into a vector art file to send over to a truck wrap company. Paid $30 job. Thank you for your consideration.",
-    "published_at": "1776967513.0"
-  },
-  {
-    "total": 15,
-    "ease": 2,
-    "payment_probability": 10,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $50",
-      "payment signals: $, freelance, hiring",
-      "buyer signals: [hiring], hiring",
-      "repeatable: weekly"
-    ],
-    "source": "reddit/r/DoneDirtCheap",
-    "title": "[HIRING] Looking for Remote Freelancers (Long-Term Work Opportunity)",
-    "url": "https://www.reddit.com/r/DoneDirtCheap/comments/1svl35a/hiring_looking_for_remote_freelancers_longterm/",
-    "summary": "Hey everyone, We\u2019re looking for reliable individuals interested in working with a remote development team on a long-term basis \\*\\*US based only\\*\\* . What we offer: \\- Initial onboarding bonus ($50) \\- Weekly support payment ($30 during training phase) \\- Opportunity to transition into paid project work \\- Performance-based earnings (percentage from completed work/projects) Requirements: \\- Access to a personal laptop/PC \\- Stable internet connection \\- Basic understanding of freelancing platfo",
-    "published_at": "1777144483.0"
-  },
-  {
-    "total": 15,
-    "ease": 4,
-    "payment_probability": 8,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: logo",
-      "visible budget: $150",
-      "payment signals: $, hiring",
-      "buyer signals: [hiring], hiring, need someone",
-      "repeatable: logo"
-    ],
-    "source": "reddit/r/DesignJobs",
-    "title": "[Hiring] Logo Designer",
-    "url": "https://www.reddit.com/r/DesignJobs/comments/1su5xwo/hiring_logo_designer/",
-    "summary": "I need someone who can design a logo for me, max pay $150. Shouldn\u2019t be too hard I think but let me know if you\u2019re interested $30 P",
-    "published_at": "1777006397.0"
-  },
-  {
-    "total": 14,
-    "ease": 2,
-    "payment_probability": 9,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $30",
-      "payment signals: $, hiring, usd",
-      "buyer signals: [hiring], hiring",
-      "repeatable: weekly"
-    ],
-    "source": "reddit/r/forhire",
-    "title": "[HIRING] Need 8 more people to start TODAY - $30 Weekly Pay",
-    "url": "https://www.reddit.com/r/forhire/comments/1sweimv/hiring_need_8_more_people_to_start_today_30/",
-    "summary": "Expanding our team for simple daily engagement. $30.00 USD / week.DM ME IMMEDIATELY. Invite link is also in my profile bio.",
-    "published_at": "1777226134.0"
-  },
-  {
-    "total": 14,
-    "ease": 4,
-    "payment_probability": 5,
-    "repeatability": 5,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: logo",
-      "payment signals: hiring",
-      "buyer signals: [hiring], hiring",
-      "repeatable: logo, pack"
-    ],
-    "source": "reddit/r/DesignJobs",
-    "title": "[HIRING] Brand Designer for Flavoured Butter CPG Brand (Logo, Identity & Packaging)",
-    "url": "https://www.reddit.com/r/DesignJobs/comments/1sugx15/hiring_brand_designer_for_flavoured_butter_cpg/",
-    "summary": "I\u2019m building a flavoured butter consumer packaged goods (CPG) brand and am looking to work long-term with a creative designer. Looking for a bold, illustration-driven, maximalist design to stand out on the shelf. At an initial stage, looking for: 1. Logo Design and Brand Identity Kit 2. Packaging design system (1 product) Requirements: \u2022 Experience designing multi-SKU product lines for retail (food products preferred) \u2022 Portfolio with bold-visual storytelling \u2022 No AI-generated work - looking for",
-    "published_at": "1777039954.0"
-  },
-  {
-    "total": 13,
-    "ease": 4,
-    "payment_probability": 8,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: linkedin",
-      "visible budget: $75",
-      "payment signals: $, hiring",
-      "buyer signals: [hiring], hiring"
-    ],
-    "source": "reddit/r/DoneDirtCheap",
-    "title": "[Hiring] \ud83d\udcac DM People on LinkedIn, 1hr/day Weekdays, $75 per Booking That Shows",
-    "url": "https://www.reddit.com/r/DoneDirtCheap/comments/1svn0b3/hiring_dm_people_on_linkedin_1hrday_weekdays_75/",
-    "summary": "We\u2019re working with US clients and looking for more people to help with LinkedIn outreach. The role is simple, you message people and guide interested ones to book a call. No sales calls or closing. Takes around one hour per weekday once you get into the routine. Pay is **$75** per booking that attends. You don\u2019t need experience, but you do need to be **consistent** and **self managed**. If you disappear after a few days or need constant supervision, this won\u2019t be a good fit. We provide everythin",
-    "published_at": "1777148937.0"
-  },
-  {
-    "total": 13,
-    "ease": 2,
-    "payment_probability": 8,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $10",
-      "payment signals: $, usd",
-      "buyer signals: [task], need someone",
-      "repeatable: batch"
-    ],
-    "source": "reddit/r/slavelabour",
-    "title": "[task]Batch Image Editing for E-commerce: 113 products - $10 USDC",
-    "url": "https://www.reddit.com/r/slavelabour/comments/1sw2kln/taskbatch_image_editing_for_ecommerce_113/",
-    "summary": "\\[closed\\] I need someone to take 113 product images from my website and add a specific price/description overlay to each. I will provide a sample The Job: Visit my website (link provided in DM). Save the product images. Add the product name, price,payment method,website url and phone number to each image. You must match the layout of my sample exactly. Feel free to use any AI tools or automation to complete the task as long as the quality is high. Image must be insta POST friendly (4:5) Trial/H",
-    "published_at": "1777194497.0"
-  },
-  {
-    "total": 13,
-    "ease": 2,
-    "payment_probability": 8,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $200",
-      "payment signals: $, hiring",
-      "buyer signals: [hiring], hiring",
-      "repeatable: monthly"
-    ],
-    "source": "reddit/r/DoneDirtCheap",
-    "title": "[HIRING] Photoshop Expert With Experience $200/Month",
-    "url": "https://www.reddit.com/r/DoneDirtCheap/comments/1svj1po/hiring_photoshop_expert_with_experience_200month/",
-    "summary": "Looking for a photoshop expert with experience. You\u2019ll be cleaning up raw images, image retouching, image manipulation, product mockups etc for a phone case brand. average amount of images edited monthly will be between 40 & 50. PLEASE NO AMATEURS, I only want people who are good at photoshop. ONLY MESSAGE ME IF YOU HAVE A PORTFOLIO I CAN LOOK AT Pay is $200/Month",
-    "published_at": "1777139855.0"
-  },
-  {
-    "total": 12,
-    "ease": 2,
-    "payment_probability": 9,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $150",
-      "payment signals: $, hiring, paid",
-      "buyer signals: [hiring], hiring"
-    ],
-    "source": "reddit/r/forhire",
-    "title": "[Hiring] Get paid to make short videos from your phone at home from. Earning potential - $150-$300/week.",
-    "url": "https://www.reddit.com/r/forhire/comments/1sw4qqi/hiring_get_paid_to_make_short_videos_from_your/",
-    "summary": "We need clippers to work from our platform. Work Details and Requirements - The work is to basically clip content for streamers, and post in on platforms like instagram, youtube in form of short content. Videos are generally reaction type video or other podcast clips. You will have to analyze the best moments from there long form content convert it into engagable short form content and post it on instagram. For those who are interested drop \u201cCLIP\u201d and the name of your country. P.s- you dont nece",
-    "published_at": "1777201935.0"
-  },
-  {
-    "total": 12,
-    "ease": 2,
-    "payment_probability": 9,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $50",
-      "payment signals: $, freelance, hiring",
-      "buyer signals: hiring"
-    ],
-    "source": "reddit/r/DoneDirtCheap",
-    "title": "Hiring: Remote Freelancers (US-Based Only)",
-    "url": "https://www.reddit.com/r/DoneDirtCheap/comments/1sw8u32/hiring_remote_freelancers_usbased_only/",
-    "summary": "We\u2019re looking for reliable individuals to join us in a support and coordination role. **What we offer:** * $50 onboarding bonus * $50/week during training * Opportunity for paid project work * Performance-based earnings **Role includes:** * Assisting with freelance workflow management * Client communication support * Project coordination (training provided) **Requirements:** * US-based applicants only * Laptop/PC + stable internet * Willingness to learn and stay consistent * Basic freelancing kn",
-    "published_at": "1777213288.0"
-  },
-  {
-    "total": 12,
-    "ease": 2,
-    "payment_probability": 9,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $800",
-      "payment signals: $, hire, hiring",
-      "buyer signals: [hiring], hiring"
-    ],
-    "source": "reddit/r/DoneDirtCheap",
-    "title": "[HIRING] Instagram Page Manager ($800/month)",
-    "url": "https://www.reddit.com/r/DoneDirtCheap/comments/1suwx1v/hiring_instagram_page_manager_800month/",
-    "summary": "We hired someone, thank you for your time!",
-    "published_at": "1777076474.0"
-  },
-  {
-    "total": 12,
-    "ease": 2,
-    "payment_probability": 7,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $400",
-      "payment signals: $",
-      "buyer signals: [task], need someone",
-      "repeatable: ongoing"
-    ],
-    "source": "reddit/r/DoneDirtCheap",
-    "title": "[TASK] Cold Email & Lead Generation Specialist | Gym Equipment Campaign | $400\u2013$600/month | Long-Term | Part-Time",
-    "url": "https://www.reddit.com/r/DoneDirtCheap/comments/1suoydp/task_cold_email_lead_generation_specialist_gym/",
-    "summary": "Hey! We're a small digital marketing agency running an outbound email campaign for a client in the commercial gym equipment and flooring space. They distribute nationally with a strong focus in New England. We need someone who knows how to build clean lists and run tight cold email infrastructure. This is a real ongoing role with our team and needs someone that communicates well and is okay to hop on calls last minute to discuss the project. **What the job is** You'll be sourcing and building ta",
-    "published_at": "1777057407.0"
-  },
-  {
     "total": 12,
     "ease": 2,
     "payment_probability": 7,
@@ -240,24 +25,6 @@
     "repeatability": 3,
     "risk": 0,
     "reasons": [
-      "easy keywords: logo",
-      "visible budget: $30",
-      "payment signals: $, usd",
-      "repeatable: logo"
-    ],
-    "source": "reddit/r/slavelabour",
-    "title": "[OFFER] I will design a modern and minimalistic logo for your brand only for $30 USD",
-    "url": "https://www.reddit.com/r/slavelabour/comments/1svql5c/offer_i_will_design_a_modern_and_minimalistic/",
-    "summary": "Hello, I am Arpan, and **I specialize in Clean and professional-looking original logos for new startups.** I am experienced in **Adobe Illustrator and vector graphics.** I can create an original & creative minimalist logo for a low price. I will provide you with multiple concept sketches to pick the best fit[.](https://imgur.com/v3tGCyS) They are **minimalist, clean, original, modern,** and **scalable to any size without any quality loss,** so they are perfect for any project you may encounter l",
-    "published_at": "1777157788.0"
-  },
-  {
-    "total": 12,
-    "ease": 4,
-    "payment_probability": 5,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
       "easy keywords: cv",
       "visible budget: $15",
       "payment signals: $, freelance",
@@ -268,196 +35,6 @@
     "url": "https://mnml.page/",
     "summary": "I'm a UI/UX designer with 10+ years in the industry. I kept seeing the same problem: freelancers and creatives who need a simple online presence end up fighting Webflow or paying $15/mo for features they'll never use. mnml.page lets you build a clean one-page site in minutes. Pick a template, edit your content, publish. No drag-and-drop complexity, no CMS, no bloat. A few things that make it different: - AI site generation from your CV or links - Flat $49/year pricing (no tiers, no upsells) - De",
     "published_at": "2026-04-09T08:28:34Z"
-  },
-  {
-    "total": 11,
-    "ease": 2,
-    "payment_probability": 8,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $125",
-      "payment signals: $, hiring",
-      "buyer signals: [task], hiring"
-    ],
-    "source": "reddit/r/slavelabour",
-    "title": "[Task]: Tiktok Virtual Assistants \u2013 Post Faceless Content ($125-$175/mo)",
-    "url": "https://www.reddit.com/r/slavelabour/comments/1svvu9w/task_tiktok_virtual_assistants_post_faceless/",
-    "summary": "\ud83d\udea8 We\u2019re Hiring: Easy Daily Tasks on TikTok (iOS Only) \ud83d\udea8 We just launched a new project and are looking for Virtual Assistants to help run faceless TikTok & IG accounts. If you\u2019re looking for something simple, quick, and consistent \u2014 this is it. \ud83d\udcf1 What You\u2019ll Actually Do: \u2022 Complete quick daily posting tasks (content provided) \u2022 Do light engagement (likes, follows, etc.) \u2022 That\u2019s it \u2014 no editing, no experience needed We use the Ghost App on the App Store to manage everything. \ud83d\udcb0 Pay: \u2022 $125\u2013$175/m",
-    "published_at": "1777172616.0"
-  },
-  {
-    "total": 11,
-    "ease": 2,
-    "payment_probability": 8,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $15",
-      "payment signals: $, hiring",
-      "buyer signals: [hiring], hiring"
-    ],
-    "source": "reddit/r/forhire",
-    "title": "[Hiring] Instagram Posters",
-    "url": "https://www.reddit.com/r/forhire/comments/1svzcc4/hiring_instagram_posters/",
-    "summary": "\\[HIRING\\] Instagram Content Creators (Reposting Viral Edits) \u2013 $15/hour + bonuses We\u2019re looking for people to run and scale Instagram pages by reposting proven viral content. This is not traditional content creation \u2014 you\u2019ll be using edits that already perform well and optimizing them for our system. Pay starts at $15/hour base, with additional bonuses based on performance. What you\u2019ll be doing: \u2022 Finding viral edits on TikTok (looksmaxxing / beauty niche) \u2022 Downloading and reposting them on In",
-    "published_at": "1777183500.0"
-  },
-  {
-    "total": 11,
-    "ease": 2,
-    "payment_probability": 8,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $125",
-      "payment signals: $, hiring",
-      "buyer signals: [task], hiring"
-    ],
-    "source": "reddit/r/DoneDirtCheap",
-    "title": "[Task]: Tiktok Virtual Assistants \u2013 Post Faceless Content ($125-$175/mo)",
-    "url": "https://www.reddit.com/r/DoneDirtCheap/comments/1svw3w6/task_tiktok_virtual_assistants_post_faceless/",
-    "summary": "\ud83d\udea8 We\u2019re Hiring: Easy Daily Tasks on TikTok (iOS Only) \ud83d\udea8 We just launched a new project and are looking for Virtual Assistants to help run faceless TikTok & IG accounts. If you\u2019re looking for something simple, quick, and consistent \u2014 this is it. \ud83d\udcf1 What You\u2019ll Actually Do: \u2022 Complete quick daily posting tasks (content provided) \u2022 Do light engagement (likes, follows, etc.) \u2022 That\u2019s it \u2014 no editing, no experience needed We use the Ghost App on the App Store to manage everything. \ud83d\udcb0 Pay: \u2022 $125\u2013$175/m",
-    "published_at": "1777173411.0"
-  },
-  {
-    "total": 11,
-    "ease": 2,
-    "payment_probability": 8,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $40",
-      "payment signals: $, hiring",
-      "buyer signals: [hiring], hiring"
-    ],
-    "source": "reddit/r/hireawriter",
-    "title": "[Hiring] I need a writer that write mafia stories most have experienced in wattpad",
-    "url": "https://www.reddit.com/r/HireaWriter/comments/1su1xoa/hiring_i_need_a_writer_that_write_mafia_stories/",
-    "summary": "Hi' I'm looking for a writer who specializes in mafia stories and had proven experience writing for wattpad. if you work on wattpad story before .show me a sample of your work. you most have experience. fantasy/Fiction dark romance. Pay rate $40 per page. I need a writer Immediately Short notice: you must have experienced in wattpad Style story Especially in mafia style stories with that type of genre. Must show proof of a sample",
-    "published_at": "1776995005.0"
-  },
-  {
-    "total": 11,
-    "ease": 2,
-    "payment_probability": 8,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $40",
-      "payment signals: $, hiring",
-      "buyer signals: [hiring], hiring"
-    ],
-    "source": "reddit/r/hireawriter",
-    "title": "[Hiring] Looking for experience writers mafia stories writer",
-    "url": "https://www.reddit.com/r/HireaWriter/comments/1st3tpg/hiring_looking_for_experience_writers_mafia/",
-    "summary": "Looking for experience writers. Must have experienced writing mafia stories. Send me a sample of your work. drak romance and fantasy. Can you guys show me the wattpad story samples too I need a writer to write a mafia story for me. Be epic. the pay is $40 per page.( NEED A WRITER IMMEDIATELY) show me a sample of your mafia story.",
-    "published_at": "1776905616.0"
-  },
-  {
-    "total": 11,
-    "ease": 2,
-    "payment_probability": 8,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $150",
-      "payment signals: $, hiring",
-      "buyer signals: [hiring], hiring"
-    ],
-    "source": "reddit/r/DesignJobs",
-    "title": "[Hiring] Custom Boat Decal Design \u2013 \u201cThe Remedy\u201d (Puscifer / Maynard Homage) \u2013 $150-200",
-    "url": "https://www.reddit.com/r/DesignJobs/comments/1svslu4/hiring_custom_boat_decal_design_the_remedy/",
-    "summary": "We\u2019re big Maynard fans, and bought a boat. Had chat write up what we\u2019re looking for to help you help me. Let your creativity guide you. I\u2019ll upload in comments some albums for inspiration and a few boat pics. Spiral out \ud83c\udf00\ud83c\udf00 Project: Professional vector files (.AI / .SVG) for marine vinyl cutting. Text: \\- \u201cThe Remedy\u201d \\- Smaller \u201cThe\u201d positioned above a much bolder \u201cREMEDY\u201d Style & Vibe: \\- Strong homage to Puscifer (especially \u201cThe Remedy\u201d from Money Shot) with APC / Tool influences. \\- Hybrid t",
-    "published_at": "1777163237.0"
-  },
-  {
-    "total": 11,
-    "ease": 2,
-    "payment_probability": 8,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $20",
-      "payment signals: $, hiring",
-      "buyer signals: [hiring], hiring"
-    ],
-    "source": "reddit/r/DesignJobs",
-    "title": "[Hiring] Desginer/Artist for Custom Movie Steelbooks",
-    "url": "https://www.reddit.com/r/DesignJobs/comments/1suvmi3/hiring_desginerartist_for_custom_movie_steelbooks/",
-    "summary": "I'm looking for a designer/artist to make some cover art for some custom movie steelbooks. I have a massive movie collection that I would like redone/upgraded into Steelbooks. The issue? Not every movie has a steelbook, so i need custom ones. So I'm looking to pay anywhere from $20-$75 per desgin, depwnding on complex the design may be. Some will simple, some will be more challenging. I had one that did good work for me, but recently has had some personal life issues & has stepped away. Also an ",
-    "published_at": "1777073016.0"
-  },
-  {
-    "total": 11,
-    "ease": 2,
-    "payment_probability": 8,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $50",
-      "payment signals: $, hiring",
-      "buyer signals: [hiring], hiring"
-    ],
-    "source": "reddit/r/DesignJobs",
-    "title": "[Hiring] Thumbnail designer for horror content",
-    "url": "https://www.reddit.com/r/DesignJobs/comments/1sugjkp/hiring_thumbnail_designer_for_horror_content/",
-    "summary": "Hiya, I'd like someone who can design thumbnails for horror content. I want someone who knows how to get high CTR and has created similar content in the past. Very similar style to [https://www.youtube.com/@farrellmcguire/videos](https://www.youtube.com/@farrellmcguire/videos) $50 per thumbnail Please message with your portfolio too! thank you",
-    "published_at": "1777039100.0"
-  },
-  {
-    "total": 11,
-    "ease": 4,
-    "payment_probability": 6,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: caption",
-      "visible budget: $10",
-      "payment signals: $",
-      "buyer signals: [task]"
-    ],
-    "source": "reddit/r/slavelabour",
-    "title": "[Task] Simple edits to a short video",
-    "url": "https://www.reddit.com/r/slavelabour/comments/1svqqy1/task_simple_edits_to_a_short_video/",
-    "summary": "I have about 22 minutes of footage I recorded for a podcast me and some others did. I\u2019m paying $10 for someone to get the clips together and add captions as well. And enhance the audio if any parts are low. It\u2019s a simple editing job I just dont have time to do it. All you have to do is put the clips together, cut out the parts that clearly need to be cut out, and add subtitles. Also add some images/short clips to pop up on screen for the topics we are speaking about. The video has to end up bein",
-    "published_at": "1777158196.0"
-  },
-  {
-    "total": 11,
-    "ease": 4,
-    "payment_probability": 6,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: linkedin",
-      "payment signals: commission, hiring",
-      "buyer signals: [hiring], hiring"
-    ],
-    "source": "reddit/r/DoneDirtCheap",
-    "title": "[HIRING] Commission-Based Client Finders / Lead Generators (Automation, Data, App Dev)",
-    "url": "https://www.reddit.com/r/DoneDirtCheap/comments/1svgk5t/hiring_commissionbased_client_finders_lead/",
-    "summary": "I\u2019m looking for motivated individuals who can help bring in clients for tech services. This is a commission-based role, ideal if you have experience in outreach, sales, freelancing platforms, or just know how to find opportunities. What we offer services in: \\- Automation (n8n, Zapier, workflow integrations) \\- Data Engineering & Analysis (pipelines, dashboards, ETL) \\- Custom App Development (web, mobile, desktop) Your role: \\- Find and connect with potential clients (Reddit, LinkedIn, cold out",
-    "published_at": "1777134088.0"
-  },
-  {
-    "total": 11,
-    "ease": 2,
-    "payment_probability": 6,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: logo",
-      "hard keywords: machine learning",
-      "payment signals: hire, hiring",
-      "buyer signals: [hiring], hiring",
-      "repeatable: logo"
-    ],
-    "source": "reddit/r/forhire",
-    "title": "[Hiring] Computer Vision / Machine Learning developer",
-    "url": "https://www.reddit.com/r/forhire/comments/1sw48pn/hiring_computer_vision_machine_learning_developer/",
-    "summary": "I\u2019m looking to hire a computer vision / ML developer to build an AI pipeline for a sports card scanning app. I want the system to feel \u201clike magic\u201d to the end user \u2014 similar in concept to Cardsight.ai, but focused on my niche and with detailed parallel identification too. The system needs to: \\- detect cards in user-uploaded images \\- crop/deskew/perspective-correct them \\- identify the card and card number from known checklists \\- classify the set and parallel type, e.g. Chrome, Sapphire, Logof",
-    "published_at": "1777200328.0"
   },
   {
     "total": 11,
@@ -476,244 +53,6 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2pZTHg3VEplTF9KY2UwWXhuaHozQXdOcFQtUlFYY1N2dTFrbGNuVi1SODFta3lnbW10VlNhWWVKZm5hU1drVFNSQ1B2SGYyS3dCMS1ld0dWdWlQeE54V1pGNHJLTWlkZVNHU2twUkxVdml3NGJhN2ZnUGNEUldZcWloWVhJYUNEb2hLbzUyN1VFbFJzRmtRZ2c4cDZBV1hSRzFpakVfcWNIeU42UVNZOVpwazNocTFzTkxpaQ?oc=5",
     "summary": "23 Skills To List On Your Resume For In-Demand Jobs That Pay $140,000+ Forbes",
     "published_at": "Fri, 31 Oct 2025 07:00:00 GMT"
-  },
-  {
-    "total": 11,
-    "ease": 6,
-    "payment_probability": 2,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: banner, logo",
-      "payment signals: freelance",
-      "repeatable: logo"
-    ],
-    "source": "reddit/r/slavelabour",
-    "title": "[offer] Graphic Designer: Logos, Ads, Posters, Flyers, Social Media Posts and Photo Editing!",
-    "url": "https://www.reddit.com/r/slavelabour/comments/1svcm0p/offer_graphic_designer_logos_ads_posters_flyers/",
-    "summary": "Hi everyone! ABOUT ME I'm Jos\u00e9, a freelance Graphic Designer. I have worked with small and medium sized companies both as a freelancer and for long term work. You can count on me for getting the design you want as I can work with different styles and techniques! SERVICES OFFERED Business-related designs (logos, flyers, business cards, menus, etc) Edit/retouch/color/restore photos Edit casual pictures Ads, banners, posters Logo design Posts, stories, highlights Illustration And more, let me know ",
-    "published_at": "1777124674.0"
-  },
-  {
-    "total": 10,
-    "ease": 2,
-    "payment_probability": 8,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "payment signals: $, hiring, paid",
-      "buyer signals: [hiring], hiring",
-      "repeatable: weekly",
-      "risk keywords: crypto"
-    ],
-    "source": "reddit/r/forhire",
-    "title": "[Hiring] If you have discord then you will easily earn 10$(1000\u20b9)/per-day by just posting and commenting on reddit simple copy paste skills Join discord server \ud83d\udd87\ufe0f in my biyo",
-    "url": "https://www.reddit.com/r/forhire/comments/1sw82gm/hiring_if_you_have_discord_then_you_will_easily/",
-    "summary": "Simple Reddit-based side work (1\u20132 hrs/day) Body: I\u2019m looking for a few people who already use Reddit and want to earn a bit on the side. What you\u2019ll do: \u2022 Posting and commenting on Reddit \u2022 Basic copy-paste tasks \u2022 1\u20132 hours daily Requirements: \u2022 Active Reddit account \u2022 Phone or laptop \u2022 Able to follow instructions properly Payment: Paid weekly (UPI / PayPal / Crypto) If you\u2019re interested, just comment below",
-    "published_at": "1777211406.0"
-  },
-  {
-    "total": 10,
-    "ease": 2,
-    "payment_probability": 7,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $15",
-      "payment signals: $",
-      "buyer signals: [task], need someone"
-    ],
-    "source": "reddit/r/slavelabour",
-    "title": "[Task] need someone for a simple video edit $15",
-    "url": "https://www.reddit.com/r/slavelabour/comments/1swesjv/task_need_someone_for_a_simple_video_edit_15/",
-    "summary": "As the tittle says, I need someone for a simple video edit for my project. I have few videos, few pictures, it all needs to be tied into one video. Let me know if anyone has time today. I really appreciate any help :). The project is about the sport of bocce so you might need to do a little bit of research, but it\u2019s nothing too deep. Just a simple project that highlights the tradition of the sport in my town. I look forward to hearing back from all of you. We will be in touch over the flow and t",
-    "published_at": "1777226721.0"
-  },
-  {
-    "total": 10,
-    "ease": 2,
-    "payment_probability": 7,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $40",
-      "payment signals: $",
-      "buyer signals: [task], looking for someone"
-    ],
-    "source": "reddit/r/slavelabour",
-    "title": "[TASK] Cold outreach for web design agency \u2013 $40",
-    "url": "https://www.reddit.com/r/slavelabour/comments/1sw8v28/task_cold_outreach_for_web_design_agency_40/",
-    "summary": "Looking for someone to do cold outreach (email or DM) to small business owners to generate leads for web design and UX services. What you'll do: * Find small businesses with weak or outdated websites * Send outreach messages * Pass interested leads to me to close Requirements: * Experience with cold outreach or lead gen * Good written English * Self-motivated, able to work independently Comment $bid and DM me with your experience.",
-    "published_at": "1777213351.0"
-  },
-  {
-    "total": 10,
-    "ease": 2,
-    "payment_probability": 7,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $10",
-      "payment signals: $, usd",
-      "buyer signals: [task]"
-    ],
-    "source": "reddit/r/slavelabour",
-    "title": "[Task] Edit Under 1 Minute Video - MMA Fight Highlight ($10 USD PayPal)",
-    "url": "https://www.reddit.com/r/slavelabour/comments/1sw1j02/task_edit_under_1_minute_video_mma_fight/",
-    "summary": "A friend of mine had an MMA fight last night and I will provide you video of the fight. I want you to edit it into a one minute or less dynamic and exciting video with a bit of visual overlay. Not overly produced but something cool. **Please only bid if you have sports highlight editing experience and can do the work within the hour.** Please share an example video of a sports highlight you edited instead of a full portfolio. Payment after delivery. PayPal only. Thanks!",
-    "published_at": "1777190813.0"
-  },
-  {
-    "total": 10,
-    "ease": 2,
-    "payment_probability": 7,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $10",
-      "payment signals: $, usd",
-      "buyer signals: [task]"
-    ],
-    "source": "reddit/r/slavelabour",
-    "title": "[task] oking for multiple TikTok creators \u2014 $10 per video, instant payment",
-    "url": "https://www.reddit.com/r/slavelabour/comments/1svknkv/task_oking_for_multiple_tiktok_creators_10_per/",
-    "summary": "**The task:** Visit [liquidationdomains.com](http://liquidationdomains.com/), pick a domain that inspires you, record a 30-60 second video about what business or website you'd build with it. Completely your own words, your own style \u2014 no script, no corporate feel. You can do it faceless or ai voice. **Requirements:** * TikTok with at least some activity (doesn't need to be huge) * Post publicly and send me the link * Video must stay up for at least 7 days **Pay:** * $10 Paypal or USDT TRC20 per ",
-    "published_at": "1777143517.0"
-  },
-  {
-    "total": 10,
-    "ease": 2,
-    "payment_probability": 7,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $200",
-      "payment signals: $",
-      "buyer signals: [task], looking for someone"
-    ],
-    "source": "reddit/r/slavelabour",
-    "title": "[TASK] Looking for someone with a specific type of drawing skills: One point, Second point, and Third point drawing. $200 - 300.",
-    "url": "https://www.reddit.com/r/slavelabour/comments/1svhnfb/task_looking_for_someone_with_a_specific_type_of/",
-    "summary": "Hello, as the title says - I'm looking for someone with those drawing skills. You need to have extensive experience with that drawing method. I am looking to work with someone to create content using that drawing method. If you apply, you must have good experience with said drawing type. You must have an extensive portfolio available. If you don't have experience with this type of drawing form, do not apply. If you don't have a portfolio with this drawing form, do not apply. I am looking for som",
-    "published_at": "1777136618.0"
-  },
-  {
-    "total": 10,
-    "ease": 2,
-    "payment_probability": 7,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "payment signals: $, hiring, paid",
-      "buyer signals: [task], hiring"
-    ],
-    "source": "reddit/r/slavelabour",
-    "title": "[task] \ud83d\ude80 Hiring: Digital Marketing Intern (Remote, AI Startup, Paid)",
-    "url": "https://www.reddit.com/r/slavelabour/comments/1svferh/task_hiring_digital_marketing_intern_remote_ai/",
-    "summary": "We at **Neo Cortex**, are B2C apps for content creators and AI power users (10K+ users globally, aiming for 100K soon). Looking for **3 interns** who want real hands-on growth, not busy work. # What you\u2019ll actually do: * Run and grow Reddit, Instagram, and content channels * Write + experiment with SEO / programmatic content * Try out growth ideas (funnels, outreach, distribution) * Work directly on scaling a live product # What you\u2019ll get: * 100$/month + performance bonuses * Free access to 20+",
-    "published_at": "1777131415.0"
-  },
-  {
-    "total": 10,
-    "ease": 2,
-    "payment_probability": 7,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $40",
-      "payment signals: $",
-      "buyer signals: [task], looking for someone"
-    ],
-    "source": "reddit/r/DoneDirtCheap",
-    "title": "[TASK] Cold outreach for web design agency \u2013 $40",
-    "url": "https://www.reddit.com/r/DoneDirtCheap/comments/1sw9kdf/task_cold_outreach_for_web_design_agency_40/",
-    "summary": "[](https://www.reddit.com/r/slavelabour/?f=flair_name%3A%22Task%22)Looking for someone to do cold outreach (email or DM) to small business owners to generate leads for web design and UX services. What you'll do: * Find small businesses with weak or outdated websites * Send outreach messages * Pass interested leads to me to close Requirements: * Experience with cold outreach or lead gen * Good written English * Self-motivated, able to work independently Comment or DM me with your experience.",
-    "published_at": "1777215015.0"
-  },
-  {
-    "total": 10,
-    "ease": 2,
-    "payment_probability": 7,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $50",
-      "payment signals: $, paid",
-      "buyer signals: [task]"
-    ],
-    "source": "reddit/r/DoneDirtCheap",
-    "title": "[TASK] Earn $50-$150 per client you get me",
-    "url": "https://www.reddit.com/r/DoneDirtCheap/comments/1svgx6q/task_earn_50150_per_client_you_get_me/",
-    "summary": "Looking for people who can reach out to brand owners and business owners in the U.S., Canada, EU, and U.K. What we offer services in: \\- Automation (n8n, Zapier, workflow integrations) \\- Data Engineering & Analysis (pipelines, dashboards, ETL) \\- Custom App Development (web, mobile, desktop) For every client you bring, you\u2019ll earn $50\u2013$150 depending on the type of website they need. No limits\u2014just bring clients and get paid. DM or comment if you\u2019re interested.",
-    "published_at": "1777134914.0"
-  },
-  {
-    "total": 10,
-    "ease": 2,
-    "payment_probability": 7,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $50",
-      "payment signals: $, paid",
-      "buyer signals: [task]"
-    ],
-    "source": "reddit/r/DoneDirtCheap",
-    "title": "[TASK] Earn $50-$200 per client you get me",
-    "url": "https://www.reddit.com/r/DoneDirtCheap/comments/1svf9f0/task_earn_50200_per_client_you_get_me/",
-    "summary": "Looking for people who can reach out to brand owners and business owners whatever the country. We offer website services, SEO, email marketing and ads management. For every client you bring in, you\u2019ll earn $50\u2013$200 depending on the type of website they need. No limits\u2014just bring clients and get paid. DM directly if you\u2019re interested.",
-    "published_at": "1777131062.0"
-  },
-  {
-    "total": 10,
-    "ease": 2,
-    "payment_probability": 7,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $50",
-      "payment signals: $, paid",
-      "buyer signals: [task]"
-    ],
-    "source": "reddit/r/DoneDirtCheap",
-    "title": "[TASK] Earn $50-$80 for every client you get me",
-    "url": "https://www.reddit.com/r/DoneDirtCheap/comments/1sv2vkt/task_earn_5080_for_every_client_you_get_me/",
-    "summary": "Looking for people who can reach out to brand owners and business owners in the U.S., Canada, EU, Middle East and U.K. I offer embedded systems consultancy services, firmware development, etc. and I need help finding clients. For every client you bring in, you\u2019ll earn $50\u2013$80 depending on the type of project they need. No limits, just bring clients and get paid. DM or comment if you\u2019re interested.",
-    "published_at": "1777093546.0"
-  },
-  {
-    "total": 10,
-    "ease": 2,
-    "payment_probability": 7,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $25",
-      "payment signals: $, hire",
-      "buyer signals: looking for someone"
-    ],
-    "source": "reddit/r/hireawriter",
-    "title": "Fantasy writer will ghost write your story for you ($25 per page)",
-    "url": "https://www.reddit.com/r/HireaWriter/comments/1su4mwh/fantasy_writer_will_ghost_write_your_story_for/",
-    "summary": "Hello, I am a fantasy writer who is looking for someone to hire them. I also write a bit of science fiction but my main focus is fantasy. My focus is high fantasy, urban fantasy or magical realism. If you're looking for someone to write the fantasy or science fiction story you have in your head but can't properly put to page then I will be overjoyed to help. I have one book published, The Department of Adventuring: Into the Deep, and have written a few short stories. I've also finished but haven",
-    "published_at": "1777002566.0"
-  },
-  {
-    "total": 10,
-    "ease": 4,
-    "payment_probability": 5,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: spreadsheet",
-      "payment signals: budget",
-      "buyer signals: [task], looking for someone, need someone"
-    ],
-    "source": "reddit/r/slavelabour",
-    "title": "[Task] Excel Spreadsheet Creation",
-    "url": "https://www.reddit.com/r/slavelabour/comments/1sw43gi/task_excel_spreadsheet_creation/",
-    "summary": "Hello, I am looking for someone who is highly proficient in working with Microsoft Excel and has experience creating clean, organized, and functional spreadsheet systems. The task is to create a budget-oriented Excel spreadsheet that is both visually polished and highly practical. I have already put together the general look and basic structure of the spreadsheet, but I need someone who can refine it, improve the overall presentation, and make it look more professional and polished. In addition ",
-    "published_at": "1777199838.0"
   },
   {
     "total": 10,
@@ -755,22 +94,6 @@
     "repeatability": 3,
     "risk": 0,
     "reasons": [
-      "easy keywords: article, blog",
-      "repeatable: article"
-    ],
-    "source": "reddit/r/hireawriter",
-    "title": "Get More Local Customers through My Local SEO Writing",
-    "url": "https://www.reddit.com/r/HireaWriter/comments/1sswgzb/get_more_local_customers_through_my_local_seo/",
-    "summary": "If you already have a website, you\u2019re off to a great start. Just that your blog should sound like it was written by someone who has set foot in your region. You don\u2019t have to leave money on the table. Local customers want to work with experts who speak their language\u2014literally. I specialize in writing high-performance blogs specifically for small businesses. I don\u2019t more than write articles. I pair up your technical expertise and the way your local customers actually search for your services to ",
-    "published_at": "1776887946.0"
-  },
-  {
-    "total": 10,
-    "ease": 6,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
       "easy keywords: blog, canva",
       "repeatable: template"
     ],
@@ -779,22 +102,6 @@
     "url": "https://www.ogimageapi.io",
     "summary": "Hey HN! I built this because I was tired of manually creating OG images for every blog post and side project. How it works: - Send a POST request with JSON (title, subtitle, template, etc.) - Get back a PNG in ~50-100ms - No Puppeteer, no browser automation \u2014 uses node-canvas for fast server-side rendering Live demo on the homepage (no signup needed). Free tier includes 10 images/month. I'm launching on Product Hunt today too, but honestly HN feedback is what I care about most. Would love to hea",
     "published_at": "2025-12-11T18:47:55Z"
-  },
-  {
-    "total": 10,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 5,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume, template"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "ResumeTemplates.com Survey: 3 in 5 Business Leaders Back Microsoft's Warning That AI Will Replace Most White-Collar Work Within 18 Months - Eastern Progress",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORmY0V0JEYi1vMGwxelNQY0hyMnUtNGdfM3VGOXZtZ1BpdmREeC1Cb0RCcDZaaENuLUxiLTA2YzlZbkhMLUJraFBxT1pBcXJVaTgzejhiVXk5ZlFTZUJ2LTlvWTl0X252UE5Sc1JMVXZSNF8tZ0U5YlYyY3FiTnRmYk4tLTVWTmhmM2s1TVc2SUpnemV5R0RlcGNDelFCWWlFU2lWR1UwMjRLdE1OMFZNSW5qNmc1Y1M2eEFhSzJZeEJLVWpodERYUm1YdTF0TGlQZThpbG5DMmVqNUxkdHMwX1JoZzQ4RWNLRVZBai12SFZ5c1U3UlhHakNkQzRNOWp4cThaWnptM1o?oc=5",
-    "summary": "ResumeTemplates.com Survey: 3 in 5 Business Leaders Back Microsoft's Warning That AI Will Replace Most White-Collar Work Within 18 Months Eastern Progress",
-    "published_at": "Thu, 05 Mar 2026 08:00:00 GMT"
   },
   {
     "total": 10,
@@ -846,19 +153,647 @@
   },
   {
     "total": 9,
+    "ease": 4,
+    "payment_probability": 2,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: thread",
+      "payment signals: contract",
+      "repeatable: thread"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: I built a personal corporation of AI agents that runs on your PC",
+    "url": "https://github.com/re-marked/claude-corp",
+    "summary": "Claude Corp is a daemon that runs and orchestrates an autonomous personal corporation of AI agents on your machine. OpenClaw agents form a social hierarchy, and everybody knows who they listen and report to. Agents can discuss stuff in channels, by @mentioning each other or using threads. Agents can create Tasks and Contracts, where Tasks are persistent tasks stored as file, and Contracts are a bundle of tasks, with a shared goal. When all tasks in a contract are done, the Contract is marked as ",
+    "published_at": "2026-04-08T16:20:32Z"
+  },
+  {
+    "total": 8,
     "ease": 2,
-    "payment_probability": 6,
+    "payment_probability": 5,
     "repeatability": 1,
     "risk": 0,
     "reasons": [
-      "visible budget: $5",
-      "payment signals: $",
-      "buyer signals: [task]"
+      "visible budget: $30",
+      "payment signals: $, freelance"
     ],
-    "source": "reddit/r/slavelabour",
-    "title": "[task] Need 3 online guests to watch a speech. 20 minutes of your time for $5",
-    "url": "https://www.reddit.com/r/slavelabour/comments/1svo88p/task_need_3_online_guests_to_watch_a_speech_20/",
-    "summary": "Payment only Via Zelle . Don\u2019t bother reading if u can\u2019t take it. Need 3 people to be guests for a speech i\u2019m presenting, this is for a public speaking program im doing. The speech will only be 5 mins and you will likely be done before the 20 mins. Only asking for 20 in case I badly mess up and need to restart OR people are late. Speech will be presenting on Google Meets. This will be recorded and shared to a professor. This will not be publicly uploaded anywhere though. Requirements: Have good ",
-    "published_at": "1777151815.0"
+    "source": "hn/need a freelancer",
+    "title": "Show HN: SignForge \u2013 Free e-signature tool, no account needed to sign",
+    "url": "https://signforge.io",
+    "summary": "Hey HN, I built SignForge as a free alternative to DocuSign/PandaDoc for freelancers and small businesses who just need to get documents signed without the $30/month tax. How it works: Upload a PDF \u2192 drag signature/date/text fields onto it \u2192 send to signer via email \u2192 they sign with a link (no account needed) \u2192 you get the signed PDF with a full audit trail and verification certificate. Tech stack: Next.js + FastAPI + PostgreSQL + PyMuPDF. PDFs are stamped server-side (image overlay, not AcroFor",
+    "published_at": "2026-02-26T08:34:29Z"
+  },
+  {
+    "total": 8,
+    "ease": 2,
+    "payment_probability": 5,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "visible budget: $10",
+      "payment signals: $, paid"
+    ],
+    "source": "hn/launching side project",
+    "title": "Show HN: Ogmap \u2013 A low-cost vector map tiles API",
+    "url": "https://ogmap.com/",
+    "summary": "Hey everyone I\u2019ve been hacking on a project \u2192 [OGMAP]( https://ogmap.com ). It\u2019s a *vector tiles API (PBF)* with simple prepaid pricing: - $10 = 1,000,000 tiles - 250k free on sign-up - Auto-buy with Stripe, with safety limits - Served worldwide via Cloudflare CDN We don\u2019t try to compete with Mapbox feature-wise. It\u2019s literally just fast, low-cost tiles + some basic styles for MapLibre. Why I built it: I wanted to start a web project and realized if it got even a bit popular (before monetization",
+    "published_at": "2025-09-03T18:31:05Z"
+  },
+  {
+    "total": 8,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "payment signals: budget, freelance",
+      "repeatable: weekly"
+    ],
+    "source": "hn/need a freelancer",
+    "title": "Show HN: Crow's Nest \u2013 a weekly planner and budget tracker for Harvest users",
+    "url": "https://mycrowsnest.app",
+    "summary": "I've been a freelance developer for years and always struggled with planning my weeks and tracking project budgets. I use Harvest for time tracking, but it doesn't give me a weekly view or budget visibility until it's too late. So I built Crow's Nest \u2013 a work week planner and budget visibility layer that sits on top of Harvest. It pulls your time entries and shows you: - Your week laid out by project and capacity (before Monday hits) - Real-time budget progress for each project - The gap between",
+    "published_at": "2026-03-06T13:53:49Z"
+  },
+  {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: prompt",
+      "repeatable: prompts"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: TogetherLetters \u2013 Group newsletters with no app, no feed, no login",
+    "url": "https://www.togetherletters.com",
+    "summary": "Hey all, we're reposting from our previous Show HN about 5 years ago: https://news.ycombinator.com/item?id=28644205 Since then we've grown to more than 5k users across nearly 1k groups and have sent out more than 100k update prompts. The premise is simple - social media stinks and you either don't see updates from people you care about (they never post) or you miss the updates (flooded by other people's updates or an algorithm that downplays an update you'd care about even if it's seemingly unim",
+    "published_at": "2026-04-21T16:13:54Z"
+  },
+  {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: prompt",
+      "repeatable: pack"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: SafeInstall \u2013 local install-time guardrails for NPM/pnpm/bun",
+    "url": "https://www.safeinstall.dev/",
+    "summary": "Hey HN \u2014 after the Axios attack I went looking for something that could help against this kind of install-time risk. I didn\u2019t find a tool that did what I wanted, so I built one. SafeInstall is a local CLI for npm, pnpm, and bun. It checks policy before the package manager runs. Especially now, when tons of people are building with AIs like Cursor and Claude and either give them full rights or just hit enter on every prompt, I thought it was important to build a guardrail before the install happe",
+    "published_at": "2026-04-14T12:28:40Z"
+  },
+  {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: logo",
+      "repeatable: logo"
+    ],
+    "source": "hn/launching side project",
+    "title": "Show HN: Super Launch \u2013 A platform for you to get discovered and grow traffic",
+    "url": "https://super-launch.app",
+    "summary": "I've been launching side projects for a while and realized that after the initial Product Hunt spike, there's not many places to get consistent visibility. So I built Super Launch \u2014 a curated directory where indie developers can list their startups and keep getting discovered. Here's what it offers: Submit your product and reach thousands of potential users looking for new tools AI-powered submission \u2014 auto-fill your listing with generated copy, logos, and screenshots Friend links \u2014 build recipr",
+    "published_at": "2026-02-20T22:44:39Z"
+  },
+  {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: article",
+      "repeatable: article"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: PanicLock \u2013 Close your MacBook lid disable TouchID \u2013> password unlock",
+    "url": "https://github.com/paniclock/paniclock/",
+    "summary": "I wrote this after the case of a Washington Post reporter, Hannah Natanson, was compelled to unlock her computer with her fingerprint. This resulted in access to her Desktop Signal on her computer, revealing sources and their conversations. https://www.yahoo.com/news/articles/washington-post-raid-pro... Edit: I've a lot more details about the legality and precedence on the apps landing page https://paniclock.github.io/",
+    "published_at": "2026-04-17T16:38:44Z"
+  },
+  {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "UIX Labs Highlights Pika AI Resume Tool Targeting HR Tech Demand - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0pQNWViSEpHSkhkZ1FKRHNiWFA0bEFDMWVMSWh5SWk3WDRWUG0zZ05helpNS0xVV0l5QWVmM1lOVUVMNF80NVlwUElPak5mQ1NmeFplRmpmWGRtTEQ2bUVUN25VQVhZN01Ba1AyWlZNZVpDeEx3VFZYWWxYckE4WlpQTDBCOWpmUEdiUGxiOFlpZk8yakUxeXF3TGN4YTNMczZtdEoyX204djBvRDRZLTFR?oc=5",
+    "summary": "UIX Labs Highlights Pika AI Resume Tool Targeting HR Tech Demand TipRanks",
+    "published_at": "Tue, 14 Apr 2026 07:00:00 GMT"
+  },
+  {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "10 Essential Teacher Resume Skills to Include for 2024 - Prodigy",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04WFZxNWlVT19XaUE5b3lxcEwybk40NGYtREl3eS1PaEVtNEVNRGxEMlRfVHNJMkdVM3lLcFE0TVRLVnhrWnBSdi1tQ2ZLNmtuakVObnE2cVVQektSNUJ6OTNtQ2c3SVE1U0t5WmVWQQ?oc=5",
+    "summary": "10 Essential Teacher Resume Skills to Include for 2024 Prodigy",
+    "published_at": "Wed, 15 Nov 2023 08:00:00 GMT"
+  },
+  {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "17 Best Resume Skills to Land Your Dream Job in 2025 - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rbjhLMHhGOFZmV3N3UE5DQ09PYTR2bkFPekx4TThHcFZZaHI2N3o3Z3ZwcnZoYkd1UkV0a1lOSVJKcVVPakprVnN0bDloZm42SkFqWFRfZlhCWjQ?oc=5",
+    "summary": "17 Best Resume Skills to Land Your Dream Job in 2025 BetterUp",
+    "published_at": "Mon, 26 Dec 2022 15:06:24 GMT"
+  },
+  {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "17 AI Skills To Put On Your Resume In 2025 - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnBmWWhKLWpIZGFhNHFFMUlhR3pMd2thNlRJMDBqZTFubUVKMTlsdHFFVHdjUVpyYnBoTzNfMElNZGJxYUxrMDNvSFpCYVRPS0RWR2pXWjlnbGY5NzVzRktNakMtRnNqSnhxSlBMMHhCWlVvdVRMOHNLSWpFSXp6UDEySjRNd3ZIb0Npb1BWdnpNVkhLMG12WC1IYw?oc=5",
+    "summary": "17 AI Skills To Put On Your Resume In 2025 Forbes",
+    "published_at": "Fri, 11 Jul 2025 07:00:00 GMT"
+  },
+  {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Marketing Skills for Your Resume in 2024 + Examples - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yZ2xqMlhLVzBkemppOUdMX0ZRVGd0UjJMREdTZnpuNGp1U3l5alJJdVo5MTJpY2pqOTh6RHFPalEtOVZsV0V3UEN6d0pkeGlHWjRSYWRtQko0Zw?oc=5",
+    "summary": "Marketing Skills for Your Resume in 2024 + Examples BetterUp",
+    "published_at": "Fri, 22 Sep 2023 07:00:00 GMT"
+  },
+  {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "What Are Hard Skills? 45 Examples For Your Resume - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMHJreEhwRFdWQmszbDJuQzNUOVVtNDNSTW9MWHhFc3NFUzFqU1dKcm5vVkhsRi0zMTdNRE9mZ3dnLS1aV0F6U0pEWGFoY2k0QjRN?oc=5",
+    "summary": "What Are Hard Skills? 45 Examples For Your Resume BetterUp",
+    "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
+  },
+  {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
+    "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
+    "published_at": "Thu, 23 Jan 2025 08:00:00 GMT"
+  },
+  {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Transferable Skills: 17 Examples to Boost Your Resume & Career - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
+    "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
+    "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
+  },
+  {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOZXJ2UGNHVzhVenEyUzVfVVdZSVZVV2VzS0FkQ0ZaY0FWOV9yMzhVaG1ucGpsTGl4S0tXTWw2T05xdk9WQ05BeFE0MnNvaDNRWW1IRHczazhra0VpaTBxdVhmR25pMGhGYlpDdFk0cUpZTGNsMXfSAXtBVV95cUxQM2FTQ0lNOF9WVW84bkdGM21zUk0zc08tV3VVcTk1bWIwUmk5OTBhX2ZlZm5SU3pkcmRfa0h2OXR0RkhTQTRKWF9xNEpXdzFIM3hKQzhRSDctQ1o2dkJqTEpTTUxlQk94dF83NTZmVTRrNEJJUFhRZjZfNFU?oc=5",
+    "summary": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 CNBC",
+    "published_at": "Wed, 19 Oct 2022 07:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 2,
+    "payment_probability": 4,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "visible budget: $1",
+      "payment signals: $"
+    ],
+    "source": "hn/launching side project",
+    "title": "Show HN: Mumpix \u2013 Local-first AI infrastructure and $1B developer grant",
+    "url": "https://mumpixdb.com/mumpix-billion-program.html#claim",
+    "summary": "Hi HN, I\u2019m working on Mumpix, a local-first infrastructure stack for building AI systems that don\u2019t depend on centralized cloud platforms. The goal is to make AI memory, state, and infrastructure run anywhere: phones, browsers, desktops, servers, or edge devices. The stack currently has four layers: MumpixDB Structured hierarchical database designed for AI memory and application state. Examples of keys: memory^assistant^context memory^assistant^recent workflow^task^42^status Features: \u2022 hierarch",
+    "published_at": "2026-03-10T23:49:41Z"
+  },
+  {
+    "total": 7,
+    "ease": 2,
+    "payment_probability": 4,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "visible budget: $100",
+      "payment signals: $"
+    ],
+    "source": "hn/launching side project",
+    "title": "Show HN: A Visual No-Code Game Engine \u2013 50x Easier Than Unity",
+    "url": "https://play-maker.io",
+    "summary": "I've spent 30 years making games as both a hobby and profession, working with Unity, Unreal, GameMaker, RPG Maker, Ren'Py, Godot, and many others. A few years ago, I attended a game dev meetup and met dozens of people with incredible passion for making games \u2013 but they were struggling because they lacked technical knowledge. That's when I decided to build a tool that anyone could use to create games. I started developing this as a side project, eventually raised ~$100K through crowdfunding in Ko",
+    "published_at": "2025-10-23T09:47:53Z"
+  },
+  {
+    "total": 7,
+    "ease": 2,
+    "payment_probability": 4,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "payment signals: hiring",
+      "buyer signals: hiring"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Hiring managers name the top hard skills and soft skills for 2026 - HR Dive",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHNvWHM0OWxaLTByQW03YkVRLTAxYkc1azhVX3F1YzhFOXd2YWN3X1ljSzMtdjhNYnBOMjA1cTYzZ1ZRaEFyMmNSR01sNGZZMjZaYkpYWHFVUXp3RUdNdzk4ODc0MkJMZ1dzZkdsQ19ISHV3TDNjY2E1WXdHMHZGc2FYZUJ5ZEpBQ29SelBxbnRYb1dxdGs5WQ?oc=5",
+    "summary": "Hiring managers name the top hard skills and soft skills for 2026 HR Dive",
+    "published_at": "Mon, 08 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 2,
+    "payment_probability": 4,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "visible budget: $1",
+      "payment signals: $"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "20 Cheap Business Ideas Under $1K | Home Business Guide - Business.com",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Uc0s0RjVrOHdveDZubjRrQUx6dVFoMV9Zam1QNGtfT2hXeGRXN0FzUlVGUXk4UThzcHRrYzZCejBnZVhzQzdFX2ZUYjFDQ1J1VXlmSDJLa3UxZ3RMME1XTGFNSlhuQQ?oc=5",
+    "summary": "20 Cheap Business Ideas Under $1K | Home Business Guide Business.com",
+    "published_at": "Mon, 30 Mar 2026 07:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 2,
+    "payment_probability": 4,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "payment signals: hiring",
+      "buyer signals: hiring"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants - U.S. Chamber of Commerce",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVlaVDNkUVMtT1BtV0V4S0ZxZHYxTExOT29iWVFySzRzaEFoTzVoODFUZWh4TWxMLVVNNlk0bS10UksyOUxfOVJmejlyWW5wNU4wZlBCb3VuZkJhNzFzQ2lrM1dEdzZGSjhSRzJ0N2Q4UTdEcnBqSHZWX1UxTi1FLW5haGFBMnNaaFZJ?oc=5",
+    "summary": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants U.S. Chamber of Commerce",
+    "published_at": "Wed, 24 Jan 2024 08:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 2,
+    "payment_probability": 4,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "visible budget: $1,000",
+      "payment signals: $"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "25 Remote Small-Business Ideas You Can Start for Under $1,000 - inc.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTHNNckFxY0NScGZJbnBxMzhYdUhMcGIxVlBMQzBUbU1OdXBCalFZMkZDdENwdDJNa2c1ZUc1eHRoV2t2M09abGMzWi04TU1SYjVURUVZRFByczNhTFJ6Tk94enkzeUQtOG5mZThFdnA3bkJxSjVEOVJSX0JMNFZHMHhjYUI1ZEpZMWVqUXdMUkJhRGNvVFpIZm8wMDYwdk9ZbTFUYg?oc=5",
+    "summary": "25 Remote Small-Business Ideas You Can Start for Under $1,000 inc.com",
+    "published_at": "Sun, 27 Jul 2025 07:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 2,
+    "payment_probability": 4,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "payment signals: hiring",
+      "buyer signals: hiring"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) - Toronto Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZjaTJlSkJHazlaVmJESkppS0tMMGpzdXh1SFR2NTNpOE5mQkg0NUlQMnR4MlR0VWtmRlFTckVESUh1UGpGV1dVWjN5NmxnMkxLbkVSTk9fZ1pYWlJoUm1TTWxJQlM3X3FaalZ5RFpQaFdVRXQ0ZzExd0tmOG9vaExENkFzTG96Y1pDYVAzdVB0eWxIR2xfUnZRc1Z6NFlDV2pPQTVMSnFaQQ?oc=5",
+    "summary": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) Toronto Guardian",
+    "published_at": "Mon, 11 Aug 2025 06:36:02 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 2,
+    "payment_probability": 4,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "visible budget: $2.50",
+      "payment signals: $"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "'I pay them $2.50 per hour and they take a LOT off my plate': Inside the exploitative world of virtual assistants - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnVKSkpuSjJwbFQyLW94bEVCeGFjLVJLWERLQ29wWktVMWMwOERZSjR3N0ZKNVJ3WHV4NkZvYy1Ia2ZqS21RS2hsS3AyclNyZVU1ZGNrbTNTRzlaMUJ2Y0xsZ3dGOEJDTEtFVDNlZDlxTXZ5MVVoUUE5ZENWTXNGbVhMajVPMGdmVWs2RUhqTEVvRU5nc1FtY0NSUXR4b2JtTWxzbHFuUUwzdzhScXc?oc=5",
+    "summary": "'I pay them $2.50 per hour and they take a LOT off my plate': Inside the exploitative world of virtual assistants Business Insider",
+    "published_at": "Thu, 05 Jan 2023 08:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 2,
+    "payment_probability": 4,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "visible budget: $10,000",
+      "payment signals: $"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "I'm a virtual assistant making $10,000 a month in revenue. Here's how I started my business and make 6 figures a year. - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2JjdFBzTll6TmdzY2pERExBVV9ndDdnalViZXo2RmQ3V240V185TXZ5d0NmUG44NDExTmNXeUkzWXpLR1pPdFpzXzYxdkROOG9uOGdvd2k4cnEyUkJETUFCb3B2YUdQS2IwdGgta05MQnpnUExnS3g1WEw5dHJtVWxNaU1lY1ZfYmNBSGtJUFN4TkhDVTVnc2t3d1ZqOXVQM29vTWVVZw?oc=5",
+    "summary": "I'm a virtual assistant making $10,000 a month in revenue. Here's how I started my business and make 6 figures a year. Business Insider",
+    "published_at": "Thu, 09 Dec 2021 08:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 2,
+    "payment_probability": 4,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "visible budget: $9,000",
+      "payment signals: $"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDJwNTd6OXlJR3JabldKZnF3QzB0ZUlOSlFNcTg4TW9zSmY5aVdqSG5WVklRQ0ZsNEhyVnFxS0dJT1QtbC11eGY4cEo0Si0tU1N0V2tmaGs1NktLVW5ITTlnRXdPREFtOTd4LW03S1JRX21OV3J1bE1Jc1NXcmhHdGZacFI1WEloT0xobTVYWk4xU0ItMzJDRHd6NVRxb2dES3c?oc=5",
+    "summary": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. Business Insider",
+    "published_at": "Fri, 18 Feb 2022 08:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 4,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: prompt",
+      "payment signals: paid"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: NotchPrompter \u2013 A simple, open-source teleprompter for macOS,no AI-slop",
+    "url": "https://github.com/jpomykala/NotchPrompter",
+    "summary": "Hi HN, I built NotchPrompter because I needed a simple way to read notes while looking at the camera during calls, without heavy or paid software. - 100% free & open-source - native macOS (SwiftUI) - minimalist - focuses on the essentials. Feedback and contributions are more than welcome! PS No, I didn't use AI for it. I always wanted to play with SwiftUI and this is my 6th approach to this. Previous projects were too complex for my beginner skills. I'm mainly a Java developer. It took me ~5 mon",
+    "published_at": "2026-04-17T11:39:46Z"
+  },
+  {
+    "total": 7,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "payment signals: freelance",
+      "repeatable: pack"
+    ],
+    "source": "hn/need a freelancer",
+    "title": "Show HN: Upvoicy \u2013 Simple feedback management tool for teams and creators",
+    "url": "https://upvoicy.com/",
+    "summary": "Hi HN, I built Upvoicy to help teams, freelancers, and small businesses collect and manage user feedback in a simple way. While working on my own projects, I felt that most feedback tools were either too complex, too expensive, or packed with features I did not really need. So I decided to build something lightweight and straightforward. With Upvoicy, you can: Create a public feedback board Let users submit ideas and vote Manage suggestions in one place Keep your roadmap clear and organized The ",
+    "published_at": "2026-02-24T23:47:51Z"
+  },
+  {
+    "total": 6,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: blog"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: Track official AI company news and blogs in your Chrome side panel",
+    "url": "https://chromewebstore.google.com/detail/bigtech-ai-news/aehmpingbppjnlppejppiifmijdjjiej",
+    "summary": "I've already picked up so much great news and tips from here \u2014 thanks to the HNers for sharing. That said, I still find myself manually checking various official newsrooms and engineering blogs. To save myself from the constant 'tab hunting,' I built a small Chrome extension with a bit of help from Codex. It\u2019s been working well for my workflow, so I figured I\u2019d put it on the Web Store in case anyone else finds it useful. Since many companies don't provide (or they just neglect) RSS feeds anymore",
+    "published_at": "2026-04-26T04:19:47Z"
+  },
+  {
+    "total": 6,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: tweet"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: A Little Excursion",
+    "url": "https://alittleexcursion.com/",
+    "summary": "I'm attempting to document the major events of the current Iran War in one place. Its incredibly difficult to know whats going on from across the world and most of what we see daily are just Trump's tweets. I've thrown together a scrolling timeline to help myself (and others) track events as they've been happening. I obviously cannot include every single missile strike or drone attack or statement by a politically aligned individual, but I've tried to be objective and include anything \"significa",
+    "published_at": "2026-04-07T19:13:56Z"
+  },
+  {
+    "total": 6,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "easy keywords: summary"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: Xtrace \u2013 Unix-Style macOS Profiling for Instruments (CPU/GPU/Memory)",
+    "url": "https://github.com/Kr1sso/xtrace-skill",
+    "summary": "I built this because I wanted a terminal-first profiling workflow on macOS, without constantly switching into the Instruments GUI. What it does today: - CPU analysis: summary, timeline, calltree, collapsed stacks, flamegraph, diff - GPU analysis (trace-gpu.py): active/idle ratios, command-buffer cadence, process ownership - Memory analysis (trace-memory.py): summary, leaks, growth, heap/regions - Recording modes: launch, attach by PID/name, wait-for spawn, system-wide - Root-aware attach flow fo",
+    "published_at": "2026-04-25T09:28:45Z"
+  },
+  {
+    "total": 6,
+    "ease": 2,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "repeatable: pack"
+    ],
+    "source": "hn/launching side project",
+    "title": "Show HN: 100000 backlinks in under 7 days to accelerate early growth",
+    "url": "https://300aidirectories.com/seo-boost",
+    "summary": "Hi HN, When launching a new tool, one of the biggest bottlenecks is early visibility. New domains often struggle to get discovered and indexed quickly. This project packages a high-volume backlink distribution (100,000 links) designed to: speed up link discovery create early authority signals help new launches escape the zero-traction phase It\u2019s not positioned as \u201csafe SEO\u201d or guaranteed rankings. It\u2019s an aggressive growth lever, mainly used for: new tools & side projects tier 2 / tier 3 link bu",
+    "published_at": "2026-01-10T16:19:29Z"
+  },
+  {
+    "total": 6,
+    "ease": 2,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "repeatable: monthly"
+    ],
+    "source": "hn/launching side project",
+    "title": "Show HN: TinTekka \u2013 AI tool roadmap for agencies",
+    "url": "https://tintekka.com",
+    "summary": "Hi HN, I'm a first-time founder from Dhaka building TinTekka to solve a real pain point: agencies waste weeks evaluating AI tools, only to struggle with implementation and see minimal ROI. The core problem: there are thousands of AI tools launching monthly, but no structured way for teams to discover which ones actually fit their workflow* and *how to implement them properly. TinTekka has two sides: For agencies & startups: - Answer targeted questions about your team, workflows, and pain points ",
+    "published_at": "2025-12-14T18:55:10Z"
+  },
+  {
+    "total": 6,
+    "ease": 2,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 0,
+    "reasons": [
+      "repeatable: template"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech - Fast Company",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYm5aTEdhUTQzX2FnRU00OUhBSW9DSlFiWTh2N2Y0VGh2dWIzQUFLUGRsSk40dTZxNXQwSFlWdndaZXV3dUo4VElFRGFqNTdnbEdCd2pjZngwdTl4YXFvZElKcEVyc0x6elk5eVZibGVfZDBtMFVKMjBUMnFqRGJCd0tGVlI4LVd6c01xV1BISVNTdEI0VVNGRklpUGg5Q0JzWUl5emN2Nkg?oc=5",
+    "summary": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech Fast Company",
+    "published_at": "Tue, 23 Feb 2021 08:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "payment signals: $"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: Cush \u2013 curl your shell, an HTTP tunnel for AI agents",
+    "url": "https://github.com/statespace-tech/cush",
+    "summary": "I built cush because coding agents can be helpful to diagnose and troubleshoot server issues. The problem is that getting said agents onto a remote server, especially one you don't control, means dealing with VPNs, bastion hosts, firewall rules, access controls, or audit trails. That's assuming SSH isn't even blocked. cush takes a different approach. Instead of a shell, it opens a temporary, outbound HTTPS tunnel that lets you and your AI agent run constrained CLI commands on the server: $ cush ",
+    "published_at": "2026-04-15T16:01:43Z"
+  },
+  {
+    "total": 5,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "payment signals: fixed"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: AI agents are bad at API integrations \u2013 we fixed it",
+    "url": "https://www.apimatic.io/product/context-plugins/showcase",
+    "summary": "Hi, we're Sohaib and Hannan from APIMatic. We've been building tools to help Developers integrate with APIs for 5+ years at APIMatic. We're now trying to help AI agents do the same. This started from a conversation at PayPal DevDay 2025. The PayPal developer experience team were monitoring developers using AI agents to integrate PayPal APIs, and the agents kept reaching for outdated docs and deprecated SDK versions, often falling back to training data instead of reading the current API documenta",
+    "published_at": "2026-04-09T15:06:54Z"
+  },
+  {
+    "total": 5,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "payment signals: freelance"
+    ],
+    "source": "hn/need a freelancer",
+    "title": "Show HN: VizTools \u2013 16 free tools for PMs and freelancers, deliberately no AI",
+    "url": "https://viztools.app/",
+    "summary": "I've been building AI products for a while. For this one I made a deliberate choice: none of the 16 tools use AI. Meeting cost calculators, freelance rate calculators, PRD generators, runway calculators, sprint retro boards \u2014 these problems don't need a language model. They need a well-designed form and correct arithmetic. Built on Nuxt 4 + Vue 3, fully static, runs in your browser. No account required to use anything. Optional Firebase auth only kicks in if you want to save output. Irony worth ",
+    "published_at": "2026-03-28T05:36:46Z"
+  },
+  {
+    "total": 5,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "payment signals: freelance"
+    ],
+    "source": "hn/need a freelancer",
+    "title": "Show HN: I'm trying to help aspiring Data Analysts",
+    "url": "https://d8a.academy/",
+    "summary": "I have been working as a freelance data analyst for 9 years now, and everything is going well for me. Two years ago, I created a Discord community for data analysts and we are now 700+ members. Talking with the community made me realized how lucky I was to have a job and proper experience in data analysis because, god, it is hard right now to find a first job. So I decided to spend my free time building D8A academy. It's a roadmap of projects, which is what most people in the Discord were asking",
+    "published_at": "2026-03-17T13:37:42Z"
+  },
+  {
+    "total": 5,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "payment signals: paid"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: MTTCleaner \u2013 Same as CCleaner but free, no ads",
+    "url": "https://github.com/mytech-today-now/mTTCleaner",
+    "summary": "I'm an IT consultant. CCleaner was a good choice to speed up clients' web browsing experience. Unless you paid, it keeps vomiting ads for the product. Which made it a bad choice. mTTCleaner does most of the same thing to clean most browsers by cleaning caches, compacting databases, and removing unnecessary metrics files. It can create it's own cron job/scheduled task to run itself every month, if you choose. It covers 28 browsers on 3 platforms, assuming you have PowerShell 7+. Please file any b",
+    "published_at": "2026-04-26T00:13:17Z"
+  },
+  {
+    "total": 5,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 0,
+    "reasons": [
+      "payment signals: paid"
+    ],
+    "source": "hn/paid gig",
+    "title": "Farcaster Agent Kit \u2013 CLI for AI agents to use Farcaster, zero paid APIs",
+    "url": "https://github.com/jbaldwinroberts/farcaster-agent-kit",
+    "summary": "",
+    "published_at": "2026-04-23T19:46:35Z"
   }
 ]
