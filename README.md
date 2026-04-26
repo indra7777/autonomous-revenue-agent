@@ -89,3 +89,11 @@ It will:
 - Decide whether to continue, stop, or reduce effort.
 - Generate task files for sub-agents under `state/subagents/`.
 - Keep the daily human workload small.
+
+## 💰 Bounty Contribution
+
+- **Task:** Autonomous Revenue Agent Inbox
+- **Reward:** $21
+- **Source:** GitHub-Paid
+- **Date:** 2026-04-27
+
