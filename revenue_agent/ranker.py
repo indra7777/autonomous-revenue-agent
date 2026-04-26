@@ -93,10 +93,8 @@ BUYER_KEYWORDS = {
     "[hiring]",
     "[task]",
     "need someone",
-    "i need",
     "looking for someone",
     "looking to hire",
-    "seeking",
     "paid task",
     "fixed budget",
     "i would like to hire",
@@ -119,6 +117,18 @@ HARD_KEYWORDS = {
 def rank_opportunities(opportunities: list[Opportunity]) -> list[ScoredOpportunity]:
     scored = [score_opportunity(opportunity) for opportunity in opportunities]
     return sorted(scored, key=lambda item: (item.total, item.payment_probability, item.ease), reverse=True)
+
+
+def select_actionable(scored: list[ScoredOpportunity]) -> ScoredOpportunity | None:
+    for item in scored:
+        if item.total >= 12 and item.risk <= 4 and has_direct_buyer_intent(item.opportunity):
+            return item
+    return None
+
+
+def has_direct_buyer_intent(opportunity: Opportunity) -> bool:
+    text = f"{opportunity.title} {opportunity.summary}".lower()
+    return bool(keyword_hits(text, BUYER_KEYWORDS))
 
 
 def score_opportunity(opportunity: Opportunity) -> ScoredOpportunity:

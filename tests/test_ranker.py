@@ -1,7 +1,7 @@
 import unittest
 
 from revenue_agent.models import Opportunity
-from revenue_agent.ranker import rank_opportunities
+from revenue_agent.ranker import rank_opportunities, select_actionable
 
 
 class RankerTest(unittest.TestCase):
@@ -86,6 +86,16 @@ class RankerTest(unittest.TestCase):
 
         self.assertLessEqual(scored.payment_probability, 3)
         self.assertGreaterEqual(scored.risk, 3)
+
+    def test_select_actionable_returns_none_for_weak_market_signal(self) -> None:
+        article = Opportunity(
+            source="hn/paid gig",
+            title="Show HN: Open-source teleprompter for macOS",
+            url="https://example.com/teleprompter",
+            summary="I needed a simple tool for prompts and paid features.",
+        )
+
+        self.assertIsNone(select_actionable(rank_opportunities([article])))
 
 
 if __name__ == "__main__":

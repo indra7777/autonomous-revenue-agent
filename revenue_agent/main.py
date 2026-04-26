@@ -7,7 +7,7 @@ from .config import Settings
 from .models import AgentRun, utc_now
 from .notifier import notify
 from .planner import build_instruction
-from .ranker import rank_opportunities
+from .ranker import rank_opportunities, select_actionable
 from .sources import collect_opportunities
 from .storage import append_history, ensure_dirs, load_revenue, save_opportunities, save_run, save_subagent_task
 
@@ -31,7 +31,7 @@ def main(argv: list[str] | None = None) -> int:
     save_opportunities(settings.state_dir, scored)
 
     revenue_sources = load_revenue(settings.state_dir)
-    selected = scored[0] if scored else None
+    selected = select_actionable(scored)
     instruction = build_instruction(
         created_at=created_at,
         selected=selected,
