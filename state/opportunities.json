@@ -1,60 +1,5 @@
 [
   {
-    "total": 12,
-    "ease": 2,
-    "payment_probability": 7,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: thread",
-      "hard keywords: rust",
-      "visible budget: $21",
-      "payment signals: $, budget, contract",
-      "repeatable: thread"
-    ],
-    "source": "hn/paid gig",
-    "title": "Show HN: Trustless Campaigns \u2013 Gecko transforms brand-creator deals",
-    "url": "https://www.geckovision.tech",
-    "summary": "Gecko turns brand-creator deals into self-enforcing contracts \u2014 budget locked before the campaign starts, creators paid automatically when delivery is verified. Every brand-creator deal runs on trust. Brand pays after the creator posts. Creator posts before payment is locked. A *$21 billion industry on Telegram DMs and email threads* \u2014 when it breaks, there's no enforcement. Just a conversation that goes nowhere. Gecko fixes that at the contract level. A brand locks its budget into an on-chain v",
-    "published_at": "2026-04-24T02:10:59Z"
-  },
-  {
-    "total": 12,
-    "ease": 4,
-    "payment_probability": 5,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: cv",
-      "visible budget: $15",
-      "payment signals: $, freelance",
-      "repeatable: template"
-    ],
-    "source": "hn/need a freelancer",
-    "title": "Show HN: Mnml.page \u2013 Minimalist one-page websites for freelancers",
-    "url": "https://mnml.page/",
-    "summary": "I'm a UI/UX designer with 10+ years in the industry. I kept seeing the same problem: freelancers and creatives who need a simple online presence end up fighting Webflow or paying $15/mo for features they'll never use. mnml.page lets you build a clean one-page site in minutes. Pick a template, edit your content, publish. No drag-and-drop complexity, no CMS, no bloat. A few things that make it different: - AI site generation from your CV or links - Flat $49/year pricing (no tiers, no upsells) - De",
-    "published_at": "2026-04-09T08:28:34Z"
-  },
-  {
-    "total": 11,
-    "ease": 4,
-    "payment_probability": 4,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "visible budget: $140,000",
-      "payment signals: $",
-      "repeatable: resume"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "23 Skills To List On Your Resume For In-Demand Jobs That Pay $140,000+ - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2pZTHg3VEplTF9KY2UwWXhuaHozQXdOcFQtUlFYY1N2dTFrbGNuVi1SODFta3lnbW10VlNhWWVKZm5hU1drVFNSQ1B2SGYyS3dCMS1ld0dWdWlQeE54V1pGNHJLTWlkZVNHU2twUkxVdml3NGJhN2ZnUGNEUldZcWloWVhJYUNEb2hLbzUyN1VFbFJzRmtRZ2c4cDZBV1hSRzFpakVfcWNIeU42UVNZOVpwazNocTFzTkxpaQ?oc=5",
-    "summary": "23 Skills To List On Your Resume For In-Demand Jobs That Pay $140,000+ Forbes",
-    "published_at": "Fri, 31 Oct 2025 07:00:00 GMT"
-  },
-  {
     "total": 10,
     "ease": 4,
     "payment_probability": 5,
@@ -72,389 +17,23 @@
     "published_at": "2026-02-19T15:20:41Z"
   },
   {
-    "total": 10,
-    "ease": 6,
-    "payment_probability": 3,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: blog, tweet",
-      "payment signals: contract, gig"
-    ],
-    "source": "hn/paid gig",
-    "title": "Show HN: I built a blogging platform (5 years in, struggling with distribution)",
-    "url": "https://blogmaker.app/",
-    "summary": "A bit of context\u2026 I've been building https://blogmaker.app since April 2021, 5 years now. The launch tweet: https://x.com/BlogmakerApp/status/1383742023627247630 I had built it initially as a personal challenge to see if I could have a working product for 20 hours worth of work, and I did it. This was way before AI tools. A few months later, I included a Stripe button and the first payment came immediately in. In September 2022 I decided to focus (give up my contract gigs as a designer/dev). I t",
-    "published_at": "2026-04-21T14:17:47Z"
-  },
-  {
-    "total": 10,
-    "ease": 6,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: blog, canva",
-      "repeatable: template"
-    ],
-    "source": "hn/launching side project",
-    "title": "Show HN: OG Image API \u2013 Generate social preview images with JSON",
-    "url": "https://www.ogimageapi.io",
-    "summary": "Hey HN! I built this because I was tired of manually creating OG images for every blog post and side project. How it works: - Send a POST request with JSON (title, subtitle, template, etc.) - Get back a PNG in ~50-100ms - No Puppeteer, no browser automation \u2014 uses node-canvas for fast server-side rendering Live demo on the homepage (no signup needed). Free tier includes 10 images/month. I'm launching on Product Hunt today too, but honestly HN feedback is what I care about most. Would love to hea",
-    "published_at": "2025-12-11T18:47:55Z"
-  },
-  {
-    "total": 10,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 5,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume, template"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Hadoop Developer Resume: Sample Template and Advice - dice.com",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54RW9uWDVOVllkMnBOa1Bub1lGclN4bG9rdy0xeHRxODV1MVBDNTEwSFRzemF0YmpvUElpT1ZObHV3RDBlc0duTS1SMklELUlzV2k4Y0g0TE1JOFg3NER5d0dsZnQ0Zmk0dWR5dHFRUGJpOEk?oc=5",
-    "summary": "Hadoop Developer Resume: Sample Template and Advice dice.com",
-    "published_at": "Mon, 16 Oct 2023 07:00:00 GMT"
-  },
-  {
-    "total": 10,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 5,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume, template"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "DevOps Engineer Resume: Template, Top Tips for Building the Best One - dice.com",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamh1eXc3R0VBcHkxWk01RHUwSHJFeHh3cWJ5LVk3bkZTTTVsZDM3Mk9rMWJ1VmtuVmRyN3dKQ0pIVEdBa1BOLXdyemdZME9PcmoyRU9Zak9xZmx0RUVEbHAyLVZoVHYzdXFoalVBelljVGpwQ3NyeTNVMXU0RFZGWmhWaFliaHA2c2t6WVRWVGRvVk9YQmxySzdNdkw2dTg0djJV?oc=5",
-    "summary": "DevOps Engineer Resume: Template, Top Tips for Building the Best One dice.com",
-    "published_at": "Tue, 28 Mar 2023 07:00:00 GMT"
-  },
-  {
-    "total": 10,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 5,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume, template"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Program Manager Resume: Template, Tips, and Tricks for Writing One - dice.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVlUdXc3MFhfTjg3RUxsZ1psUlpsZ1dFYW5VNVlqSWJPN1JCYU5XNnUzVnB4OHJJOV81cDh5SkJpRS11NFhhdWg5aUlBbFNVRm53MFRUZ2UtUkRPNWx1VFhPSHVZQVdfcXptUUJlNG5UVV9nbTgtQWdWcHlTTF93cFFaSHJiTmh2ejM4V3BUVWhVQ3dsVVBJQ2VfY1dFcHM?oc=5",
-    "summary": "Program Manager Resume: Template, Tips, and Tricks for Writing One dice.com",
-    "published_at": "Wed, 25 May 2022 07:00:00 GMT"
-  },
-  {
-    "total": 9,
-    "ease": 4,
-    "payment_probability": 2,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: thread",
-      "payment signals: contract",
-      "repeatable: thread"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: I built a personal corporation of AI agents that runs on your PC",
-    "url": "https://github.com/re-marked/claude-corp",
-    "summary": "Claude Corp is a daemon that runs and orchestrates an autonomous personal corporation of AI agents on your machine. OpenClaw agents form a social hierarchy, and everybody knows who they listen and report to. Agents can discuss stuff in channels, by @mentioning each other or using threads. Agents can create Tasks and Contracts, where Tasks are persistent tasks stored as file, and Contracts are a bundle of tasks, with a shared goal. When all tasks in a contract are done, the Contract is marked as ",
-    "published_at": "2026-04-08T16:20:32Z"
-  },
-  {
     "total": 8,
-    "ease": 2,
-    "payment_probability": 5,
-    "repeatability": 1,
-    "risk": 0,
+    "ease": 4,
+    "payment_probability": 4,
+    "repeatability": 3,
+    "risk": 3,
     "reasons": [
-      "visible budget: $30",
-      "payment signals: $, freelance"
+      "easy keywords: cv",
+      "visible budget: $15",
+      "payment signals: $, freelance",
+      "repeatable: template",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/need a freelancer",
-    "title": "Show HN: SignForge \u2013 Free e-signature tool, no account needed to sign",
-    "url": "https://signforge.io",
-    "summary": "Hey HN, I built SignForge as a free alternative to DocuSign/PandaDoc for freelancers and small businesses who just need to get documents signed without the $30/month tax. How it works: Upload a PDF \u2192 drag signature/date/text fields onto it \u2192 send to signer via email \u2192 they sign with a link (no account needed) \u2192 you get the signed PDF with a full audit trail and verification certificate. Tech stack: Next.js + FastAPI + PostgreSQL + PyMuPDF. PDFs are stamped server-side (image overlay, not AcroFor",
-    "published_at": "2026-02-26T08:34:29Z"
-  },
-  {
-    "total": 8,
-    "ease": 2,
-    "payment_probability": 5,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $10",
-      "payment signals: $, paid"
-    ],
-    "source": "hn/launching side project",
-    "title": "Show HN: Ogmap \u2013 A low-cost vector map tiles API",
-    "url": "https://ogmap.com/",
-    "summary": "Hey everyone I\u2019ve been hacking on a project \u2192 [OGMAP]( https://ogmap.com ). It\u2019s a *vector tiles API (PBF)* with simple prepaid pricing: - $10 = 1,000,000 tiles - 250k free on sign-up - Auto-buy with Stripe, with safety limits - Served worldwide via Cloudflare CDN We don\u2019t try to compete with Mapbox feature-wise. It\u2019s literally just fast, low-cost tiles + some basic styles for MapLibre. Why I built it: I wanted to start a web project and realized if it got even a bit popular (before monetization",
-    "published_at": "2025-09-03T18:31:05Z"
-  },
-  {
-    "total": 8,
-    "ease": 2,
-    "payment_probability": 3,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "payment signals: budget, freelance",
-      "repeatable: weekly"
-    ],
-    "source": "hn/need a freelancer",
-    "title": "Show HN: Crow's Nest \u2013 a weekly planner and budget tracker for Harvest users",
-    "url": "https://mycrowsnest.app",
-    "summary": "I've been a freelance developer for years and always struggled with planning my weeks and tracking project budgets. I use Harvest for time tracking, but it doesn't give me a weekly view or budget visibility until it's too late. So I built Crow's Nest \u2013 a work week planner and budget visibility layer that sits on top of Harvest. It pulls your time entries and shows you: - Your week laid out by project and capacity (before Monday hits) - Real-time budget progress for each project - The gap between",
-    "published_at": "2026-03-06T13:53:49Z"
-  },
-  {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: prompt",
-      "repeatable: prompts"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: TogetherLetters \u2013 Group newsletters with no app, no feed, no login",
-    "url": "https://www.togetherletters.com",
-    "summary": "Hey all, we're reposting from our previous Show HN about 5 years ago: https://news.ycombinator.com/item?id=28644205 Since then we've grown to more than 5k users across nearly 1k groups and have sent out more than 100k update prompts. The premise is simple - social media stinks and you either don't see updates from people you care about (they never post) or you miss the updates (flooded by other people's updates or an algorithm that downplays an update you'd care about even if it's seemingly unim",
-    "published_at": "2026-04-21T16:13:54Z"
-  },
-  {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: prompt",
-      "repeatable: pack"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: SafeInstall \u2013 local install-time guardrails for NPM/pnpm/bun",
-    "url": "https://www.safeinstall.dev/",
-    "summary": "Hey HN \u2014 after the Axios attack I went looking for something that could help against this kind of install-time risk. I didn\u2019t find a tool that did what I wanted, so I built one. SafeInstall is a local CLI for npm, pnpm, and bun. It checks policy before the package manager runs. Especially now, when tons of people are building with AIs like Cursor and Claude and either give them full rights or just hit enter on every prompt, I thought it was important to build a guardrail before the install happe",
-    "published_at": "2026-04-14T12:28:40Z"
-  },
-  {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: logo",
-      "repeatable: logo"
-    ],
-    "source": "hn/launching side project",
-    "title": "Show HN: Super Launch \u2013 A platform for you to get discovered and grow traffic",
-    "url": "https://super-launch.app",
-    "summary": "I've been launching side projects for a while and realized that after the initial Product Hunt spike, there's not many places to get consistent visibility. So I built Super Launch \u2014 a curated directory where indie developers can list their startups and keep getting discovered. Here's what it offers: Submit your product and reach thousands of potential users looking for new tools AI-powered submission \u2014 auto-fill your listing with generated copy, logos, and screenshots Friend links \u2014 build recipr",
-    "published_at": "2026-02-20T22:44:39Z"
-  },
-  {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: article",
-      "repeatable: article"
-    ],
-    "source": "hn/paid gig",
-    "title": "Show HN: PanicLock \u2013 Close your MacBook lid disable TouchID \u2013> password unlock",
-    "url": "https://github.com/paniclock/paniclock/",
-    "summary": "I wrote this after the case of a Washington Post reporter, Hannah Natanson, was compelled to unlock her computer with her fingerprint. This resulted in access to her Desktop Signal on her computer, revealing sources and their conversations. https://www.yahoo.com/news/articles/washington-post-raid-pro... Edit: I've a lot more details about the legality and precedence on the apps landing page https://paniclock.github.io/",
-    "published_at": "2026-04-17T16:38:44Z"
-  },
-  {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "UIX Labs Highlights Pika AI Resume Tool Targeting HR Tech Demand - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0pQNWViSEpHSkhkZ1FKRHNiWFA0bEFDMWVMSWh5SWk3WDRWUG0zZ05helpNS0xVV0l5QWVmM1lOVUVMNF80NVlwUElPak5mQ1NmeFplRmpmWGRtTEQ2bUVUN25VQVhZN01Ba1AyWlZNZVpDeEx3VFZYWWxYckE4WlpQTDBCOWpmUEdiUGxiOFlpZk8yakUxeXF3TGN4YTNMczZtdEoyX204djBvRDRZLTFR?oc=5",
-    "summary": "UIX Labs Highlights Pika AI Resume Tool Targeting HR Tech Demand TipRanks",
-    "published_at": "Tue, 14 Apr 2026 07:00:00 GMT"
-  },
-  {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "10 Essential Teacher Resume Skills to Include for 2024 - Prodigy",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04WFZxNWlVT19XaUE5b3lxcEwybk40NGYtREl3eS1PaEVtNEVNRGxEMlRfVHNJMkdVM3lLcFE0TVRLVnhrWnBSdi1tQ2ZLNmtuakVObnE2cVVQektSNUJ6OTNtQ2c3SVE1U0t5WmVWQQ?oc=5",
-    "summary": "10 Essential Teacher Resume Skills to Include for 2024 Prodigy",
-    "published_at": "Wed, 15 Nov 2023 08:00:00 GMT"
-  },
-  {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "17 Best Resume Skills to Land Your Dream Job in 2025 - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rbjhLMHhGOFZmV3N3UE5DQ09PYTR2bkFPekx4TThHcFZZaHI2N3o3Z3ZwcnZoYkd1UkV0a1lOSVJKcVVPakprVnN0bDloZm42SkFqWFRfZlhCWjQ?oc=5",
-    "summary": "17 Best Resume Skills to Land Your Dream Job in 2025 BetterUp",
-    "published_at": "Mon, 26 Dec 2022 15:06:24 GMT"
-  },
-  {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "17 AI Skills To Put On Your Resume In 2025 - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnBmWWhKLWpIZGFhNHFFMUlhR3pMd2thNlRJMDBqZTFubUVKMTlsdHFFVHdjUVpyYnBoTzNfMElNZGJxYUxrMDNvSFpCYVRPS0RWR2pXWjlnbGY5NzVzRktNakMtRnNqSnhxSlBMMHhCWlVvdVRMOHNLSWpFSXp6UDEySjRNd3ZIb0Npb1BWdnpNVkhLMG12WC1IYw?oc=5",
-    "summary": "17 AI Skills To Put On Your Resume In 2025 Forbes",
-    "published_at": "Fri, 11 Jul 2025 07:00:00 GMT"
-  },
-  {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Marketing Skills for Your Resume in 2024 + Examples - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yZ2xqMlhLVzBkemppOUdMX0ZRVGd0UjJMREdTZnpuNGp1U3l5alJJdVo5MTJpY2pqOTh6RHFPalEtOVZsV0V3UEN6d0pkeGlHWjRSYWRtQko0Zw?oc=5",
-    "summary": "Marketing Skills for Your Resume in 2024 + Examples BetterUp",
-    "published_at": "Fri, 22 Sep 2023 07:00:00 GMT"
-  },
-  {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "What Are Hard Skills? 45 Examples For Your Resume - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMHJreEhwRFdWQmszbDJuQzNUOVVtNDNSTW9MWHhFc3NFUzFqU1dKcm5vVkhsRi0zMTdNRE9mZ3dnLS1aV0F6U0pEWGFoY2k0QjRN?oc=5",
-    "summary": "What Are Hard Skills? 45 Examples For Your Resume BetterUp",
-    "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
-  },
-  {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
-    "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
-    "published_at": "Thu, 23 Jan 2025 08:00:00 GMT"
-  },
-  {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Transferable Skills: 17 Examples to Boost Your Resume & Career - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
-    "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
-    "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
-  },
-  {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 0,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOZXJ2UGNHVzhVenEyUzVfVVdZSVZVV2VzS0FkQ0ZaY0FWOV9yMzhVaG1ucGpsTGl4S0tXTWw2T05xdk9WQ05BeFE0MnNvaDNRWW1IRHczazhra0VpaTBxdVhmR25pMGhGYlpDdFk0cUpZTGNsMXfSAXtBVV95cUxQM2FTQ0lNOF9WVW84bkdGM21zUk0zc08tV3VVcTk1bWIwUmk5OTBhX2ZlZm5SU3pkcmRfa0h2OXR0RkhTQTRKWF9xNEpXdzFIM3hKQzhRSDctQ1o2dkJqTEpTTUxlQk94dF83NTZmVTRrNEJJUFhRZjZfNFU?oc=5",
-    "summary": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 CNBC",
-    "published_at": "Wed, 19 Oct 2022 07:00:00 GMT"
-  },
-  {
-    "total": 7,
-    "ease": 2,
-    "payment_probability": 4,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $1",
-      "payment signals: $"
-    ],
-    "source": "hn/launching side project",
-    "title": "Show HN: Mumpix \u2013 Local-first AI infrastructure and $1B developer grant",
-    "url": "https://mumpixdb.com/mumpix-billion-program.html#claim",
-    "summary": "Hi HN, I\u2019m working on Mumpix, a local-first infrastructure stack for building AI systems that don\u2019t depend on centralized cloud platforms. The goal is to make AI memory, state, and infrastructure run anywhere: phones, browsers, desktops, servers, or edge devices. The stack currently has four layers: MumpixDB Structured hierarchical database designed for AI memory and application state. Examples of keys: memory^assistant^context memory^assistant^recent workflow^task^42^status Features: \u2022 hierarch",
-    "published_at": "2026-03-10T23:49:41Z"
-  },
-  {
-    "total": 7,
-    "ease": 2,
-    "payment_probability": 4,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $100",
-      "payment signals: $"
-    ],
-    "source": "hn/launching side project",
-    "title": "Show HN: A Visual No-Code Game Engine \u2013 50x Easier Than Unity",
-    "url": "https://play-maker.io",
-    "summary": "I've spent 30 years making games as both a hobby and profession, working with Unity, Unreal, GameMaker, RPG Maker, Ren'Py, Godot, and many others. A few years ago, I attended a game dev meetup and met dozens of people with incredible passion for making games \u2013 but they were struggling because they lacked technical knowledge. That's when I decided to build a tool that anyone could use to create games. I started developing this as a side project, eventually raised ~$100K through crowdfunding in Ko",
-    "published_at": "2025-10-23T09:47:53Z"
+    "title": "Show HN: Mnml.page \u2013 Minimalist one-page websites for freelancers",
+    "url": "https://mnml.page/",
+    "summary": "I'm a UI/UX designer with 10+ years in the industry. I kept seeing the same problem: freelancers and creatives who need a simple online presence end up fighting Webflow or paying $15/mo for features they'll never use. mnml.page lets you build a clean one-page site in minutes. Pick a template, edit your content, publish. No drag-and-drop complexity, no CMS, no bloat. A few things that make it different: - AI site generation from your CV or links - Flat $49/year pricing (no tiers, no upsells) - De",
+    "published_at": "2026-04-09T08:28:34Z"
   },
   {
     "total": 7,
@@ -467,26 +46,10 @@
       "buyer signals: hiring"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "Hiring managers name the top hard skills and soft skills for 2026 - HR Dive",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHNvWHM0OWxaLTByQW03YkVRLTAxYkc1azhVX3F1YzhFOXd2YWN3X1ljSzMtdjhNYnBOMjA1cTYzZ1ZRaEFyMmNSR01sNGZZMjZaYkpYWHFVUXp3RUdNdzk4ODc0MkJMZ1dzZkdsQ19ISHV3TDNjY2E1WXdHMHZGc2FYZUJ5ZEpBQ29SelBxbnRYb1dxdGs5WQ?oc=5",
-    "summary": "Hiring managers name the top hard skills and soft skills for 2026 HR Dive",
-    "published_at": "Mon, 08 Dec 2025 08:00:00 GMT"
-  },
-  {
-    "total": 7,
-    "ease": 2,
-    "payment_probability": 4,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $1",
-      "payment signals: $"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "20 Cheap Business Ideas Under $1K | Home Business Guide - Business.com",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Uc0s0RjVrOHdveDZubjRrQUx6dVFoMV9Zam1QNGtfT2hXeGRXN0FzUlVGUXk4UThzcHRrYzZCejBnZVhzQzdFX2ZUYjFDQ1J1VXlmSDJLa3UxZ3RMME1XTGFNSlhuQQ?oc=5",
-    "summary": "20 Cheap Business Ideas Under $1K | Home Business Guide Business.com",
-    "published_at": "Mon, 30 Mar 2026 07:00:00 GMT"
+    "title": "What Are the Top Skills to Prioritize in 2026? Hiring Managers Chime In - The HR Digest",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkd5R1FTU2FtNDFReWxRa2J1cmlub3h5WWl2T3EycWxUbEh4aXk4QU9JZzhRZ3ZwNDZNOGlPX1UzNFlpNW9VUlNMcXNEOXpkb2FUUGNTZG9XN2VjRkFvWFpLZmJsZC1uUmQ0VW41UW51Y0dRLWcyaHJqc2hRbEp5UWk4QzhZUzRoUG84TnREb3NPZW1VVUJNd21rUFE5b080?oc=5",
+    "summary": "What Are the Top Skills to Prioritize in 2026? Hiring Managers Chime In The HR Digest",
+    "published_at": "Tue, 09 Dec 2025 08:00:00 GMT"
   },
   {
     "total": 7,
@@ -511,22 +74,6 @@
     "repeatability": 1,
     "risk": 0,
     "reasons": [
-      "visible budget: $1,000",
-      "payment signals: $"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "25 Remote Small-Business Ideas You Can Start for Under $1,000 - inc.com",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTHNNckFxY0NScGZJbnBxMzhYdUhMcGIxVlBMQzBUbU1OdXBCalFZMkZDdENwdDJNa2c1ZUc1eHRoV2t2M09abGMzWi04TU1SYjVURUVZRFByczNhTFJ6Tk94enkzeUQtOG5mZThFdnA3bkJxSjVEOVJSX0JMNFZHMHhjYUI1ZEpZMWVqUXdMUkJhRGNvVFpIZm8wMDYwdk9ZbTFUYg?oc=5",
-    "summary": "25 Remote Small-Business Ideas You Can Start for Under $1,000 inc.com",
-    "published_at": "Sun, 27 Jul 2025 07:00:00 GMT"
-  },
-  {
-    "total": 7,
-    "ease": 2,
-    "payment_probability": 4,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
       "payment signals: hiring",
       "buyer signals: hiring"
     ],
@@ -538,61 +85,411 @@
   },
   {
     "total": 7,
-    "ease": 2,
-    "payment_probability": 4,
+    "ease": 6,
+    "payment_probability": 3,
     "repeatability": 1,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
-      "visible budget: $2.50",
-      "payment signals: $"
+      "easy keywords: blog, tweet",
+      "payment signals: contract, gig",
+      "market-signal source without direct buyer intent"
     ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "'I pay them $2.50 per hour and they take a LOT off my plate': Inside the exploitative world of virtual assistants - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnVKSkpuSjJwbFQyLW94bEVCeGFjLVJLWERLQ29wWktVMWMwOERZSjR3N0ZKNVJ3WHV4NkZvYy1Ia2ZqS21RS2hsS3AyclNyZVU1ZGNrbTNTRzlaMUJ2Y0xsZ3dGOEJDTEtFVDNlZDlxTXZ5MVVoUUE5ZENWTXNGbVhMajVPMGdmVWs2RUhqTEVvRU5nc1FtY0NSUXR4b2JtTWxzbHFuUUwzdzhScXc?oc=5",
-    "summary": "'I pay them $2.50 per hour and they take a LOT off my plate': Inside the exploitative world of virtual assistants Business Insider",
-    "published_at": "Thu, 05 Jan 2023 08:00:00 GMT"
-  },
-  {
-    "total": 7,
-    "ease": 2,
-    "payment_probability": 4,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $10,000",
-      "payment signals: $"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "I'm a virtual assistant making $10,000 a month in revenue. Here's how I started my business and make 6 figures a year. - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2JjdFBzTll6TmdzY2pERExBVV9ndDdnalViZXo2RmQ3V240V185TXZ5d0NmUG44NDExTmNXeUkzWXpLR1pPdFpzXzYxdkROOG9uOGdvd2k4cnEyUkJETUFCb3B2YUdQS2IwdGgta05MQnpnUExnS3g1WEw5dHJtVWxNaU1lY1ZfYmNBSGtJUFN4TkhDVTVnc2t3d1ZqOXVQM29vTWVVZw?oc=5",
-    "summary": "I'm a virtual assistant making $10,000 a month in revenue. Here's how I started my business and make 6 figures a year. Business Insider",
-    "published_at": "Thu, 09 Dec 2021 08:00:00 GMT"
-  },
-  {
-    "total": 7,
-    "ease": 2,
-    "payment_probability": 4,
-    "repeatability": 1,
-    "risk": 0,
-    "reasons": [
-      "visible budget: $9,000",
-      "payment signals: $"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDJwNTd6OXlJR3JabldKZnF3QzB0ZUlOSlFNcTg4TW9zSmY5aVdqSG5WVklRQ0ZsNEhyVnFxS0dJT1QtbC11eGY4cEo0Si0tU1N0V2tmaGs1NktLVW5ITTlnRXdPREFtOTd4LW03S1JRX21OV3J1bE1Jc1NXcmhHdGZacFI1WEloT0xobTVYWk4xU0ItMzJDRHd6NVRxb2dES3c?oc=5",
-    "summary": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. Business Insider",
-    "published_at": "Fri, 18 Feb 2022 08:00:00 GMT"
+    "source": "hn/paid gig",
+    "title": "Show HN: I built a blogging platform (5 years in, struggling with distribution)",
+    "url": "https://blogmaker.app/",
+    "summary": "A bit of context\u2026 I've been building https://blogmaker.app since April 2021, 5 years now. The launch tweet: https://x.com/BlogmakerApp/status/1383742023627247630 I had built it initially as a personal challenge to see if I could have a working product for 20 hours worth of work, and I did it. This was way before AI tools. A few months later, I included a Stripe button and the first payment came immediately in. In September 2022 I decided to focus (give up my contract gigs as a designer/dev). I t",
+    "published_at": "2026-04-21T14:17:47Z"
   },
   {
     "total": 7,
     "ease": 4,
+    "payment_probability": 3,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "visible budget: $140,000",
+      "payment signals: $",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "23 Skills To List On Your Resume For In-Demand Jobs That Pay $140,000+ - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2pZTHg3VEplTF9KY2UwWXhuaHozQXdOcFQtUlFYY1N2dTFrbGNuVi1SODFta3lnbW10VlNhWWVKZm5hU1drVFNSQ1B2SGYyS3dCMS1ld0dWdWlQeE54V1pGNHJLTWlkZVNHU2twUkxVdml3NGJhN2ZnUGNEUldZcWloWVhJYUNEb2hLbzUyN1VFbFJzRmtRZ2c4cDZBV1hSRzFpakVfcWNIeU42UVNZOVpwazNocTFzTkxpaQ?oc=5",
+    "summary": "23 Skills To List On Your Resume For In-Demand Jobs That Pay $140,000+ Forbes",
+    "published_at": "Fri, 31 Oct 2025 07:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 6,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: blog, canva",
+      "repeatable: template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/launching side project",
+    "title": "Show HN: OG Image API \u2013 Generate social preview images with JSON",
+    "url": "https://www.ogimageapi.io",
+    "summary": "Hey HN! I built this because I was tired of manually creating OG images for every blog post and side project. How it works: - Send a POST request with JSON (title, subtitle, template, etc.) - Get back a PNG in ~50-100ms - No Puppeteer, no browser automation \u2014 uses node-canvas for fast server-side rendering Live demo on the homepage (no signup needed). Free tier includes 10 images/month. I'm launching on Product Hunt today too, but honestly HN feedback is what I care about most. Would love to hea",
+    "published_at": "2025-12-11T18:47:55Z"
+  },
+  {
+    "total": 7,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 5,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume, template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "ResumeTemplates.com Survey: 3 in 5 Business Leaders Back Microsoft's Warning That AI Will Replace Most White-Collar Work Within 18 Months - Eastern Progress",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORmY0V0JEYi1vMGwxelNQY0hyMnUtNGdfM3VGOXZtZ1BpdmREeC1Cb0RCcDZaaENuLUxiLTA2YzlZbkhMLUJraFBxT1pBcXJVaTgzejhiVXk5ZlFTZUJ2LTlvWTl0X252UE5Sc1JMVXZSNF8tZ0U5YlYyY3FiTnRmYk4tLTVWTmhmM2s1TVc2SUpnemV5R0RlcGNDelFCWWlFU2lWR1UwMjRLdE1OMFZNSW5qNmc1Y1M2eEFhSzJZeEJLVWpodERYUm1YdTF0TGlQZThpbG5DMmVqNUxkdHMwX1JoZzQ4RWNLRVZBai12SFZ5c1U3UlhHakNkQzRNOWp4cThaWnptM1o?oc=5",
+    "summary": "ResumeTemplates.com Survey: 3 in 5 Business Leaders Back Microsoft's Warning That AI Will Replace Most White-Collar Work Within 18 Months Eastern Progress",
+    "published_at": "Thu, 05 Mar 2026 08:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 5,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume, template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Hadoop Developer Resume: Sample Template and Advice - dice.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54RW9uWDVOVllkMnBOa1Bub1lGclN4bG9rdy0xeHRxODV1MVBDNTEwSFRzemF0YmpvUElpT1ZObHV3RDBlc0duTS1SMklELUlzV2k4Y0g0TE1JOFg3NER5d0dsZnQ0Zmk0dWR5dHFRUGJpOEk?oc=5",
+    "summary": "Hadoop Developer Resume: Sample Template and Advice dice.com",
+    "published_at": "Mon, 16 Oct 2023 07:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 5,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume, template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "DevOps Engineer Resume: Template, Top Tips for Building the Best One - dice.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamh1eXc3R0VBcHkxWk01RHUwSHJFeHh3cWJ5LVk3bkZTTTVsZDM3Mk9rMWJ1VmtuVmRyN3dKQ0pIVEdBa1BOLXdyemdZME9PcmoyRU9Zak9xZmx0RUVEbHAyLVZoVHYzdXFoalVBelljVGpwQ3NyeTNVMXU0RFZGWmhWaFliaHA2c2t6WVRWVGRvVk9YQmxySzdNdkw2dTg0djJV?oc=5",
+    "summary": "DevOps Engineer Resume: Template, Top Tips for Building the Best One dice.com",
+    "published_at": "Tue, 28 Mar 2023 07:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 5,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume, template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Program Manager Resume: Template, Tips, and Tricks for Writing One - dice.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVlUdXc3MFhfTjg3RUxsZ1psUlpsZ1dFYW5VNVlqSWJPN1JCYU5XNnUzVnB4OHJJOV81cDh5SkJpRS11NFhhdWg5aUlBbFNVRm53MFRUZ2UtUkRPNWx1VFhPSHVZQVdfcXptUUJlNG5UVV9nbTgtQWdWcHlTTF93cFFaSHJiTmh2ejM4V3BUVWhVQ3dsVVBJQ2VfY1dFcHM?oc=5",
+    "summary": "Program Manager Resume: Template, Tips, and Tricks for Writing One dice.com",
+    "published_at": "Wed, 25 May 2022 07:00:00 GMT"
+  },
+  {
+    "total": 6,
+    "ease": 2,
+    "payment_probability": 4,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: thread",
+      "hard keywords: rust",
+      "visible budget: $21",
+      "payment signals: $, budget, contract",
+      "repeatable: thread",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: Trustless Campaigns \u2013 Gecko transforms brand-creator deals",
+    "url": "https://www.geckovision.tech",
+    "summary": "Gecko turns brand-creator deals into self-enforcing contracts \u2014 budget locked before the campaign starts, creators paid automatically when delivery is verified. Every brand-creator deal runs on trust. Brand pays after the creator posts. Creator posts before payment is locked. A *$21 billion industry on Telegram DMs and email threads* \u2014 when it breaks, there's no enforcement. Just a conversation that goes nowhere. Gecko fixes that at the contract level. A brand locks its budget into an on-chain v",
+    "published_at": "2026-04-24T02:10:59Z"
+  },
+  {
+    "total": 6,
+    "ease": 4,
     "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 0,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: thread",
+      "payment signals: contract",
+      "repeatable: thread",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: I built a personal corporation of AI agents that runs on your PC",
+    "url": "https://github.com/re-marked/claude-corp",
+    "summary": "Claude Corp is a daemon that runs and orchestrates an autonomous personal corporation of AI agents on your machine. OpenClaw agents form a social hierarchy, and everybody knows who they listen and report to. Agents can discuss stuff in channels, by @mentioning each other or using threads. Agents can create Tasks and Contracts, where Tasks are persistent tasks stored as file, and Contracts are a bundle of tasks, with a shared goal. When all tasks in a contract are done, the Contract is marked as ",
+    "published_at": "2026-04-08T16:20:32Z"
+  },
+  {
+    "total": 5,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "payment signals: budget, freelance",
+      "repeatable: weekly",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/need a freelancer",
+    "title": "Show HN: Crow's Nest \u2013 a weekly planner and budget tracker for Harvest users",
+    "url": "https://mycrowsnest.app",
+    "summary": "I've been a freelance developer for years and always struggled with planning my weeks and tracking project budgets. I use Harvest for time tracking, but it doesn't give me a weekly view or budget visibility until it's too late. So I built Crow's Nest \u2013 a work week planner and budget visibility layer that sits on top of Harvest. It pulls your time entries and shows you: - Your week laid out by project and capacity (before Monday hits) - Real-time budget progress for each project - The gap between",
+    "published_at": "2026-03-06T13:53:49Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
     "reasons": [
       "easy keywords: prompt",
-      "payment signals: paid"
+      "repeatable: prompts",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: TogetherLetters \u2013 Group newsletters with no app, no feed, no login",
+    "url": "https://www.togetherletters.com",
+    "summary": "Hey all, we're reposting from our previous Show HN about 5 years ago: https://news.ycombinator.com/item?id=28644205 Since then we've grown to more than 5k users across nearly 1k groups and have sent out more than 100k update prompts. The premise is simple - social media stinks and you either don't see updates from people you care about (they never post) or you miss the updates (flooded by other people's updates or an algorithm that downplays an update you'd care about even if it's seemingly unim",
+    "published_at": "2026-04-21T16:13:54Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: prompt",
+      "repeatable: pack",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: SafeInstall \u2013 local install-time guardrails for NPM/pnpm/bun",
+    "url": "https://www.safeinstall.dev/",
+    "summary": "Hey HN \u2014 after the Axios attack I went looking for something that could help against this kind of install-time risk. I didn\u2019t find a tool that did what I wanted, so I built one. SafeInstall is a local CLI for npm, pnpm, and bun. It checks policy before the package manager runs. Especially now, when tons of people are building with AIs like Cursor and Claude and either give them full rights or just hit enter on every prompt, I thought it was important to build a guardrail before the install happe",
+    "published_at": "2026-04-14T12:28:40Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: logo",
+      "repeatable: logo",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/launching side project",
+    "title": "Show HN: Super Launch \u2013 A platform for you to get discovered and grow traffic",
+    "url": "https://super-launch.app",
+    "summary": "I've been launching side projects for a while and realized that after the initial Product Hunt spike, there's not many places to get consistent visibility. So I built Super Launch \u2014 a curated directory where indie developers can list their startups and keep getting discovered. Here's what it offers: Submit your product and reach thousands of potential users looking for new tools AI-powered submission \u2014 auto-fill your listing with generated copy, logos, and screenshots Friend links \u2014 build recipr",
+    "published_at": "2026-02-20T22:44:39Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: article",
+      "repeatable: article",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: PanicLock \u2013 Close your MacBook lid disable TouchID \u2013> password unlock",
+    "url": "https://github.com/paniclock/paniclock/",
+    "summary": "I wrote this after the case of a Washington Post reporter, Hannah Natanson, was compelled to unlock her computer with her fingerprint. This resulted in access to her Desktop Signal on her computer, revealing sources and their conversations. https://www.yahoo.com/news/articles/washington-post-raid-pro... Edit: I've a lot more details about the legality and precedence on the apps landing page https://paniclock.github.io/",
+    "published_at": "2026-04-17T16:38:44Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "UIX Labs Highlights Pika AI Resume Tool Targeting HR Tech Demand - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0pQNWViSEpHSkhkZ1FKRHNiWFA0bEFDMWVMSWh5SWk3WDRWUG0zZ05helpNS0xVV0l5QWVmM1lOVUVMNF80NVlwUElPak5mQ1NmeFplRmpmWGRtTEQ2bUVUN25VQVhZN01Ba1AyWlZNZVpDeEx3VFZYWWxYckE4WlpQTDBCOWpmUEdiUGxiOFlpZk8yakUxeXF3TGN4YTNMczZtdEoyX204djBvRDRZLTFR?oc=5",
+    "summary": "UIX Labs Highlights Pika AI Resume Tool Targeting HR Tech Demand TipRanks",
+    "published_at": "Tue, 14 Apr 2026 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "10 Essential Teacher Resume Skills to Include for 2024 - Prodigy",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04WFZxNWlVT19XaUE5b3lxcEwybk40NGYtREl3eS1PaEVtNEVNRGxEMlRfVHNJMkdVM3lLcFE0TVRLVnhrWnBSdi1tQ2ZLNmtuakVObnE2cVVQektSNUJ6OTNtQ2c3SVE1U0t5WmVWQQ?oc=5",
+    "summary": "10 Essential Teacher Resume Skills to Include for 2024 Prodigy",
+    "published_at": "Wed, 15 Nov 2023 08:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "17 Best Resume Skills to Land Your Dream Job in 2025 - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rbjhLMHhGOFZmV3N3UE5DQ09PYTR2bkFPekx4TThHcFZZaHI2N3o3Z3ZwcnZoYkd1UkV0a1lOSVJKcVVPakprVnN0bDloZm42SkFqWFRfZlhCWjQ?oc=5",
+    "summary": "17 Best Resume Skills to Land Your Dream Job in 2025 BetterUp",
+    "published_at": "Mon, 26 Dec 2022 15:06:24 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "17 AI Skills To Put On Your Resume In 2025 - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnBmWWhKLWpIZGFhNHFFMUlhR3pMd2thNlRJMDBqZTFubUVKMTlsdHFFVHdjUVpyYnBoTzNfMElNZGJxYUxrMDNvSFpCYVRPS0RWR2pXWjlnbGY5NzVzRktNakMtRnNqSnhxSlBMMHhCWlVvdVRMOHNLSWpFSXp6UDEySjRNd3ZIb0Npb1BWdnpNVkhLMG12WC1IYw?oc=5",
+    "summary": "17 AI Skills To Put On Your Resume In 2025 Forbes",
+    "published_at": "Fri, 11 Jul 2025 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Marketing Skills for Your Resume in 2024 + Examples - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yZ2xqMlhLVzBkemppOUdMX0ZRVGd0UjJMREdTZnpuNGp1U3l5alJJdVo5MTJpY2pqOTh6RHFPalEtOVZsV0V3UEN6d0pkeGlHWjRSYWRtQko0Zw?oc=5",
+    "summary": "Marketing Skills for Your Resume in 2024 + Examples BetterUp",
+    "published_at": "Fri, 22 Sep 2023 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
+    "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
+    "published_at": "Thu, 23 Jan 2025 08:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Transferable Skills: 17 Examples to Boost Your Resume & Career - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
+    "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
+    "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
+  },
+  {
+    "total": 4,
+    "ease": 2,
+    "payment_probability": 4,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $30",
+      "payment signals: $, freelance",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/need a freelancer",
+    "title": "Show HN: SignForge \u2013 Free e-signature tool, no account needed to sign",
+    "url": "https://signforge.io",
+    "summary": "Hey HN, I built SignForge as a free alternative to DocuSign/PandaDoc for freelancers and small businesses who just need to get documents signed without the $30/month tax. How it works: Upload a PDF \u2192 drag signature/date/text fields onto it \u2192 send to signer via email \u2192 they sign with a link (no account needed) \u2192 you get the signed PDF with a full audit trail and verification certificate. Tech stack: Next.js + FastAPI + PostgreSQL + PyMuPDF. PDFs are stamped server-side (image overlay, not AcroFor",
+    "published_at": "2026-02-26T08:34:29Z"
+  },
+  {
+    "total": 4,
+    "ease": 2,
+    "payment_probability": 4,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $10",
+      "payment signals: $, paid",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/launching side project",
+    "title": "Show HN: Ogmap \u2013 A low-cost vector map tiles API",
+    "url": "https://ogmap.com/",
+    "summary": "Hey everyone I\u2019ve been hacking on a project \u2192 [OGMAP]( https://ogmap.com ). It\u2019s a *vector tiles API (PBF)* with simple prepaid pricing: - $10 = 1,000,000 tiles - 250k free on sign-up - Auto-buy with Stripe, with safety limits - Served worldwide via Cloudflare CDN We don\u2019t try to compete with Mapbox feature-wise. It\u2019s literally just fast, low-cost tiles + some basic styles for MapLibre. Why I built it: I wanted to start a web project and realized if it got even a bit popular (before monetization",
+    "published_at": "2025-09-03T18:31:05Z"
+  },
+  {
+    "total": 4,
+    "ease": 4,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: prompt",
+      "payment signals: paid",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/paid gig",
     "title": "Show HN: NotchPrompter \u2013 A simple, open-source teleprompter for macOS,no AI-slop",
@@ -601,14 +498,15 @@
     "published_at": "2026-04-17T11:39:46Z"
   },
   {
-    "total": 7,
+    "total": 4,
     "ease": 2,
     "payment_probability": 2,
     "repeatability": 3,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
       "payment signals: freelance",
-      "repeatable: pack"
+      "repeatable: pack",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/need a freelancer",
     "title": "Show HN: Upvoicy \u2013 Simple feedback management tool for teams and creators",
@@ -617,13 +515,150 @@
     "published_at": "2026-02-24T23:47:51Z"
   },
   {
-    "total": 6,
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $1",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/launching side project",
+    "title": "Show HN: Mumpix \u2013 Local-first AI infrastructure and $1B developer grant",
+    "url": "https://mumpixdb.com/mumpix-billion-program.html#claim",
+    "summary": "Hi HN, I\u2019m working on Mumpix, a local-first infrastructure stack for building AI systems that don\u2019t depend on centralized cloud platforms. The goal is to make AI memory, state, and infrastructure run anywhere: phones, browsers, desktops, servers, or edge devices. The stack currently has four layers: MumpixDB Structured hierarchical database designed for AI memory and application state. Examples of keys: memory^assistant^context memory^assistant^recent workflow^task^42^status Features: \u2022 hierarch",
+    "published_at": "2026-03-10T23:49:41Z"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $100",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/launching side project",
+    "title": "Show HN: A Visual No-Code Game Engine \u2013 50x Easier Than Unity",
+    "url": "https://play-maker.io",
+    "summary": "I've spent 30 years making games as both a hobby and profession, working with Unity, Unreal, GameMaker, RPG Maker, Ren'Py, Godot, and many others. A few years ago, I attended a game dev meetup and met dozens of people with incredible passion for making games \u2013 but they were struggling because they lacked technical knowledge. That's when I decided to build a tool that anyone could use to create games. I started developing this as a side project, eventually raised ~$100K through crowdfunding in Ko",
+    "published_at": "2025-10-23T09:47:53Z"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $1",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "20 Cheap Business Ideas Under $1K | Home Business Guide - Business.com",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Uc0s0RjVrOHdveDZubjRrQUx6dVFoMV9Zam1QNGtfT2hXeGRXN0FzUlVGUXk4UThzcHRrYzZCejBnZVhzQzdFX2ZUYjFDQ1J1VXlmSDJLa3UxZ3RMME1XTGFNSlhuQQ?oc=5",
+    "summary": "20 Cheap Business Ideas Under $1K | Home Business Guide Business.com",
+    "published_at": "Mon, 30 Mar 2026 07:00:00 GMT"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $1,000",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "25 Remote Small-Business Ideas You Can Start for Under $1,000 - inc.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTHNNckFxY0NScGZJbnBxMzhYdUhMcGIxVlBMQzBUbU1OdXBCalFZMkZDdENwdDJNa2c1ZUc1eHRoV2t2M09abGMzWi04TU1SYjVURUVZRFByczNhTFJ6Tk94enkzeUQtOG5mZThFdnA3bkJxSjVEOVJSX0JMNFZHMHhjYUI1ZEpZMWVqUXdMUkJhRGNvVFpIZm8wMDYwdk9ZbTFUYg?oc=5",
+    "summary": "25 Remote Small-Business Ideas You Can Start for Under $1,000 inc.com",
+    "published_at": "Sun, 27 Jul 2025 07:00:00 GMT"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $2.50",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "'I pay them $2.50 per hour and they take a LOT off my plate': Inside the exploitative world of virtual assistants - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnVKSkpuSjJwbFQyLW94bEVCeGFjLVJLWERLQ29wWktVMWMwOERZSjR3N0ZKNVJ3WHV4NkZvYy1Ia2ZqS21RS2hsS3AyclNyZVU1ZGNrbTNTRzlaMUJ2Y0xsZ3dGOEJDTEtFVDNlZDlxTXZ5MVVoUUE5ZENWTXNGbVhMajVPMGdmVWs2RUhqTEVvRU5nc1FtY0NSUXR4b2JtTWxzbHFuUUwzdzhScXc?oc=5",
+    "summary": "'I pay them $2.50 per hour and they take a LOT off my plate': Inside the exploitative world of virtual assistants Business Insider",
+    "published_at": "Thu, 05 Jan 2023 08:00:00 GMT"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $10,000",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "I'm a virtual assistant making $10,000 a month in revenue. Here's how I started my business and make 6 figures a year. - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2JjdFBzTll6TmdzY2pERExBVV9ndDdnalViZXo2RmQ3V240V185TXZ5d0NmUG44NDExTmNXeUkzWXpLR1pPdFpzXzYxdkROOG9uOGdvd2k4cnEyUkJETUFCb3B2YUdQS2IwdGgta05MQnpnUExnS3g1WEw5dHJtVWxNaU1lY1ZfYmNBSGtJUFN4TkhDVTVnc2t3d1ZqOXVQM29vTWVVZw?oc=5",
+    "summary": "I'm a virtual assistant making $10,000 a month in revenue. Here's how I started my business and make 6 figures a year. Business Insider",
+    "published_at": "Thu, 09 Dec 2021 08:00:00 GMT"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $500,000",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "How I Built a Virtual-Assistant Company That's Made $500,000 This Year - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVjZuWXZqOU00S2dhY29rcElnUkZia193T0dkSGs1V2QwZ1NFQWJRbkZYNVZRX2FhUlNrZnBqakdtRm9pV1JDbXRxc1U0TEdlZzcxWm91T0FIVFkwYk5QTE9pWmFFclM4Y19fNFNoLUR0TDdQS0xYTF9KVUhBNXdERE5ZbkJyV2FnRDRmNmVHMDJ1dEMtR1dBVTZUTU83SGFVRjctcTRkeTU?oc=5",
+    "summary": "How I Built a Virtual-Assistant Company That's Made $500,000 This Year Business Insider",
+    "published_at": "Thu, 18 Aug 2022 07:00:00 GMT"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $9,000",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDJwNTd6OXlJR3JabldKZnF3QzB0ZUlOSlFNcTg4TW9zSmY5aVdqSG5WVklRQ0ZsNEhyVnFxS0dJT1QtbC11eGY4cEo0Si0tU1N0V2tmaGs1NktLVW5ITTlnRXdPREFtOTd4LW03S1JRX21OV3J1bE1Jc1NXcmhHdGZacFI1WEloT0xobTVYWk4xU0ItMzJDRHd6NVRxb2dES3c?oc=5",
+    "summary": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. Business Insider",
+    "published_at": "Fri, 18 Feb 2022 08:00:00 GMT"
+  },
+  {
+    "total": 3,
     "ease": 4,
     "payment_probability": 1,
     "repeatability": 1,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
-      "easy keywords: blog"
+      "easy keywords: blog",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/looking for help",
     "title": "Show HN: Track official AI company news and blogs in your Chrome side panel",
@@ -632,13 +667,14 @@
     "published_at": "2026-04-26T04:19:47Z"
   },
   {
-    "total": 6,
+    "total": 3,
     "ease": 4,
     "payment_probability": 1,
     "repeatability": 1,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
-      "easy keywords: tweet"
+      "easy keywords: tweet",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/looking for help",
     "title": "Show HN: A Little Excursion",
@@ -647,13 +683,14 @@
     "published_at": "2026-04-07T19:13:56Z"
   },
   {
-    "total": 6,
+    "total": 3,
     "ease": 4,
     "payment_probability": 1,
     "repeatability": 1,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
-      "easy keywords: summary"
+      "easy keywords: summary",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/paid gig",
     "title": "Show HN: Xtrace \u2013 Unix-Style macOS Profiling for Instruments (CPU/GPU/Memory)",
@@ -662,13 +699,14 @@
     "published_at": "2026-04-25T09:28:45Z"
   },
   {
-    "total": 6,
+    "total": 3,
     "ease": 2,
     "payment_probability": 1,
     "repeatability": 3,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
-      "repeatable: pack"
+      "repeatable: pack",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/launching side project",
     "title": "Show HN: 100000 backlinks in under 7 days to accelerate early growth",
@@ -677,13 +715,14 @@
     "published_at": "2026-01-10T16:19:29Z"
   },
   {
-    "total": 6,
+    "total": 3,
     "ease": 2,
     "payment_probability": 1,
     "repeatability": 3,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
-      "repeatable: monthly"
+      "repeatable: monthly",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/launching side project",
     "title": "Show HN: TinTekka \u2013 AI tool roadmap for agencies",
@@ -692,13 +731,14 @@
     "published_at": "2025-12-14T18:55:10Z"
   },
   {
-    "total": 6,
+    "total": 3,
     "ease": 2,
     "payment_probability": 1,
     "repeatability": 3,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
-      "repeatable: template"
+      "repeatable: template",
+      "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
     "title": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech - Fast Company",
@@ -707,13 +747,14 @@
     "published_at": "Tue, 23 Feb 2021 08:00:00 GMT"
   },
   {
-    "total": 5,
+    "total": 2,
     "ease": 2,
     "payment_probability": 2,
     "repeatability": 1,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
-      "payment signals: $"
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/looking for help",
     "title": "Show HN: Cush \u2013 curl your shell, an HTTP tunnel for AI agents",
@@ -722,13 +763,14 @@
     "published_at": "2026-04-15T16:01:43Z"
   },
   {
-    "total": 5,
+    "total": 2,
     "ease": 2,
     "payment_probability": 2,
     "repeatability": 1,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
-      "payment signals: fixed"
+      "payment signals: fixed",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/looking for help",
     "title": "Show HN: AI agents are bad at API integrations \u2013 we fixed it",
@@ -737,13 +779,14 @@
     "published_at": "2026-04-09T15:06:54Z"
   },
   {
-    "total": 5,
+    "total": 2,
     "ease": 2,
     "payment_probability": 2,
     "repeatability": 1,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
-      "payment signals: freelance"
+      "payment signals: freelance",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/need a freelancer",
     "title": "Show HN: VizTools \u2013 16 free tools for PMs and freelancers, deliberately no AI",
@@ -752,13 +795,14 @@
     "published_at": "2026-03-28T05:36:46Z"
   },
   {
-    "total": 5,
+    "total": 2,
     "ease": 2,
     "payment_probability": 2,
     "repeatability": 1,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
-      "payment signals: freelance"
+      "payment signals: freelance",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/need a freelancer",
     "title": "Show HN: I'm trying to help aspiring Data Analysts",
@@ -767,13 +811,14 @@
     "published_at": "2026-03-17T13:37:42Z"
   },
   {
-    "total": 5,
+    "total": 2,
     "ease": 2,
     "payment_probability": 2,
     "repeatability": 1,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
-      "payment signals: paid"
+      "payment signals: paid",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/paid gig",
     "title": "Show HN: MTTCleaner \u2013 Same as CCleaner but free, no ads",
@@ -782,13 +827,14 @@
     "published_at": "2026-04-26T00:13:17Z"
   },
   {
-    "total": 5,
+    "total": 2,
     "ease": 2,
     "payment_probability": 2,
     "repeatability": 1,
-    "risk": 0,
+    "risk": 3,
     "reasons": [
-      "payment signals: paid"
+      "payment signals: paid",
+      "market-signal source without direct buyer intent"
     ],
     "source": "hn/paid gig",
     "title": "Farcaster Agent Kit \u2013 CLI for AI agents to use Farcaster, zero paid APIs",

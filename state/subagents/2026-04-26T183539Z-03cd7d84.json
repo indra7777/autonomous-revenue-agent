@@ -1,0 +1,18 @@
+{
+  "role": "sales_copy_subagent",
+  "created_at": "2026-04-26T18:35:39+00:00",
+  "goal": "Prepare one approval-gated revenue action for the human overseer.",
+  "opportunity": {
+    "source": "hn/need a freelancer",
+    "title": "Show HN: Feuxo \u2013 Real-Time hiring posts + contacts + AI personalized outreach",
+    "url": "https://feuxo.com",
+    "summary": "Hi HN, I built Feuxo to help freelancers and job seeker finds real-time active opportunities outside traditional job boards. It scans public posts where people explicitly say they\u2019re looking for specific skills (e.g., \u201cneed a developer\u201d, \u201clooking for digital marketer\u201d), and surfaces: - The original live post link - Contact information when available - AI-generated personalized outreach / cover letter you can use quickly I started by doing this manually for people replying to my posts, and in the"
+  },
+  "constraints": [
+    "No autonomous posting.",
+    "No account creation.",
+    "No paid tools.",
+    "No false claims.",
+    "Human must approve and send the final message."
+  ]
+}
