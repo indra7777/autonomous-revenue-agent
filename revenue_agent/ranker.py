@@ -140,10 +140,11 @@ def score_opportunity(opportunity: Opportunity) -> ScoredOpportunity:
     buyer_hits = keyword_hits(text, BUYER_KEYWORDS)
     seller_hits = keyword_hits(text, SELLER_KEYWORDS)
     amount = extract_amount(text)
-    payment_probability += min(5, len(payment_hits))
+    has_buyer_signal = bool(buyer_hits)
+    payment_probability += min(5, len(payment_hits)) if has_buyer_signal else min(2, len(payment_hits))
     payment_probability += min(3, len(buyer_hits) * 2)
     if amount:
-        payment_probability += 2
+        payment_probability += 2 if has_buyer_signal else 1
         reasons.append(f"visible budget: {amount}")
     if payment_hits:
         reasons.append(f"payment signals: {', '.join(payment_hits[:3])}")
@@ -164,6 +165,9 @@ def score_opportunity(opportunity: Opportunity) -> ScoredOpportunity:
     risk += min(8, len(risk_hits) * 3)
     if seller_hits or title_text.startswith("[for hire]"):
         risk += 8
+    if opportunity.source.startswith(("hn/", "google-news/")) and not has_buyer_signal:
+        risk += 3
+        reasons.append("market-signal source without direct buyer intent")
     if risk_hits:
         reasons.append(f"risk keywords: {', '.join(risk_hits[:3])}")
 

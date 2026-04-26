@@ -55,6 +55,25 @@ class RankerTest(unittest.TestCase):
         self.assertEqual(ranked[0].opportunity.url, "https://example.com/buyer")
         self.assertGreaterEqual(ranked[1].risk, 8)
 
+    def test_ranker_prefers_direct_buyer_over_market_signal_article(self) -> None:
+        article = Opportunity(
+            source="hn/paid gig",
+            title="Show HN: Brand creator deals platform raises $21k",
+            url="https://example.com/article",
+            summary="Campaign budgets and contracts for creators.",
+        )
+        buyer = Opportunity(
+            source="reddit/r/DesignJobs",
+            title="[Hiring] Turn logo into vector art $30 paid",
+            url="https://example.com/buyer",
+            summary="I would like to hire someone for a fixed budget logo vector task.",
+        )
+
+        ranked = rank_opportunities([article, buyer])
+
+        self.assertEqual(ranked[0].opportunity.url, "https://example.com/buyer")
+        self.assertGreaterEqual(ranked[1].risk, 3)
+
 
 if __name__ == "__main__":
     unittest.main()
