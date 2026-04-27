@@ -639,22 +639,6 @@
   },
   {
     "total": 3,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: blog",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "New year, new you \u2014 make Adobe Express a part of your resolutions - the Adobe Blog",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaF9aeFlST3RMUHBncHhHQTloUjkzc0w0bmdnd1plLVNUdDlSdk10aHRRcGt2akJsTDZYbEdDMjY4aHJnR01VOXctQ3FuM2hKNlh3bWRLdzloZ21EWEZGMDhoU19LR0ZfWmE4Zkt2REkzYUNtNnhiOXE2MnhyNjlSaWtRemk1RkpwbnFlTkJQOUM?oc=5",
-    "summary": "New year, new you \u2014 make Adobe Express a part of your resolutions the Adobe Blog",
-    "published_at": "Mon, 09 Jan 2023 08:00:00 GMT"
-  },
-  {
-    "total": 3,
     "ease": 2,
     "payment_probability": 1,
     "repeatability": 3,
@@ -844,5 +828,21 @@
     "url": "https://github.com/jeffskafi/OpenBolt",
     "summary": "Hey HN, As we move toward multi-agent orchestration, the biggest bottleneck I've seen is that agents don't have bank accounts. When an agent hits a paid API wall or needs to outsource a task to another agent, the workflow breaks. I built BoltClaw to solve this by bridging the Model Context Protocol (MCP) with the Lightning Network. How it works: Claude uses the MCP tool to fetch data from an endpoint. If the endpoint returns an HTTP 402 Payment Required, the tool intercepts the response and pars",
     "published_at": "2026-04-07T02:09:26Z"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: commission",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/AI tools affiliate program launch",
+    "title": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSzY4YmdFcVRodzJzTi1EQUk3UWhxV1NadV9ydUVuYnFuVWpEdHB3T1VKQ0o2aERVNFcyWWxRUHVmbXgtTXMzT3R2QmRnY082QXZnR05QOEhTVjlRN2VxRnVnSEY4ZDZqLXE2NV82aXRPWFhGZEkyVE52Mkp1ekdWbnNYVTY5UzI2d2xBRER0N29kV2NLemxXcHJad3pRRkJyQmNJWW5zdWlvdC05Zmd4cDE2elR5R2RmTlNib0F0ZG1nLTQ0a2hzeHo0M25aTHRBY0RRRHNxMWs1ZkZVUVZGZzU3TVVlUEZlclJQZmt3?oc=5",
+    "summary": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions FinancialContent",
+    "published_at": "Fri, 06 Feb 2026 08:00:00 GMT"
   }
 ]
