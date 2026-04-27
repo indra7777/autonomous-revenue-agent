@@ -124,6 +124,24 @@
   },
   {
     "total": 6,
+    "ease": 4,
+    "payment_probability": 4,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: prompt",
+      "visible budget: $0.002",
+      "payment signals: $, usd",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: Zoneless \u2013 Open-source Stripe Connect clone with $0.002 fees using USDC",
+    "url": "https://github.com/zonelessdev/zoneless",
+    "summary": "Hi HN, I'm Ben / Tiny Projects (I once posted here about buying 300 emoji domains from Kazakhstan\u2026). For the past 3 years I've been solo bootstrapping PromptBase, an AI marketplace with 450k+ users. At the peak, I was burning $9,400/month in opaque Stripe Connect fees for seller payouts, so I built Zoneless to replace it: - GitHub: https://github.com/zonelessdev/zoneless - Website: https://zoneless.com Zoneless is a free, open-source (Apache 2.0) drop-in replacement for the payout part of Stripe",
+    "published_at": "2026-04-09T14:31:19Z"
+  },
+  {
+    "total": 6,
     "ease": 2,
     "payment_probability": 4,
     "repeatability": 3,
@@ -252,15 +270,16 @@
     "repeatability": 3,
     "risk": 3,
     "reasons": [
-      "easy keywords: article",
+      "easy keywords: article, cv",
+      "hard keywords: rust",
       "repeatable: article",
       "market-signal source without direct buyer intent"
     ],
     "source": "hn/paid gig",
-    "title": "Show HN: PanicLock \u2013 Close your MacBook lid disable TouchID \u2013> password unlock",
-    "url": "https://github.com/paniclock/paniclock/",
-    "summary": "I wrote this after the case of a Washington Post reporter, Hannah Natanson, was compelled to unlock her computer with her fingerprint. This resulted in access to her Desktop Signal on her computer, revealing sources and their conversations. https://www.yahoo.com/news/articles/washington-post-raid-pro... Edit: I've a lot more details about the legality and precedence on the apps landing page https://paniclock.github.io/",
-    "published_at": "2026-04-17T16:38:44Z"
+    "title": "Show HN: Cyber Pulse. AI pipeline for triage and alerting on cyber news/intel",
+    "url": "https://play.google.com/store/apps/details?id=com.cyberpulse.cyber_pulse&hl=en_US",
+    "summary": "I work in cyber security and built this android app to help me keep up to date with the latest news stories and summarise the most important information. It provides two executive summaries per day and alerts for critical news throughout. I\u2019m using Gemini Pro 3 to analyse recent articles from a list of trusted sources. It identifies the 5 highest priority stories, considering things like if a vulnerability is being actively exploited, novelty and breadth. If CVEs are identified, it will check fo",
+    "published_at": "2026-04-14T13:30:02Z"
   },
   {
     "total": 5,
@@ -592,23 +611,6 @@
     "repeatability": 1,
     "risk": 3,
     "reasons": [
-      "visible budget: $500,000",
-      "payment signals: $",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "How I Built a Virtual-Assistant Company That's Made $500,000 This Year - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVjZuWXZqOU00S2dhY29rcElnUkZia193T0dkSGs1V2QwZ1NFQWJRbkZYNVZRX2FhUlNrZnBqakdtRm9pV1JDbXRxc1U0TEdlZzcxWm91T0FIVFkwYk5QTE9pWmFFclM4Y19fNFNoLUR0TDdQS0xYTF9KVUhBNXdERE5ZbkJyV2FnRDRmNmVHMDJ1dEMtR1dBVTZUTU83SGFVRjctcTRkeTU?oc=5",
-    "summary": "How I Built a Virtual-Assistant Company That's Made $500,000 This Year Business Insider",
-    "published_at": "Thu, 18 Aug 2022 07:00:00 GMT"
-  },
-  {
-    "total": 3,
-    "ease": 2,
-    "payment_probability": 3,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
       "visible budget: $9,000",
       "payment signals: $",
       "market-signal source without direct buyer intent"
@@ -618,22 +620,6 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDJwNTd6OXlJR3JabldKZnF3QzB0ZUlOSlFNcTg4TW9zSmY5aVdqSG5WVklRQ0ZsNEhyVnFxS0dJT1QtbC11eGY4cEo0Si0tU1N0V2tmaGs1NktLVW5ITTlnRXdPREFtOTd4LW03S1JRX21OV3J1bE1Jc1NXcmhHdGZacFI1WEloT0xobTVYWk4xU0ItMzJDRHd6NVRxb2dES3c?oc=5",
     "summary": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. Business Insider",
     "published_at": "Fri, 18 Feb 2022 08:00:00 GMT"
-  },
-  {
-    "total": 3,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: blog",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: Track official AI company news and blogs in your Chrome side panel",
-    "url": "https://chromewebstore.google.com/detail/bigtech-ai-news/aehmpingbppjnlppejppiifmijdjjiej",
-    "summary": "I've already picked up so much great news and tips from here \u2014 thanks to the HNers for sharing. That said, I still find myself manually checking various official newsrooms and engineering blogs. To save myself from the constant 'tab hunting,' I built a small Chrome extension with a bit of help from Codex. It\u2019s been working well for my workflow, so I figured I\u2019d put it on the Web Store in case anyone else finds it useful. Since many companies don't provide (or they just neglect) RSS feeds anymore",
-    "published_at": "2026-04-26T04:19:47Z"
   },
   {
     "total": 3,
@@ -658,14 +644,14 @@
     "repeatability": 1,
     "risk": 3,
     "reasons": [
-      "easy keywords: summary",
+      "easy keywords: blog",
       "market-signal source without direct buyer intent"
     ],
-    "source": "hn/paid gig",
-    "title": "Show HN: Xtrace \u2013 Unix-Style macOS Profiling for Instruments (CPU/GPU/Memory)",
-    "url": "https://github.com/Kr1sso/xtrace-skill",
-    "summary": "I built this because I wanted a terminal-first profiling workflow on macOS, without constantly switching into the Instruments GUI. What it does today: - CPU analysis: summary, timeline, calltree, collapsed stacks, flamegraph, diff - GPU analysis (trace-gpu.py): active/idle ratios, command-buffer cadence, process ownership - Memory analysis (trace-memory.py): summary, leaks, growth, heap/regions - Recording modes: launch, attach by PID/name, wait-for spawn, system-wide - Root-aware attach flow fo",
-    "published_at": "2026-04-25T09:28:45Z"
+    "source": "google-news/new resume templates demand",
+    "title": "New year, new you \u2014 make Adobe Express a part of your resolutions - the Adobe Blog",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaF9aeFlST3RMUHBncHhHQTloUjkzc0w0bmdnd1plLVNUdDlSdk10aHRRcGt2akJsTDZYbEdDMjY4aHJnR01VOXctQ3FuM2hKNlh3bWRLdzloZ21EWEZGMDhoU19LR0ZfWmE4Zkt2REkzYUNtNnhiOXE2MnhyNjlSaWtRemk1RkpwbnFlTkJQOUM?oc=5",
+    "summary": "New year, new you \u2014 make Adobe Express a part of your resolutions the Adobe Blog",
+    "published_at": "Mon, 09 Jan 2023 08:00:00 GMT"
   },
   {
     "total": 3,
@@ -842,5 +828,21 @@
     "url": "https://github.com/anthropics/claude-code/issues/41930",
     "summary": "",
     "published_at": "2026-04-15T09:47:46Z"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: paid",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: MCP plugin that lets Claude autonomously pay for APIs via Lightning",
+    "url": "https://github.com/jeffskafi/OpenBolt",
+    "summary": "Hey HN, As we move toward multi-agent orchestration, the biggest bottleneck I've seen is that agents don't have bank accounts. When an agent hits a paid API wall or needs to outsource a task to another agent, the workflow breaks. I built BoltClaw to solve this by bridging the Model Context Protocol (MCP) with the Lightning Network. How it works: Claude uses the MCP tool to fetch data from an endpoint. If the endpoint returns an HTTP 402 Payment Required, the tool intercepts the response and pars",
+    "published_at": "2026-04-07T02:09:26Z"
   }
 ]
