@@ -83,6 +83,23 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
+    "title": "ResumeTemplates.com Survey: 3 in 5 Business Leaders Back Microsoft's Warning That AI Will Replace Most White-Collar Work Within 18 Months - Eastern Progress",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORmY0V0JEYi1vMGwxelNQY0hyMnUtNGdfM3VGOXZtZ1BpdmREeC1Cb0RCcDZaaENuLUxiLTA2YzlZbkhMLUJraFBxT1pBcXJVaTgzejhiVXk5ZlFTZUJ2LTlvWTl0X252UE5Sc1JMVXZSNF8tZ0U5YlYyY3FiTnRmYk4tLTVWTmhmM2s1TVc2SUpnemV5R0RlcGNDelFCWWlFU2lWR1UwMjRLdE1OMFZNSW5qNmc1Y1M2eEFhSzJZeEJLVWpodERYUm1YdTF0TGlQZThpbG5DMmVqNUxkdHMwX1JoZzQ4RWNLRVZBai12SFZ5c1U3UlhHakNkQzRNOWp4cThaWnptM1o?oc=5",
+    "summary": "ResumeTemplates.com Survey: 3 in 5 Business Leaders Back Microsoft's Warning That AI Will Replace Most White-Collar Work Within 18 Months Eastern Progress",
+    "published_at": "Thu, 05 Mar 2026 08:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 5,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume, template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
     "title": "Hadoop Developer Resume: Sample Template and Advice - dice.com",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54RW9uWDVOVllkMnBOa1Bub1lGclN4bG9rdy0xeHRxODV1MVBDNTEwSFRzemF0YmpvUElpT1ZObHV3RDBlc0duTS1SMklELUlzV2k4Y0g0TE1JOFg3NER5d0dsZnQ0Zmk0dWR5dHFRUGJpOEk?oc=5",
     "summary": "Hadoop Developer Resume: Sample Template and Advice dice.com",
@@ -252,6 +269,23 @@
     "repeatability": 3,
     "risk": 3,
     "reasons": [
+      "easy keywords: prompt",
+      "repeatable: prompts",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: Slerp.audio \u2013 VDJ with WebGL2 and real-time DSP",
+    "url": "https://slerp.audio/",
+    "summary": "I wanted to push the limits of what I could build with Cursor. I did not write a single line of code, only prompts, plan docs, and agent files, while directing the LLM to use automated code checks (file length, linting, unit tests, performance tests, other safe guards around gh + aws cli) I built a browser VDJ-style demo with fullscreen WebGL2 shaders. It\u2019s something I\u2019ve always wanted to build but never had the time to learn all that was required. Cursor almost feels like the early days of my c",
+    "published_at": "2026-04-27T11:34:19Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
       "easy keywords: article, cv",
       "hard keywords: rust",
       "repeatable: article",
@@ -360,23 +394,6 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "What Are Hard Skills? 45 Examples For Your Resume - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMHJreEhwRFdWQmszbDJuQzNUOVVtNDNSTW9MWHhFc3NFUzFqU1dKcm5vVkhsRi0zMTdNRE9mZ3dnLS1aV0F6U0pEWGFoY2k0QjRN?oc=5",
-    "summary": "What Are Hard Skills? 45 Examples For Your Resume BetterUp",
-    "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
     "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
     "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
@@ -398,23 +415,6 @@
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
     "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
     "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOZXJ2UGNHVzhVenEyUzVfVVdZSVZVV2VzS0FkQ0ZaY0FWOV9yMzhVaG1ucGpsTGl4S0tXTWw2T05xdk9WQ05BeFE0MnNvaDNRWW1IRHczazhra0VpaTBxdVhmR25pMGhGYlpDdFk0cUpZTGNsMXfSAXtBVV95cUxQM2FTQ0lNOF9WVW84bkdGM21zUk0zc08tV3VVcTk1bWIwUmk5OTBhX2ZlZm5SU3pkcmRfa0h2OXR0RkhTQTRKWF9xNEpXdzFIM3hKQzhRSDctQ1o2dkJqTEpTTUxlQk94dF83NTZmVTRrNEJJUFhRZjZfNFU?oc=5",
-    "summary": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 CNBC",
-    "published_at": "Wed, 19 Oct 2022 07:00:00 GMT"
   },
   {
     "total": 4,
