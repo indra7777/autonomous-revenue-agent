@@ -124,24 +124,6 @@
   },
   {
     "total": 6,
-    "ease": 4,
-    "payment_probability": 4,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: prompt",
-      "visible budget: $0.002",
-      "payment signals: $, usd",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/paid gig",
-    "title": "Show HN: Zoneless \u2013 Open-source Stripe Connect clone with $0.002 fees using USDC",
-    "url": "https://github.com/zonelessdev/zoneless",
-    "summary": "Hi HN, I'm Ben / Tiny Projects (I once posted here about buying 300 emoji domains from Kazakhstan\u2026). For the past 3 years I've been solo bootstrapping PromptBase, an AI marketplace with 450k+ users. At the peak, I was burning $9,400/month in opaque Stripe Connect fees for seller payouts, so I built Zoneless to replace it: - GitHub: https://github.com/zonelessdev/zoneless - Website: https://zoneless.com Zoneless is a free, open-source (Apache 2.0) drop-in replacement for the payout part of Stripe",
-    "published_at": "2026-04-09T14:31:19Z"
-  },
-  {
-    "total": 6,
     "ease": 2,
     "payment_probability": 4,
     "repeatability": 3,
@@ -820,14 +802,14 @@
     "repeatability": 1,
     "risk": 3,
     "reasons": [
-      "payment signals: paid",
+      "payment signals: commission",
       "market-signal source without direct buyer intent"
     ],
-    "source": "hn/paid gig",
-    "title": "Show HN: MCP plugin that lets Claude autonomously pay for APIs via Lightning",
-    "url": "https://github.com/jeffskafi/OpenBolt",
-    "summary": "Hey HN, As we move toward multi-agent orchestration, the biggest bottleneck I've seen is that agents don't have bank accounts. When an agent hits a paid API wall or needs to outsource a task to another agent, the workflow breaks. I built BoltClaw to solve this by bridging the Model Context Protocol (MCP) with the Lightning Network. How it works: Claude uses the MCP tool to fetch data from an endpoint. If the endpoint returns an HTTP 402 Payment Required, the tool intercepts the response and pars",
-    "published_at": "2026-04-07T02:09:26Z"
+    "source": "google-news/AI tools affiliate program launch",
+    "title": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSzY4YmdFcVRodzJzTi1EQUk3UWhxV1NadV9ydUVuYnFuVWpEdHB3T1VKQ0o2aERVNFcyWWxRUHVmbXgtTXMzT3R2QmRnY082QXZnR05QOEhTVjlRN2VxRnVnSEY4ZDZqLXE2NV82aXRPWFhGZEkyVE52Mkp1ekdWbnNYVTY5UzI2d2xBRER0N29kV2NLemxXcHJad3pRRkJyQmNJWW5zdWlvdC05Zmd4cDE2elR5R2RmTlNib0F0ZG1nLTQ0a2hzeHo0M25aTHRBY0RRRHNxMWs1ZkZVUVZGZzU3TVVlUEZlclJQZmt3?oc=5",
+    "summary": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions FinancialContent",
+    "published_at": "Fri, 06 Feb 2026 08:00:00 GMT"
   },
   {
     "total": 2,
@@ -840,9 +822,25 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/AI tools affiliate program launch",
-    "title": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSzY4YmdFcVRodzJzTi1EQUk3UWhxV1NadV9ydUVuYnFuVWpEdHB3T1VKQ0o2aERVNFcyWWxRUHVmbXgtTXMzT3R2QmRnY082QXZnR05QOEhTVjlRN2VxRnVnSEY4ZDZqLXE2NV82aXRPWFhGZEkyVE52Mkp1ekdWbnNYVTY5UzI2d2xBRER0N29kV2NLemxXcHJad3pRRkJyQmNJWW5zdWlvdC05Zmd4cDE2elR5R2RmTlNib0F0ZG1nLTQ0a2hzeHo0M25aTHRBY0RRRHNxMWs1ZkZVUVZGZzU3TVVlUEZlclJQZmt3?oc=5",
-    "summary": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions FinancialContent",
-    "published_at": "Fri, 06 Feb 2026 08:00:00 GMT"
+    "title": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNE03T19uSmZNUWZyLTVlb3lCckw2RnQtLXMwSWp5Y0E4enJ6UHJRWkE2TzJ4XzVhT2x4YmRTT053WGhwUmVPTXlCalZmdjZTRFdDOWJJMGJrYzY3cnEtZkpqTVFaTkhaTDN0N1ktcURFX0tlM0ZGQ2VzTUNwbnRGYTZpM0tVX3VrdDN1Vi1yalRCVW1hOEdEWUZzS2NCN2tqT1FSSU5JZTdFOXNFMEVRS0J4WWc4UTBaOVlr?oc=5",
+    "summary": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again Business Insider",
+    "published_at": "Tue, 24 Mar 2026 07:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hire",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Trying to Get Hired? Here Are the Most In-Demand Job Skills Right Now - money.com",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDaFFZOXU1bDU1aXRnbzZrY1FBSWhrYzJmTG9TSDd4eDhsY1lWMFlXRmprM3E4OGwwbDZzTGRPNkpRM0FzbDVRR0xGWVc0VllNMmpUb3JsQkhMVkJq?oc=5",
+    "summary": "Trying to Get Hired? Here Are the Most In-Demand Job Skills Right Now money.com",
+    "published_at": "Tue, 03 Mar 2026 08:00:00 GMT"
   }
 ]
