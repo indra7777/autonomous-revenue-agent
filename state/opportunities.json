@@ -218,6 +218,23 @@
     "repeatability": 3,
     "risk": 3,
     "reasons": [
+      "easy keywords: thread",
+      "repeatable: thread",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: Need Human Lawyer \u2013 when AI for legal work isn't enough",
+    "url": "https://news.ycombinator.com/item?id=47928120",
+    "summary": "This idea came from real life. I was doing fine being my own lawyer but I reached that point where I really needed to cc someone to make my point. There's also the case of when you just get too deep into legal issues and really do need a human with a law degree helping. The idea is anyone can send an email or cc an existing thread to: help@needhumanlawyer.com This will open a request file and reply-all to everyone on the email. Not quite the same as cc perry.mason@famous-firm.com but still, it's",
+    "published_at": "2026-04-27T22:15:40Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
       "easy keywords: prompt",
       "repeatable: prompts",
       "market-signal source without direct buyer intent"
@@ -639,23 +656,6 @@
   },
   {
     "total": 3,
-    "ease": 2,
-    "payment_probability": 3,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "visible budget: $9,000",
-      "payment signals: $",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDJwNTd6OXlJR3JabldKZnF3QzB0ZUlOSlFNcTg4TW9zSmY5aVdqSG5WVklRQ0ZsNEhyVnFxS0dJT1QtbC11eGY4cEo0Si0tU1N0V2tmaGs1NktLVW5ITTlnRXdPREFtOTd4LW03S1JRX21OV3J1bE1Jc1NXcmhHdGZacFI1WEloT0xobTVYWk4xU0ItMzJDRHd6NVRxb2dES3c?oc=5",
-    "summary": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. Business Insider",
-    "published_at": "Fri, 18 Feb 2022 08:00:00 GMT"
-  },
-  {
-    "total": 3,
     "ease": 4,
     "payment_probability": 1,
     "repeatability": 1,
@@ -669,6 +669,22 @@
     "url": "https://alittleexcursion.com/",
     "summary": "I'm attempting to document the major events of the current Iran War in one place. Its incredibly difficult to know whats going on from across the world and most of what we see daily are just Trump's tweets. I've thrown together a scrolling timeline to help myself (and others) track events as they've been happening. I obviously cannot include every single missile strike or drone attack or statement by a politically aligned individual, but I've tried to be objective and include anything \"significa",
     "published_at": "2026-04-07T19:13:56Z"
+  },
+  {
+    "total": 3,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: summary",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: Xtrace \u2013 Unix-Style macOS Profiling for Instruments (CPU/GPU/Memory)",
+    "url": "https://github.com/Kr1sso/xtrace-skill",
+    "summary": "I built this because I wanted a terminal-first profiling workflow on macOS, without constantly switching into the Instruments GUI. What it does today: - CPU analysis: summary, timeline, calltree, collapsed stacks, flamegraph, diff - GPU analysis (trace-gpu.py): active/idle ratios, command-buffer cadence, process ownership - Memory analysis (trace-memory.py): summary, leaks, growth, heap/regions - Recording modes: launch, attach by PID/name, wait-for spawn, system-wide - Root-aware attach flow fo",
+    "published_at": "2026-04-25T09:28:45Z"
   },
   {
     "total": 3,
@@ -829,21 +845,5 @@
     "url": "https://github.com/ankbeg/tourflow",
     "summary": "",
     "published_at": "2026-04-21T16:58:19Z"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: paid",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/paid gig",
-    "title": "Claude Code: Widespread abnormal usage limit drain across all paid tiers",
-    "url": "https://github.com/anthropics/claude-code/issues/41930",
-    "summary": "",
-    "published_at": "2026-04-15T09:47:46Z"
   }
 ]
