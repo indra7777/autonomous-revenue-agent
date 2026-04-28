@@ -428,23 +428,6 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "What Are Hard Skills? 45 Examples For Your Resume - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMHJreEhwRFdWQmszbDJuQzNUOVVtNDNSTW9MWHhFc3NFUzFqU1dKcm5vVkhsRi0zMTdNRE9mZ3dnLS1aV0F6U0pEWGFoY2k0QjRN?oc=5",
-    "summary": "What Are Hard Skills? 45 Examples For Your Resume BetterUp",
-    "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
     "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
     "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
@@ -845,5 +828,21 @@
     "url": "https://github.com/ankbeg/tourflow",
     "summary": "",
     "published_at": "2026-04-21T16:58:19Z"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: paid",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "Claude Code: Widespread abnormal usage limit drain across all paid tiers",
+    "url": "https://github.com/anthropics/claude-code/issues/41930",
+    "summary": "",
+    "published_at": "2026-04-15T09:47:46Z"
   }
 ]
