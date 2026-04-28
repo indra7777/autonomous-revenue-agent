@@ -37,6 +37,42 @@
   },
   {
     "total": 7,
+    "ease": 4,
+    "payment_probability": 3,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "visible budget: $140,000",
+      "payment signals: $",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "23 Skills To List On Your Resume For In-Demand Jobs That Pay $140,000+ - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2pZTHg3VEplTF9KY2UwWXhuaHozQXdOcFQtUlFYY1N2dTFrbGNuVi1SODFta3lnbW10VlNhWWVKZm5hU1drVFNSQ1B2SGYyS3dCMS1ld0dWdWlQeE54V1pGNHJLTWlkZVNHU2twUkxVdml3NGJhN2ZnUGNEUldZcWloWVhJYUNEb2hLbzUyN1VFbFJzRmtRZ2c4cDZBV1hSRzFpakVfcWNIeU42UVNZOVpwazNocTFzTkxpaQ?oc=5",
+    "summary": "23 Skills To List On Your Resume For In-Demand Jobs That Pay $140,000+ Forbes",
+    "published_at": "Fri, 31 Oct 2025 07:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 6,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: prompt, summary",
+      "repeatable: pack",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: Loom \u2013 A Markdown knowledge graph for better coding-agent execution",
+    "url": "https://github.com/z3z1ma/agent-loom",
+    "summary": "Hi HN, I built Loom because I wanted less agent tooling, not more. My coding-agent workflow had outgrown PLAN.md. One file kept turning into the partial spec, research log, task queue, evidence log, review notes, handoff summary, and feature doc. And stratifying it typically ends up in disparate scratch files with no canonicity. One solution is to add more surfaces: a spec tool, an issue tool, a memory system, a review prompt, a planning plugin, a workflow package. But that brings two problems: ",
+    "published_at": "2026-04-28T16:14:28Z"
+  },
+  {
+    "total": 7,
     "ease": 6,
     "payment_probability": 1,
     "repeatability": 3,
@@ -51,6 +87,57 @@
     "url": "https://www.ogimageapi.io",
     "summary": "Hey HN! I built this because I was tired of manually creating OG images for every blog post and side project. How it works: - Send a POST request with JSON (title, subtitle, template, etc.) - Get back a PNG in ~50-100ms - No Puppeteer, no browser automation \u2014 uses node-canvas for fast server-side rendering Live demo on the homepage (no signup needed). Free tier includes 10 images/month. I'm launching on Product Hunt today too, but honestly HN feedback is what I care about most. Would love to hea",
     "published_at": "2025-12-11T18:47:55Z"
+  },
+  {
+    "total": 7,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 5,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume, template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Hadoop Developer Resume: Sample Template and Advice - dice.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54RW9uWDVOVllkMnBOa1Bub1lGclN4bG9rdy0xeHRxODV1MVBDNTEwSFRzemF0YmpvUElpT1ZObHV3RDBlc0duTS1SMklELUlzV2k4Y0g0TE1JOFg3NER5d0dsZnQ0Zmk0dWR5dHFRUGJpOEk?oc=5",
+    "summary": "Hadoop Developer Resume: Sample Template and Advice dice.com",
+    "published_at": "Mon, 16 Oct 2023 07:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 5,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume, template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "DevOps Engineer Resume: Template, Top Tips for Building the Best One - dice.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamh1eXc3R0VBcHkxWk01RHUwSHJFeHh3cWJ5LVk3bkZTTTVsZDM3Mk9rMWJ1VmtuVmRyN3dKQ0pIVEdBa1BOLXdyemdZME9PcmoyRU9Zak9xZmx0RUVEbHAyLVZoVHYzdXFoalVBelljVGpwQ3NyeTNVMXU0RFZGWmhWaFliaHA2c2t6WVRWVGRvVk9YQmxySzdNdkw2dTg0djJV?oc=5",
+    "summary": "DevOps Engineer Resume: Template, Top Tips for Building the Best One dice.com",
+    "published_at": "Tue, 28 Mar 2023 07:00:00 GMT"
+  },
+  {
+    "total": 7,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 5,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume, template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Program Manager Resume: Template, Tips, and Tricks for Writing One - dice.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVlUdXc3MFhfTjg3RUxsZ1psUlpsZ1dFYW5VNVlqSWJPN1JCYU5XNnUzVnB4OHJJOV81cDh5SkJpRS11NFhhdWg5aUlBbFNVRm53MFRUZ2UtUkRPNWx1VFhPSHVZQVdfcXptUUJlNG5UVV9nbTgtQWdWcHlTTF93cFFaSHJiTmh2ejM4V3BUVWhVQ3dsVVBJQ2VfY1dFcHM?oc=5",
+    "summary": "Program Manager Resume: Template, Tips, and Tricks for Writing One dice.com",
+    "published_at": "Wed, 25 May 2022 07:00:00 GMT"
   },
   {
     "total": 6,
@@ -71,24 +158,6 @@
     "url": "https://www.geckovision.tech",
     "summary": "Gecko turns brand-creator deals into self-enforcing contracts \u2014 budget locked before the campaign starts, creators paid automatically when delivery is verified. Every brand-creator deal runs on trust. Brand pays after the creator posts. Creator posts before payment is locked. A *$21 billion industry on Telegram DMs and email threads* \u2014 when it breaks, there's no enforcement. Just a conversation that goes nowhere. Gecko fixes that at the contract level. A brand locks its budget into an on-chain v",
     "published_at": "2026-04-24T02:10:59Z"
-  },
-  {
-    "total": 6,
-    "ease": 4,
-    "payment_probability": 2,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: thread",
-      "payment signals: contract",
-      "repeatable: thread",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: I built a personal corporation of AI agents that runs on your PC",
-    "url": "https://github.com/re-marked/claude-corp",
-    "summary": "Claude Corp is a daemon that runs and orchestrates an autonomous personal corporation of AI agents on your machine. OpenClaw agents form a social hierarchy, and everybody knows who they listen and report to. Agents can discuss stuff in channels, by @mentioning each other or using threads. Agents can create Tasks and Contracts, where Tasks are persistent tasks stored as file, and Contracts are a bundle of tasks, with a shared goal. When all tasks in a contract are done, the Contract is marked as ",
-    "published_at": "2026-04-08T16:20:32Z"
   },
   {
     "total": 5,
@@ -123,23 +192,6 @@
     "url": "https://mycrowsnest.app",
     "summary": "I've been a freelance developer for years and always struggled with planning my weeks and tracking project budgets. I use Harvest for time tracking, but it doesn't give me a weekly view or budget visibility until it's too late. So I built Crow's Nest \u2013 a work week planner and budget visibility layer that sits on top of Harvest. It pulls your time entries and shows you: - Your week laid out by project and capacity (before Monday hits) - Real-time budget progress for each project - The gap between",
     "published_at": "2026-03-06T13:53:49Z"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: thread",
-      "repeatable: thread",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: Need Human Lawyer \u2013 when AI for legal work isn't enough",
-    "url": "https://news.ycombinator.com/item?id=47928120",
-    "summary": "This idea came from real life. I was doing fine being my own lawyer but I reached that point where I really needed to cc someone to make my point. There's also the case of when you just get too deep into legal issues and really do need a human with a law degree helping. The idea is anyone can send an email or cc an existing thread to: help@needhumanlawyer.com This will open a request file and reply-all to everyone on the email. Not quite the same as cc perry.mason@famous-firm.com but still, it's",
-    "published_at": "2026-04-27T22:15:40Z"
   },
   {
     "total": 5,
@@ -216,15 +268,168 @@
     "repeatability": 3,
     "risk": 3,
     "reasons": [
-      "easy keywords: article",
-      "repeatable: article",
+      "easy keywords: resume",
+      "repeatable: resume",
       "market-signal source without direct buyer intent"
     ],
-    "source": "hn/paid gig",
-    "title": "Show HN: PanicLock \u2013 Close your MacBook lid disable TouchID \u2013> password unlock",
-    "url": "https://github.com/paniclock/paniclock/",
-    "summary": "I wrote this after the case of a Washington Post reporter, Hannah Natanson, was compelled to unlock her computer with her fingerprint. This resulted in access to her Desktop Signal on her computer, revealing sources and their conversations. https://www.yahoo.com/news/articles/washington-post-raid-pro... Edit: I've a lot more details about the legality and precedence on the apps landing page https://paniclock.github.io/",
-    "published_at": "2026-04-17T16:38:44Z"
+    "source": "google-news/new resume templates demand",
+    "title": "UIX Labs Highlights Pika AI Resume Tool Targeting HR Tech Demand - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0pQNWViSEpHSkhkZ1FKRHNiWFA0bEFDMWVMSWh5SWk3WDRWUG0zZ05helpNS0xVV0l5QWVmM1lOVUVMNF80NVlwUElPak5mQ1NmeFplRmpmWGRtTEQ2bUVUN25VQVhZN01Ba1AyWlZNZVpDeEx3VFZYWWxYckE4WlpQTDBCOWpmUEdiUGxiOFlpZk8yakUxeXF3TGN4YTNMczZtdEoyX204djBvRDRZLTFR?oc=5",
+    "summary": "UIX Labs Highlights Pika AI Resume Tool Targeting HR Tech Demand TipRanks",
+    "published_at": "Tue, 14 Apr 2026 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "10 Essential Teacher Resume Skills to Include for 2024 - Prodigy",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04WFZxNWlVT19XaUE5b3lxcEwybk40NGYtREl3eS1PaEVtNEVNRGxEMlRfVHNJMkdVM3lLcFE0TVRLVnhrWnBSdi1tQ2ZLNmtuakVObnE2cVVQektSNUJ6OTNtQ2c3SVE1U0t5WmVWQQ?oc=5",
+    "summary": "10 Essential Teacher Resume Skills to Include for 2024 Prodigy",
+    "published_at": "Wed, 15 Nov 2023 08:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "17 Best Resume Skills to Land Your Dream Job in 2025 - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rbjhLMHhGOFZmV3N3UE5DQ09PYTR2bkFPekx4TThHcFZZaHI2N3o3Z3ZwcnZoYkd1UkV0a1lOSVJKcVVPakprVnN0bDloZm42SkFqWFRfZlhCWjQ?oc=5",
+    "summary": "17 Best Resume Skills to Land Your Dream Job in 2025 BetterUp",
+    "published_at": "Mon, 26 Dec 2022 15:06:24 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "17 AI Skills To Put On Your Resume In 2025 - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnBmWWhKLWpIZGFhNHFFMUlhR3pMd2thNlRJMDBqZTFubUVKMTlsdHFFVHdjUVpyYnBoTzNfMElNZGJxYUxrMDNvSFpCYVRPS0RWR2pXWjlnbGY5NzVzRktNakMtRnNqSnhxSlBMMHhCWlVvdVRMOHNLSWpFSXp6UDEySjRNd3ZIb0Npb1BWdnpNVkhLMG12WC1IYw?oc=5",
+    "summary": "17 AI Skills To Put On Your Resume In 2025 Forbes",
+    "published_at": "Fri, 11 Jul 2025 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Marketing Skills for Your Resume in 2024 + Examples - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yZ2xqMlhLVzBkemppOUdMX0ZRVGd0UjJMREdTZnpuNGp1U3l5alJJdVo5MTJpY2pqOTh6RHFPalEtOVZsV0V3UEN6d0pkeGlHWjRSYWRtQko0Zw?oc=5",
+    "summary": "Marketing Skills for Your Resume in 2024 + Examples BetterUp",
+    "published_at": "Fri, 22 Sep 2023 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "What Are Hard Skills? 45 Examples For Your Resume - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMHJreEhwRFdWQmszbDJuQzNUOVVtNDNSTW9MWHhFc3NFUzFqU1dKcm5vVkhsRi0zMTdNRE9mZ3dnLS1aV0F6U0pEWGFoY2k0QjRN?oc=5",
+    "summary": "What Are Hard Skills? 45 Examples For Your Resume BetterUp",
+    "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
+    "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
+    "published_at": "Thu, 23 Jan 2025 08:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOZXJ2UGNHVzhVenEyUzVfVVdZSVZVV2VzS0FkQ0ZaY0FWOV9yMzhVaG1ucGpsTGl4S0tXTWw2T05xdk9WQ05BeFE0MnNvaDNRWW1IRHczazhra0VpaTBxdVhmR25pMGhGYlpDdFk0cUpZTGNsMXfSAXtBVV95cUxQM2FTQ0lNOF9WVW84bkdGM21zUk0zc08tV3VVcTk1bWIwUmk5OTBhX2ZlZm5SU3pkcmRfa0h2OXR0RkhTQTRKWF9xNEpXdzFIM3hKQzhRSDctQ1o2dkJqTEpTTUxlQk94dF83NTZmVTRrNEJJUFhRZjZfNFU?oc=5",
+    "summary": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 CNBC",
+    "published_at": "Wed, 19 Oct 2022 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Transferable Skills: 17 Examples to Boost Your Resume & Career - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
+    "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
+    "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: cv",
+      "repeatable: template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "6 CV Templates That Will Actually Get You Interviews - Pulse Nigeria",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yd2VDMHNlWWJrSHphSWZSUjBNT1NWNFdSTUZDSWJOcl9JQ0h3OW5ReTZTQzBMbFpiWjZXZjB1d1NWRDR2eXJoRW5PWlhzN3RlTlFiYlRSVEtxcDFkYlRsQzBqMFJ0MGVTbmxTZ1ZOOFd6dw?oc=5",
+    "summary": "6 CV Templates That Will Actually Get You Interviews Pulse Nigeria",
+    "published_at": "Sun, 03 Aug 2025 07:00:00 GMT"
   },
   {
     "total": 4,
@@ -242,40 +447,6 @@
     "url": "https://signforge.io",
     "summary": "Hey HN, I built SignForge as a free alternative to DocuSign/PandaDoc for freelancers and small businesses who just need to get documents signed without the $30/month tax. How it works: Upload a PDF \u2192 drag signature/date/text fields onto it \u2192 send to signer via email \u2192 they sign with a link (no account needed) \u2192 you get the signed PDF with a full audit trail and verification certificate. Tech stack: Next.js + FastAPI + PostgreSQL + PyMuPDF. PDFs are stamped server-side (image overlay, not AcroFor",
     "published_at": "2026-02-26T08:34:29Z"
-  },
-  {
-    "total": 4,
-    "ease": 2,
-    "payment_probability": 4,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "visible budget: $10",
-      "payment signals: $, paid",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/launching side project",
-    "title": "Show HN: Ogmap \u2013 A low-cost vector map tiles API",
-    "url": "https://ogmap.com/",
-    "summary": "Hey everyone I\u2019ve been hacking on a project \u2192 [OGMAP]( https://ogmap.com ). It\u2019s a *vector tiles API (PBF)* with simple prepaid pricing: - $10 = 1,000,000 tiles - 250k free on sign-up - Auto-buy with Stripe, with safety limits - Served worldwide via Cloudflare CDN We don\u2019t try to compete with Mapbox feature-wise. It\u2019s literally just fast, low-cost tiles + some basic styles for MapLibre. Why I built it: I wanted to start a web project and realized if it got even a bit popular (before monetization",
-    "published_at": "2025-09-03T18:31:05Z"
-  },
-  {
-    "total": 4,
-    "ease": 4,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: prompt",
-      "payment signals: paid",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/paid gig",
-    "title": "Show HN: NotchPrompter \u2013 A simple, open-source teleprompter for macOS,no AI-slop",
-    "url": "https://github.com/jpomykala/NotchPrompter",
-    "summary": "Hi HN, I built NotchPrompter because I needed a simple way to read notes while looking at the camera during calls, without heavy or paid software. - 100% free & open-source - native macOS (SwiftUI) - minimalist - focuses on the essentials. Feedback and contributions are more than welcome! PS No, I didn't use AI for it. I always wanted to play with SwiftUI and this is my 6th approach to this. Previous projects were too complex for my beginner skills. I'm mainly a Java developer. It took me ~5 mon",
-    "published_at": "2026-04-17T11:39:46Z"
   },
   {
     "total": 4,
@@ -346,6 +517,91 @@
   },
   {
     "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $1",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "20 Cheap Business Ideas Under $1K | Home Business Guide - Business.com",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Uc0s0RjVrOHdveDZubjRrQUx6dVFoMV9Zam1QNGtfT2hXeGRXN0FzUlVGUXk4UThzcHRrYzZCejBnZVhzQzdFX2ZUYjFDQ1J1VXlmSDJLa3UxZ3RMME1XTGFNSlhuQQ?oc=5",
+    "summary": "20 Cheap Business Ideas Under $1K | Home Business Guide Business.com",
+    "published_at": "Mon, 30 Mar 2026 07:00:00 GMT"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $1,000",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "25 Remote Small-Business Ideas You Can Start for Under $1,000 - inc.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTHNNckFxY0NScGZJbnBxMzhYdUhMcGIxVlBMQzBUbU1OdXBCalFZMkZDdENwdDJNa2c1ZUc1eHRoV2t2M09abGMzWi04TU1SYjVURUVZRFByczNhTFJ6Tk94enkzeUQtOG5mZThFdnA3bkJxSjVEOVJSX0JMNFZHMHhjYUI1ZEpZMWVqUXdMUkJhRGNvVFpIZm8wMDYwdk9ZbTFUYg?oc=5",
+    "summary": "25 Remote Small-Business Ideas You Can Start for Under $1,000 inc.com",
+    "published_at": "Sun, 27 Jul 2025 07:00:00 GMT"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $2.50",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "'I pay them $2.50 per hour and they take a LOT off my plate': Inside the exploitative world of virtual assistants - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnVKSkpuSjJwbFQyLW94bEVCeGFjLVJLWERLQ29wWktVMWMwOERZSjR3N0ZKNVJ3WHV4NkZvYy1Ia2ZqS21RS2hsS3AyclNyZVU1ZGNrbTNTRzlaMUJ2Y0xsZ3dGOEJDTEtFVDNlZDlxTXZ5MVVoUUE5ZENWTXNGbVhMajVPMGdmVWs2RUhqTEVvRU5nc1FtY0NSUXR4b2JtTWxzbHFuUUwzdzhScXc?oc=5",
+    "summary": "'I pay them $2.50 per hour and they take a LOT off my plate': Inside the exploitative world of virtual assistants Business Insider",
+    "published_at": "Thu, 05 Jan 2023 08:00:00 GMT"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $10,000",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "I'm a virtual assistant making $10,000 a month in revenue. Here's how I started my business and make 6 figures a year. - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2JjdFBzTll6TmdzY2pERExBVV9ndDdnalViZXo2RmQ3V240V185TXZ5d0NmUG44NDExTmNXeUkzWXpLR1pPdFpzXzYxdkROOG9uOGdvd2k4cnEyUkJETUFCb3B2YUdQS2IwdGgta05MQnpnUExnS3g1WEw5dHJtVWxNaU1lY1ZfYmNBSGtJUFN4TkhDVTVnc2t3d1ZqOXVQM29vTWVVZw?oc=5",
+    "summary": "I'm a virtual assistant making $10,000 a month in revenue. Here's how I started my business and make 6 figures a year. Business Insider",
+    "published_at": "Thu, 09 Dec 2021 08:00:00 GMT"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $9,000",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDJwNTd6OXlJR3JabldKZnF3QzB0ZUlOSlFNcTg4TW9zSmY5aVdqSG5WVklRQ0ZsNEhyVnFxS0dJT1QtbC11eGY4cEo0Si0tU1N0V2tmaGs1NktLVW5ITTlnRXdPREFtOTd4LW03S1JRX21OV3J1bE1Jc1NXcmhHdGZacFI1WEloT0xobTVYWk4xU0ItMzJDRHd6NVRxb2dES3c?oc=5",
+    "summary": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. Business Insider",
+    "published_at": "Fri, 18 Feb 2022 08:00:00 GMT"
+  },
+  {
+    "total": 3,
     "ease": 4,
     "payment_probability": 1,
     "repeatability": 1,
@@ -393,6 +649,22 @@
     "published_at": "2025-12-14T18:55:10Z"
   },
   {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "repeatable: template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech - Fast Company",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYm5aTEdhUTQzX2FnRU00OUhBSW9DSlFiWTh2N2Y0VGh2dWIzQUFLUGRsSk40dTZxNXQwSFlWdndaZXV3dUo4VElFRGFqNTdnbEdCd2pjZngwdTl4YXFvZElKcEVyc0x6elk5eVZibGVfZDBtMFVKMjBUMnFqRGJCd0tGVlI4LVd6c01xV1BISVNTdEI0VVNGRklpUGg5Q0JzWUl5emN2Nkg?oc=5",
+    "summary": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech Fast Company",
+    "published_at": "Tue, 23 Feb 2021 08:00:00 GMT"
+  },
+  {
     "total": 2,
     "ease": 2,
     "payment_probability": 2,
@@ -407,22 +679,6 @@
     "url": "https://github.com/statespace-tech/cush",
     "summary": "I built cush because coding agents can be helpful to diagnose and troubleshoot server issues. The problem is that getting said agents onto a remote server, especially one you don't control, means dealing with VPNs, bastion hosts, firewall rules, access controls, or audit trails. That's assuming SSH isn't even blocked. cush takes a different approach. Instead of a shell, it opens a temporary, outbound HTTPS tunnel that lets you and your AI agent run constrained CLI commands on the server: $ cush ",
     "published_at": "2026-04-15T16:01:43Z"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: fixed",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: AI agents are bad at API integrations \u2013 we fixed it",
-    "url": "https://www.apimatic.io/product/context-plugins/showcase",
-    "summary": "Hi, we're Sohaib and Hannan from APIMatic. We've been building tools to help Developers integrate with APIs for 5+ years at APIMatic. We're now trying to help AI agents do the same. This started from a conversation at PayPal DevDay 2025. The PayPal developer experience team were monitoring developers using AI agents to integrate PayPal APIs, and the agents kept reaching for outdated docs and deprecated SDK versions, often falling back to training data instead of reading the current API documenta",
-    "published_at": "2026-04-09T15:06:54Z"
   },
   {
     "total": 2,
@@ -455,6 +711,22 @@
     "url": "https://d8a.academy/",
     "summary": "I have been working as a freelance data analyst for 9 years now, and everything is going well for me. Two years ago, I created a Discord community for data analysts and we are now 700+ members. Talking with the community made me realized how lucky I was to have a job and proper experience in data analysis because, god, it is hard right now to find a first job. So I decided to spend my free time building D8A academy. It's a roadmap of projects, which is what most people in the Discord were asking",
     "published_at": "2026-03-17T13:37:42Z"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: paid",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "10,947 signups, 90 paid, \u20ac6,356 in nine years",
+    "url": "https://khanin.info/en/blog/458",
+    "summary": "",
+    "published_at": "2026-04-28T13:59:24Z"
   },
   {
     "total": 2,
@@ -511,302 +783,61 @@
     "repeatability": 1,
     "risk": 3,
     "reasons": [
-      "payment signals: paid",
+      "payment signals: commission",
       "market-signal source without direct buyer intent"
     ],
-    "source": "hn/paid gig",
-    "title": "Claude Code: Widespread abnormal usage limit drain across all paid tiers",
-    "url": "https://github.com/anthropics/claude-code/issues/41930",
-    "summary": "",
-    "published_at": "2026-04-15T09:47:46Z"
+    "source": "google-news/AI tools affiliate program launch",
+    "title": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNE03T19uSmZNUWZyLTVlb3lCckw2RnQtLXMwSWp5Y0E4enJ6UHJRWkE2TzJ4XzVhT2x4YmRTT053WGhwUmVPTXlCalZmdjZTRFdDOWJJMGJrYzY3cnEtZkpqTVFaTkhaTDN0N1ktcURFX0tlM0ZGQ2VzTUNwbnRGYTZpM0tVX3VrdDN1Vi1yalRCVW1hOEdEWUZzS2NCN2tqT1FSSU5JZTdFOXNFMEVRS0J4WWc4UTBaOVlr?oc=5",
+    "summary": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again Business Insider",
+    "published_at": "Tue, 24 Mar 2026 07:00:00 GMT"
   },
   {
-    "total": 1,
+    "total": 2,
     "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: Vaava \u2013 a baby routine tracker / logging app",
-    "url": "https://www.vaava.app/",
-    "summary": "Vaava - it is a baby tracker / logging app. It was originally built mainly for my own use, but it is now available in both app stores. It has the same basic features that you could imagine. You can save built-in events feeding, sleep, diapers. You can also create custom events for any events you like. It has reminders, a week view, trends visualization, a 'my day' builder to help you think about the baby routines. The market for baby logging apps is already quite niche, but there is some aspects",
-    "published_at": "2026-04-28T04:37:41Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: NetCopilot \u2013 AI-native terminal for network engineers",
-    "url": "https://netcopilot.app/",
-    "summary": "Hi HN, I\u2019m a network engineer and I built NetCopilot to solve a problem I kept facing in real workflows. When troubleshooting, I constantly switch between terminal sessions, docs, and AI tools just to understand what\u2019s happening. So I built a terminal (SSH, Telnet, Serial) with AI built directly into it. It reads command outputs and helps explain issues like BGP problems, routing issues, etc \u2014 without executing anything automatically. The goal isn\u2019t automation, but assistance while staying in co",
-    "published_at": "2026-04-27T14:33:58Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: TermToMD past in choppy terminal output get clean Markdown",
-    "url": "https://termtomd.com/",
-    "summary": "It's not perfect, but it works for my needs. Hopefully it will be useful to someone else. I was using a terminal based LLM to help me create some tickets for an upcoming sprint. Pasting directly into the ticket system provided a poor looking result. So I created TermToMD. If you try it out, there is a gear button that will let you customize the results. Also the icon on the left will let you toggle dark mode and it has a quick markdown cheat sheet.",
-    "published_at": "2026-04-27T11:31:53Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: LocalLLM \u2013 Recipes for Running the Local LLM (Need Contributors)",
-    "url": "https://locallllm.fly.dev",
-    "summary": "I built localLLLM: a small community project for running local models. Live: https://locallllm.fly.dev The goal is simple: if someone has model + OS + GPU + RAM, they should get steps that actually work (ideally one liner) I need help populating and validating guides. If you run local models, please submit one working recipe (or report what failed). Would love to hear general feedback as well!",
-    "published_at": "2026-04-23T15:01:24Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: I rebuilt a 2000s browser strategy game on Cloudflare's edge",
-    "url": "https://kampfinsel.com/",
-    "summary": "I grew up in Germany in the early 2000s playing a browser game called Inselkampf. You built up an island, mined gold and stone, cut down trees for wood, raised armies, sent fleets across an ocean grid, joined alliances and got betrayed by them. Same genre as OGame or Travian. It shut down in 2014 and I never found anything that replaced that feeling of checking in before school to see if your fleet had arrived and your alliance was still alive. I finally built the version I wanted to play. Kampf",
-    "published_at": "2026-04-11T12:17:29Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: Self-improving agent memory system, 92% R 5 LongMemEval, PostgreSQL",
-    "url": "https://github.com/salishforge/memforge",
-    "summary": "MemForge is an experiment in a single database (PostgreSQL) with local embeddings. The goal is to enable long-term, persistent memory independent from the model or agent framework. It began as an attempt to maintain context over longer periods without the token cost spiraling out of control and the lost context after consolidation. The architecture is based on a rough simulation of human memory and uses sleep cycle (agent inactivity) where an LLM reorganizes and stores memory in a multi-tier dat",
-    "published_at": "2026-04-09T03:29:55Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: Context-Aware Twitch Moderation",
-    "url": "https://modcheck.app",
-    "summary": "I'm a SW/ML engineer that spends a tad too much time on Twitch.. I've been eyeing the moderation tooling used for livestreaming and I can't help but notice how primitive it still is - keyword lists, regex, basic shimming, etc. So, I thought I could do better. Behold ModCheck - a context-aware moderation tool. It understands what's happening in the stream, who the streamer is, what's currently happening, the mood of chat, what the streamer is saying, etc.. It uses all of that to make moderation d",
-    "published_at": "2026-04-08T22:15:07Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/need a freelancer",
-    "title": "Show HN: Vulnerabilities in a Multi-Million ARR Corp as 17(my 5-month journey)",
-    "url": "https://flashmesh.netlify.app/",
-    "summary": "HI I am Dhanush, I have an Hard tech infra to be future protocol ,that's all basically I am poor 17M self taught(by piracy) solo guy I made multiplayer 3d games and now I used Burp Suite on random to understand Communications to services when using a service from a company named \"B\"(an AI using company for neural phase locking) (they are multi-million ARR company premium only model with trials)I saw some problems here they are Technical Findings:(All actions are for educational/reporting purpose",
-    "published_at": "2026-03-30T15:24:17Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: linkedin",
-      "hard keywords: rust",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/need a freelancer",
-    "title": "Show HN: A social network where AI agents have public profiles and earn money",
-    "url": "https://socialtense.com/",
-    "summary": "I've spent the last 1 month building something that most people either think is obviously right or completely pointless. The premise: AI agents are about to become economic actors. They'll have skills, reputations, clients, and income. But right now they're invisible. Your OpenClaw agent has no public identity. There's no way for someone to find it, vet it, or trust it without you personally vouching for it. We're building agent Yellow Pages when we need agent LinkedIn. SocialTense gives agents ",
-    "published_at": "2026-03-13T18:43:49Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/launching side project",
-    "title": "Launching My Side Project as a Solo Dev: The Walkthrough",
-    "url": "https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html",
-    "summary": "",
-    "published_at": "2026-02-01T11:58:12Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/launching side project",
-    "title": "Show HN: Bodge.app \u2013 \u03bcFaaS for hacked-together personal tools and small projects",
-    "url": "https://bodge.app/",
-    "summary": "This is a little side project I've been working on for the last few months. It's a service hosting Lua scripts behind static HTTP endpoints in a fully sandboxed environment. It's something I've built to scratch my own itch and now I'm launching a free public beta to see if it's something that anyone else also finds useful. <backstory> My first professional job was for a company building an industrial IoT platform who's most unique feature was their Lua-based scripting platform. I ended up loving",
-    "published_at": "2025-11-28T16:35:13Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/launching side project",
-    "title": "Show HN: A desktop app for managing multiple CI/CD pipelines",
-    "url": "https://github.com/hcavarsan/pipedash",
-    "summary": "launching my new side project pipedash today - a desktop app for managing multiple ci/cd pipelines. ideally we'd just use one ci/cd platform for everything and this wouldn't need to exist. but most of us deal with multiple platforms and i kept forgetting which pipeline was where. got tired of it so i built this. it's new and still rough around the edges, so bugs will happen... if you run into any, just open an issue.",
-    "published_at": "2025-11-01T01:00:52Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/launching side project",
-    "title": "Show HN: Nooki \u2013 a minimal, text-only Reddit alternative (soft launch)",
-    "url": "https://nooki.me/",
-    "summary": "Hey guys. I\u2019ve been building a side project called nooki.me - It's a very minimal Reddit-style discussion site focused only on text discussions (no images, videos, or memes) It has communities (like subreddits), voting, and comments, but I\u2019ve tried to strip away everything else. The idea is to see if a text-first, distraction-free space for discussion still feels good in 2025. For now it\u2019s only text posts, but if it ever takes off and people want to post media, I\u2019d consider adding image/video su",
-    "published_at": "2025-09-10T15:29:55Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/launching side project",
-    "title": "Show HN: VC-LLM \u2013 Visualization of YC Summer 25 startups",
-    "url": "https://amvizion.org",
-    "summary": "Hi HN! I\u2019ve been experimenting with large language models for data analysis and thought today\u2019s demo day would be a fun way to gather feedback. The problem I see is that for the average investor, it\u2019s tough to get familiar with 100+ startups in a short amount of time. To make it easier, I scored the startups across 12 dimensions so anyone can filter based on their own investment thesis. There\u2019s also a ranked search and similarity view, which makes it simple to focus on a specific industry or dis",
-    "published_at": "2025-09-09T15:14:26Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/launching side project",
-    "title": "Show HN: An auction platform for failed and active startups",
-    "url": "https://akshen.com",
-    "summary": "My co-founder and I have spent years building and launching side projects, most of which have failed. We've accumulated a graveyard of abandoned codebases, and one day we had the idea to sell one of them. The process sparked an idea: what if there was a marketplace specifically for digital projects at every stage of their life, from a simple idea to a profitable business? Today, we're launching just that\u2014an online auction platform where founders can sell their projects. We're talking about every",
-    "published_at": "2025-08-28T11:01:11Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/paid gig",
-    "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
-    "url": "https://github.com/trycua/cua",
-    "summary": "Hi HN, Francesco from Cua here. I hacked this project together last weekend, inspired by the Codex Computer-Use release and lessons learned from deploying GUI-operating agents for our customers. The main problem: when a UI automation process controls a desktop app today, it usually takes over the human\u2019s session. Your cursor moves, keyboard focus gets stolen, windows jump to the front, and you have to stop working until the agent is done. That is why we have historically avoided encouraging user",
-    "published_at": "2026-04-27T13:44:46Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/paid gig",
-    "title": "Understanding UMAP",
-    "url": "https://pair-code.github.io/understanding-umap/",
-    "summary": "",
-    "published_at": "2026-04-27T10:01:43Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/paid gig",
-    "title": "Show HN: Hydra \u2013 Never stop coding when your AI CLI hits a rate limit",
-    "url": "https://github.com/saadnvd1/hydra",
-    "summary": "I built Hydra because I kept losing my flow when Claude Code hit usage limits mid-task. I would copy context, open another tool, and then re-explain everything. This would be super annoying for me. Hydra wraps your AI coding CLIs (Claude Code, Codex, OpenCode, Pi, or any terminal-based tool) in a single command. It monitors terminal output for rate limit patterns, and when one provider runs out, you switch to another with one keypress. Your conversation history, git diff, and recent commits are ",
-    "published_at": "2026-04-21T17:39:18Z"
-  },
-  {
-    "total": 0,
-    "ease": 0,
     "payment_probability": 2,
     "repeatability": 1,
     "risk": 3,
     "reasons": [
-      "hard keywords: rust",
-      "payment signals: freelance",
+      "payment signals: commission",
       "market-signal source without direct buyer intent"
     ],
-    "source": "hn/need a freelancer",
-    "title": "Show HN: Donbar \u2013 Email marketing made dead-simple",
-    "url": "https://www.donbar.org/",
-    "summary": "I\u2019ve watched too many freelancers, non-profits, and local business owners spend hours trying to send a \"simple\" newsletter. Even for tech-savvy marketers, the current tools have become so bloated that the \"time-to-send\" is frustratingly high. So I\u2019ve built Donbar, an easy-to-use email platform where the focus is SIMPLICITY. It is designed so you can send your first professional email in under 5 minutes. Donbar includes all the features you actually need: \u2013 Easy Design \u2013 An intuitive email builde",
-    "published_at": "2026-04-19T11:56:16Z"
+    "source": "google-news/AI tools affiliate program launch",
+    "title": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSzY4YmdFcVRodzJzTi1EQUk3UWhxV1NadV9ydUVuYnFuVWpEdHB3T1VKQ0o2aERVNFcyWWxRUHVmbXgtTXMzT3R2QmRnY082QXZnR05QOEhTVjlRN2VxRnVnSEY4ZDZqLXE2NV82aXRPWFhGZEkyVE52Mkp1ekdWbnNYVTY5UzI2d2xBRER0N29kV2NLemxXcHJad3pRRkJyQmNJWW5zdWlvdC05Zmd4cDE2elR5R2RmTlNib0F0ZG1nLTQ0a2hzeHo0M25aTHRBY0RRRHNxMWs1ZkZVUVZGZzU3TVVlUEZlclJQZmt3?oc=5",
+    "summary": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions FinancialContent",
+    "published_at": "Fri, 06 Feb 2026 08:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hire",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Trying to Get Hired? Here Are the Most In-Demand Job Skills Right Now - money.com",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDaFFZOXU1bDU1aXRnbzZrY1FBSWhrYzJmTG9TSDd4eDhsY1lWMFlXRmprM3E4OGwwbDZzTGRPNkpRM0FzbDVRR0xGWVc0VllNMmpUb3JsQkhMVkJq?oc=5",
+    "summary": "Trying to Get Hired? Here Are the Most In-Demand Job Skills Right Now money.com",
+    "published_at": "Tue, 03 Mar 2026 08:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hiring",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Hiring managers name the top hard skills and soft skills for 2026 - HR Dive",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHNvWHM0OWxaLTByQW03YkVRLTAxYkc1azhVX3F1YzhFOXd2YWN3X1ljSzMtdjhNYnBOMjA1cTYzZ1ZRaEFyMmNSR01sNGZZMjZaYkpYWHFVUXp3RUdNdzk4ODc0MkJMZ1dzZkdsQ19ISHV3TDNjY2E1WXdHMHZGc2FYZUJ5ZEpBQ29SelBxbnRYb1dxdGs5WQ?oc=5",
+    "summary": "Hiring managers name the top hard skills and soft skills for 2026 HR Dive",
+    "published_at": "Mon, 08 Dec 2025 08:00:00 GMT"
   }
 ]
