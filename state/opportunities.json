@@ -143,24 +143,6 @@
     "published_at": "2026-04-24T02:10:59Z"
   },
   {
-    "total": 6,
-    "ease": 4,
-    "payment_probability": 2,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: thread",
-      "payment signals: contract",
-      "repeatable: thread",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: I built a personal corporation of AI agents that runs on your PC",
-    "url": "https://github.com/re-marked/claude-corp",
-    "summary": "Claude Corp is a daemon that runs and orchestrates an autonomous personal corporation of AI agents on your machine. OpenClaw agents form a social hierarchy, and everybody knows who they listen and report to. Agents can discuss stuff in channels, by @mentioning each other or using threads. Agents can create Tasks and Contracts, where Tasks are persistent tasks stored as file, and Contracts are a bundle of tasks, with a shared goal. When all tasks in a contract are done, the Contract is marked as ",
-    "published_at": "2026-04-08T16:20:32Z"
-  },
-  {
     "total": 5,
     "ease": 4,
     "payment_probability": 3,
@@ -401,23 +383,6 @@
   },
   {
     "total": 4,
-    "ease": 2,
-    "payment_probability": 4,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "visible budget: $10",
-      "payment signals: $, paid",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/launching side project",
-    "title": "Show HN: Ogmap \u2013 A low-cost vector map tiles API",
-    "url": "https://ogmap.com/",
-    "summary": "Hey everyone I\u2019ve been hacking on a project \u2192 [OGMAP]( https://ogmap.com ). It\u2019s a *vector tiles API (PBF)* with simple prepaid pricing: - $10 = 1,000,000 tiles - 250k free on sign-up - Auto-buy with Stripe, with safety limits - Served worldwide via Cloudflare CDN We don\u2019t try to compete with Mapbox feature-wise. It\u2019s literally just fast, low-cost tiles + some basic styles for MapLibre. Why I built it: I wanted to start a web project and realized if it got even a bit popular (before monetization",
-    "published_at": "2025-09-03T18:31:05Z"
-  },
-  {
-    "total": 4,
     "ease": 4,
     "payment_probability": 2,
     "repeatability": 1,
@@ -587,22 +552,6 @@
   },
   {
     "total": 3,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: tweet",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: A Little Excursion",
-    "url": "https://alittleexcursion.com/",
-    "summary": "I'm attempting to document the major events of the current Iran War in one place. Its incredibly difficult to know whats going on from across the world and most of what we see daily are just Trump's tweets. I've thrown together a scrolling timeline to help myself (and others) track events as they've been happening. I obviously cannot include every single missile strike or drone attack or statement by a politically aligned individual, but I've tried to be objective and include anything \"significa",
-    "published_at": "2026-04-07T19:13:56Z"
-  },
-  {
-    "total": 3,
     "ease": 2,
     "payment_probability": 1,
     "repeatability": 3,
@@ -712,6 +661,22 @@
     "url": "https://d8a.academy/",
     "summary": "I have been working as a freelance data analyst for 9 years now, and everything is going well for me. Two years ago, I created a Discord community for data analysts and we are now 700+ members. Talking with the community made me realized how lucky I was to have a job and proper experience in data analysis because, god, it is hard right now to find a first job. So I decided to spend my free time building D8A academy. It's a roadmap of projects, which is what most people in the Discord were asking",
     "published_at": "2026-03-17T13:37:42Z"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: paid",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "10,947 signups, 90 paid, \u20ac6,356 in nine years",
+    "url": "https://khanin.info/en/blog/458",
+    "summary": "",
+    "published_at": "2026-04-28T13:59:24Z"
   },
   {
     "total": 2,
@@ -840,5 +805,37 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkd5R1FTU2FtNDFReWxRa2J1cmlub3h5WWl2T3EycWxUbEh4aXk4QU9JZzhRZ3ZwNDZNOGlPX1UzNFlpNW9VUlNMcXNEOXpkb2FUUGNTZG9XN2VjRkFvWFpLZmJsZC1uUmQ0VW41UW51Y0dRLWcyaHJqc2hRbEp5UWk4QzhZUzRoUG84TnREb3NPZW1VVUJNd21rUFE5b080?oc=5",
     "summary": "What Are the Top Skills to Prioritize in 2026? Hiring Managers Chime In The HR Digest",
     "published_at": "Tue, 09 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hiring",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) - Toronto Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZjaTJlSkJHazlaVmJESkppS0tMMGpzdXh1SFR2NTNpOE5mQkg0NUlQMnR4MlR0VWtmRlFTckVESUh1UGpGV1dVWjN5NmxnMkxLbkVSTk9fZ1pYWlJoUm1TTWxJQlM3X3FaalZ5RFpQaFdVRXQ0ZzExd0tmOG9vaExENkFzTG96Y1pDYVAzdVB0eWxIR2xfUnZRc1Z6NFlDV2pPQTVMSnFaQQ?oc=5",
+    "summary": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) Toronto Guardian",
+    "published_at": "Mon, 11 Aug 2025 06:36:02 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hiring",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants - U.S. Chamber of Commerce",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVlaVDNkUVMtT1BtV0V4S0ZxZHYxTExOT29iWVFySzRzaEFoTzVoODFUZWh4TWxMLVVNNlk0bS10UksyOUxfOVJmejlyWW5wNU4wZlBCb3VuZkJhNzFzQ2lrM1dEdzZGSjhSRzJ0N2Q4UTdEcnBqSHZWX1UxTi1FLW5haGFBMnNaaFZJ?oc=5",
+    "summary": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants U.S. Chamber of Commerce",
+    "published_at": "Wed, 24 Jan 2024 08:00:00 GMT"
   }
 ]
