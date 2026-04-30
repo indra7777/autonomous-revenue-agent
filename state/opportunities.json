@@ -364,23 +364,6 @@
     "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
   },
   {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
-    "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
-    "published_at": "Thu, 23 Jan 2025 08:00:00 GMT"
-  },
-  {
     "total": 4,
     "ease": 2,
     "payment_probability": 4,
@@ -613,6 +596,22 @@
     "url": "https://tintekka.com",
     "summary": "Hi HN, I'm a first-time founder from Dhaka building TinTekka to solve a real pain point: agencies waste weeks evaluating AI tools, only to struggle with implementation and see minimal ROI. The core problem: there are thousands of AI tools launching monthly, but no structured way for teams to discover which ones actually fit their workflow* and *how to implement them properly. TinTekka has two sides: For agencies & startups: - Answer targeted questions about your team, workflows, and pain points ",
     "published_at": "2025-12-14T18:55:10Z"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "repeatable: template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech - Fast Company",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYm5aTEdhUTQzX2FnRU00OUhBSW9DSlFiWTh2N2Y0VGh2dWIzQUFLUGRsSk40dTZxNXQwSFlWdndaZXV3dUo4VElFRGFqNTdnbEdCd2pjZngwdTl4YXFvZElKcEVyc0x6elk5eVZibGVfZDBtMFVKMjBUMnFqRGJCd0tGVlI4LVd6c01xV1BISVNTdEI0VVNGRklpUGg5Q0JzWUl5emN2Nkg?oc=5",
+    "summary": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech Fast Company",
+    "published_at": "Tue, 23 Feb 2021 08:00:00 GMT"
   },
   {
     "total": 2,
