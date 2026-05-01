@@ -126,6 +126,24 @@
     "published_at": "2026-04-24T02:10:59Z"
   },
   {
+    "total": 6,
+    "ease": 4,
+    "payment_probability": 2,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: thread",
+      "payment signals: contract",
+      "repeatable: thread",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: I built a personal corporation of AI agents that runs on your PC",
+    "url": "https://github.com/re-marked/claude-corp",
+    "summary": "Claude Corp is a daemon that runs and orchestrates an autonomous personal corporation of AI agents on your machine. OpenClaw agents form a social hierarchy, and everybody knows who they listen and report to. Agents can discuss stuff in channels, by @mentioning each other or using threads. Agents can create Tasks and Contracts, where Tasks are persistent tasks stored as file, and Contracts are a bundle of tasks, with a shared goal. When all tasks in a contract are done, the Contract is marked as ",
+    "published_at": "2026-04-08T16:20:32Z"
+  },
+  {
     "total": 5,
     "ease": 4,
     "payment_probability": 3,
@@ -217,6 +235,24 @@
     "repeatability": 3,
     "risk": 3,
     "reasons": [
+      "easy keywords: article, cv",
+      "hard keywords: rust",
+      "repeatable: article",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: Cyber Pulse. AI pipeline for triage and alerting on cyber news/intel",
+    "url": "https://play.google.com/store/apps/details?id=com.cyberpulse.cyber_pulse&hl=en_US",
+    "summary": "I work in cyber security and built this android app to help me keep up to date with the latest news stories and summarise the most important information. It provides two executive summaries per day and alerts for critical news throughout. I\u2019m using Gemini Pro 3 to analyse recent articles from a list of trusted sources. It identifies the 5 highest priority stories, considering things like if a vulnerability is being actively exploited, novelty and breadth. If CVEs are identified, it will check fo",
+    "published_at": "2026-04-14T13:30:02Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
       "easy keywords: resume",
       "repeatable: resume",
       "market-signal source without direct buyer intent"
@@ -226,40 +262,6 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0pQNWViSEpHSkhkZ1FKRHNiWFA0bEFDMWVMSWh5SWk3WDRWUG0zZ05helpNS0xVV0l5QWVmM1lOVUVMNF80NVlwUElPak5mQ1NmeFplRmpmWGRtTEQ2bUVUN25VQVhZN01Ba1AyWlZNZVpDeEx3VFZYWWxYckE4WlpQTDBCOWpmUEdiUGxiOFlpZk8yakUxeXF3TGN4YTNMczZtdEoyX204djBvRDRZLTFR?oc=5",
     "summary": "UIX Labs Highlights Pika AI Resume Tool Targeting HR Tech Demand TipRanks",
     "published_at": "Tue, 14 Apr 2026 07:00:00 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Transferable Skills: 17 Examples to Boost Your Resume & Career - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
-    "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
-    "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: cv",
-      "repeatable: template",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "6 CV Templates That Will Actually Get You Interviews - Pulse Nigeria",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yd2VDMHNlWWJrSHphSWZSUjBNT1NWNFdSTUZDSWJOcl9JQ0h3OW5ReTZTQzBMbFpiWjZXZjB1d1NWRDR2eXJoRW5PWlhzN3RlTlFiYlRSVEtxcDFkYlRsQzBqMFJ0MGVTbmxTZ1ZOOFd6dw?oc=5",
-    "summary": "6 CV Templates That Will Actually Get You Interviews Pulse Nigeria",
-    "published_at": "Sun, 03 Aug 2025 07:00:00 GMT"
   },
   {
     "total": 5,
@@ -290,10 +292,10 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "17 AI Skills To Put On Your Resume In 2025 - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnBmWWhKLWpIZGFhNHFFMUlhR3pMd2thNlRJMDBqZTFubUVKMTlsdHFFVHdjUVpyYnBoTzNfMElNZGJxYUxrMDNvSFpCYVRPS0RWR2pXWjlnbGY5NzVzRktNakMtRnNqSnhxSlBMMHhCWlVvdVRMOHNLSWpFSXp6UDEySjRNd3ZIb0Npb1BWdnpNVkhLMG12WC1IYw?oc=5",
-    "summary": "17 AI Skills To Put On Your Resume In 2025 Forbes",
-    "published_at": "Fri, 11 Jul 2025 07:00:00 GMT"
+    "title": "17 Best Resume Skills to Land Your Dream Job in 2025 - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rbjhLMHhGOFZmV3N3UE5DQ09PYTR2bkFPekx4TThHcFZZaHI2N3o3Z3ZwcnZoYkd1UkV0a1lOSVJKcVVPakprVnN0bDloZm42SkFqWFRfZlhCWjQ?oc=5",
+    "summary": "17 Best Resume Skills to Land Your Dream Job in 2025 BetterUp",
+    "published_at": "Mon, 26 Dec 2022 15:06:24 GMT"
   },
   {
     "total": 5,
@@ -324,10 +326,10 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "17 Best Resume Skills to Land Your Dream Job in 2025 - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rbjhLMHhGOFZmV3N3UE5DQ09PYTR2bkFPekx4TThHcFZZaHI2N3o3Z3ZwcnZoYkd1UkV0a1lOSVJKcVVPakprVnN0bDloZm42SkFqWFRfZlhCWjQ?oc=5",
-    "summary": "17 Best Resume Skills to Land Your Dream Job in 2025 BetterUp",
-    "published_at": "Mon, 26 Dec 2022 15:06:24 GMT"
+    "title": "17 AI Skills To Put On Your Resume In 2025 - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnBmWWhKLWpIZGFhNHFFMUlhR3pMd2thNlRJMDBqZTFubUVKMTlsdHFFVHdjUVpyYnBoTzNfMElNZGJxYUxrMDNvSFpCYVRPS0RWR2pXWjlnbGY5NzVzRktNakMtRnNqSnhxSlBMMHhCWlVvdVRMOHNLSWpFSXp6UDEySjRNd3ZIb0Npb1BWdnpNVkhLMG12WC1IYw?oc=5",
+    "summary": "17 AI Skills To Put On Your Resume In 2025 Forbes",
+    "published_at": "Fri, 11 Jul 2025 07:00:00 GMT"
   },
   {
     "total": 5,
@@ -364,6 +366,57 @@
     "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
   },
   {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
+    "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
+    "published_at": "Thu, 23 Jan 2025 08:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Transferable Skills: 17 Examples to Boost Your Resume & Career - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
+    "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
+    "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOZXJ2UGNHVzhVenEyUzVfVVdZSVZVV2VzS0FkQ0ZaY0FWOV9yMzhVaG1ucGpsTGl4S0tXTWw2T05xdk9WQ05BeFE0MnNvaDNRWW1IRHczazhra0VpaTBxdVhmR25pMGhGYlpDdFk0cUpZTGNsMXfSAXtBVV95cUxQM2FTQ0lNOF9WVW84bkdGM21zUk0zc08tV3VVcTk1bWIwUmk5OTBhX2ZlZm5SU3pkcmRfa0h2OXR0RkhTQTRKWF9xNEpXdzFIM3hKQzhRSDctQ1o2dkJqTEpTTUxlQk94dF83NTZmVTRrNEJJUFhRZjZfNFU?oc=5",
+    "summary": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 CNBC",
+    "published_at": "Wed, 19 Oct 2022 07:00:00 GMT"
+  },
+  {
     "total": 4,
     "ease": 2,
     "payment_probability": 4,
@@ -396,6 +449,23 @@
     "url": "https://ogmap.com/",
     "summary": "Hey everyone I\u2019ve been hacking on a project \u2192 [OGMAP]( https://ogmap.com ). It\u2019s a *vector tiles API (PBF)* with simple prepaid pricing: - $10 = 1,000,000 tiles - 250k free on sign-up - Auto-buy with Stripe, with safety limits - Served worldwide via Cloudflare CDN We don\u2019t try to compete with Mapbox feature-wise. It\u2019s literally just fast, low-cost tiles + some basic styles for MapLibre. Why I built it: I wanted to start a web project and realized if it got even a bit popular (before monetization",
     "published_at": "2025-09-03T18:31:05Z"
+  },
+  {
+    "total": 4,
+    "ease": 4,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: prompt",
+      "payment signals: paid",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: NotchPrompter \u2013 A simple, open-source teleprompter for macOS,no AI-slop",
+    "url": "https://github.com/jpomykala/NotchPrompter",
+    "summary": "Hi HN, I built NotchPrompter because I needed a simple way to read notes while looking at the camera during calls, without heavy or paid software. - 100% free & open-source - native macOS (SwiftUI) - minimalist - focuses on the essentials. Feedback and contributions are more than welcome! PS No, I didn't use AI for it. I always wanted to play with SwiftUI and this is my 6th approach to this. Previous projects were too complex for my beginner skills. I'm mainly a Java developer. It took me ~5 mon",
+    "published_at": "2026-04-17T11:39:46Z"
   },
   {
     "total": 4,
@@ -556,6 +626,22 @@
     "repeatability": 1,
     "risk": 3,
     "reasons": [
+      "easy keywords: tweet",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: A Little Excursion",
+    "url": "https://alittleexcursion.com/",
+    "summary": "I'm attempting to document the major events of the current Iran War in one place. Its incredibly difficult to know whats going on from across the world and most of what we see daily are just Trump's tweets. I've thrown together a scrolling timeline to help myself (and others) track events as they've been happening. I obviously cannot include every single missile strike or drone attack or statement by a politically aligned individual, but I've tried to be objective and include anything \"significa",
+    "published_at": "2026-04-07T19:13:56Z"
+  },
+  {
+    "total": 3,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
       "easy keywords: spreadsheet",
       "market-signal source without direct buyer intent"
     ],
@@ -598,22 +684,6 @@
     "published_at": "2025-12-14T18:55:10Z"
   },
   {
-    "total": 3,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "repeatable: template",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech - Fast Company",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYm5aTEdhUTQzX2FnRU00OUhBSW9DSlFiWTh2N2Y0VGh2dWIzQUFLUGRsSk40dTZxNXQwSFlWdndaZXV3dUo4VElFRGFqNTdnbEdCd2pjZngwdTl4YXFvZElKcEVyc0x6elk5eVZibGVfZDBtMFVKMjBUMnFqRGJCd0tGVlI4LVd6c01xV1BISVNTdEI0VVNGRklpUGg5Q0JzWUl5emN2Nkg?oc=5",
-    "summary": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech Fast Company",
-    "published_at": "Tue, 23 Feb 2021 08:00:00 GMT"
-  },
-  {
     "total": 2,
     "ease": 2,
     "payment_probability": 2,
@@ -628,6 +698,22 @@
     "url": "https://github.com/statespace-tech/cush",
     "summary": "I built cush because coding agents can be helpful to diagnose and troubleshoot server issues. The problem is that getting said agents onto a remote server, especially one you don't control, means dealing with VPNs, bastion hosts, firewall rules, access controls, or audit trails. That's assuming SSH isn't even blocked. cush takes a different approach. Instead of a shell, it opens a temporary, outbound HTTPS tunnel that lets you and your AI agent run constrained CLI commands on the server: $ cush ",
     "published_at": "2026-04-15T16:01:43Z"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: fixed",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: AI agents are bad at API integrations \u2013 we fixed it",
+    "url": "https://www.apimatic.io/product/context-plugins/showcase",
+    "summary": "Hi, we're Sohaib and Hannan from APIMatic. We've been building tools to help Developers integrate with APIs for 5+ years at APIMatic. We're now trying to help AI agents do the same. This started from a conversation at PayPal DevDay 2025. The PayPal developer experience team were monitoring developers using AI agents to integrate PayPal APIs, and the agents kept reaching for outdated docs and deprecated SDK versions, often falling back to training data instead of reading the current API documenta",
+    "published_at": "2026-04-09T15:06:54Z"
   },
   {
     "total": 2,
@@ -688,22 +774,6 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "hn/paid gig",
-    "title": "10,947 signups, 90 paid, \u20ac6,356 in nine years",
-    "url": "https://khanin.info/en/blog/458",
-    "summary": "",
-    "published_at": "2026-04-28T13:59:24Z"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: paid",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/paid gig",
     "title": "Show HN: MTTCleaner \u2013 Same as CCleaner but free, no ads",
     "url": "https://github.com/mytech-today-now/mTTCleaner",
     "summary": "I'm an IT consultant. CCleaner was a good choice to speed up clients' web browsing experience. Unless you paid, it keeps vomiting ads for the product. Which made it a bad choice. mTTCleaner does most of the same thing to clean most browsers by cleaning caches, compacting databases, and removing unnecessary metrics files. It can create it's own cron job/scheduled task to run itself every month, if you choose. It covers 28 browsers on 3 platforms, assuming you have PowerShell 7+. Please file any b",
@@ -748,6 +818,22 @@
     "repeatability": 1,
     "risk": 3,
     "reasons": [
+      "payment signals: paid",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "Claude Code: Widespread abnormal usage limit drain across all paid tiers",
+    "url": "https://github.com/anthropics/claude-code/issues/41930",
+    "summary": "",
+    "published_at": "2026-04-15T09:47:46Z"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
       "payment signals: commission",
       "market-signal source without direct buyer intent"
     ],
@@ -756,85 +842,5 @@
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSzY4YmdFcVRodzJzTi1EQUk3UWhxV1NadV9ydUVuYnFuVWpEdHB3T1VKQ0o2aERVNFcyWWxRUHVmbXgtTXMzT3R2QmRnY082QXZnR05QOEhTVjlRN2VxRnVnSEY4ZDZqLXE2NV82aXRPWFhGZEkyVE52Mkp1ekdWbnNYVTY5UzI2d2xBRER0N29kV2NLemxXcHJad3pRRkJyQmNJWW5zdWlvdC05Zmd4cDE2elR5R2RmTlNib0F0ZG1nLTQ0a2hzeHo0M25aTHRBY0RRRHNxMWs1ZkZVUVZGZzU3TVVlUEZlclJQZmt3?oc=5",
     "summary": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions FinancialContent",
     "published_at": "Fri, 06 Feb 2026 08:00:00 GMT"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: commission",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/AI tools affiliate program launch",
-    "title": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNE03T19uSmZNUWZyLTVlb3lCckw2RnQtLXMwSWp5Y0E4enJ6UHJRWkE2TzJ4XzVhT2x4YmRTT053WGhwUmVPTXlCalZmdjZTRFdDOWJJMGJrYzY3cnEtZkpqTVFaTkhaTDN0N1ktcURFX0tlM0ZGQ2VzTUNwbnRGYTZpM0tVX3VrdDN1Vi1yalRCVW1hOEdEWUZzS2NCN2tqT1FSSU5JZTdFOXNFMEVRS0J4WWc4UTBaOVlr?oc=5",
-    "summary": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again Business Insider",
-    "published_at": "Tue, 24 Mar 2026 07:00:00 GMT"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: hire",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Trying to Get Hired? Here Are the Most In-Demand Job Skills Right Now - money.com",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDaFFZOXU1bDU1aXRnbzZrY1FBSWhrYzJmTG9TSDd4eDhsY1lWMFlXRmprM3E4OGwwbDZzTGRPNkpRM0FzbDVRR0xGWVc0VllNMmpUb3JsQkhMVkJq?oc=5",
-    "summary": "Trying to Get Hired? Here Are the Most In-Demand Job Skills Right Now money.com",
-    "published_at": "Tue, 03 Mar 2026 08:00:00 GMT"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: hiring",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Hiring managers name the top hard skills and soft skills for 2026 - HR Dive",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHNvWHM0OWxaLTByQW03YkVRLTAxYkc1azhVX3F1YzhFOXd2YWN3X1ljSzMtdjhNYnBOMjA1cTYzZ1ZRaEFyMmNSR01sNGZZMjZaYkpYWHFVUXp3RUdNdzk4ODc0MkJMZ1dzZkdsQ19ISHV3TDNjY2E1WXdHMHZGc2FYZUJ5ZEpBQ29SelBxbnRYb1dxdGs5WQ?oc=5",
-    "summary": "Hiring managers name the top hard skills and soft skills for 2026 HR Dive",
-    "published_at": "Mon, 08 Dec 2025 08:00:00 GMT"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: hiring",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) - Toronto Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZjaTJlSkJHazlaVmJESkppS0tMMGpzdXh1SFR2NTNpOE5mQkg0NUlQMnR4MlR0VWtmRlFTckVESUh1UGpGV1dVWjN5NmxnMkxLbkVSTk9fZ1pYWlJoUm1TTWxJQlM3X3FaalZ5RFpQaFdVRXQ0ZzExd0tmOG9vaExENkFzTG96Y1pDYVAzdVB0eWxIR2xfUnZRc1Z6NFlDV2pPQTVMSnFaQQ?oc=5",
-    "summary": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) Toronto Guardian",
-    "published_at": "Mon, 11 Aug 2025 06:36:02 GMT"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: hiring",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants - U.S. Chamber of Commerce",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVlaVDNkUVMtT1BtV0V4S0ZxZHYxTExOT29iWVFySzRzaEFoTzVoODFUZWh4TWxMLVVNNlk0bS10UksyOUxfOVJmejlyWW5wNU4wZlBCb3VuZkJhNzFzQ2lrM1dEdzZGSjhSRzJ0N2Q4UTdEcnBqSHZWX1UxTi1FLW5haGFBMnNaaFZJ?oc=5",
-    "summary": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants U.S. Chamber of Commerce",
-    "published_at": "Wed, 24 Jan 2024 08:00:00 GMT"
   }
 ]
