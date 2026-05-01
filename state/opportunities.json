@@ -126,24 +126,6 @@
     "published_at": "2026-04-24T02:10:59Z"
   },
   {
-    "total": 6,
-    "ease": 4,
-    "payment_probability": 2,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: thread",
-      "payment signals: contract",
-      "repeatable: thread",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: I built a personal corporation of AI agents that runs on your PC",
-    "url": "https://github.com/re-marked/claude-corp",
-    "summary": "Claude Corp is a daemon that runs and orchestrates an autonomous personal corporation of AI agents on your machine. OpenClaw agents form a social hierarchy, and everybody knows who they listen and report to. Agents can discuss stuff in channels, by @mentioning each other or using threads. Agents can create Tasks and Contracts, where Tasks are persistent tasks stored as file, and Contracts are a bundle of tasks, with a shared goal. When all tasks in a contract are done, the Contract is marked as ",
-    "published_at": "2026-04-08T16:20:32Z"
-  },
-  {
     "total": 5,
     "ease": 4,
     "payment_probability": 3,
@@ -275,10 +257,10 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "10 Essential Teacher Resume Skills to Include for 2024 - Prodigy",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04WFZxNWlVT19XaUE5b3lxcEwybk40NGYtREl3eS1PaEVtNEVNRGxEMlRfVHNJMkdVM3lLcFE0TVRLVnhrWnBSdi1tQ2ZLNmtuakVObnE2cVVQektSNUJ6OTNtQ2c3SVE1U0t5WmVWQQ?oc=5",
-    "summary": "10 Essential Teacher Resume Skills to Include for 2024 Prodigy",
-    "published_at": "Wed, 15 Nov 2023 08:00:00 GMT"
+    "title": "17 Best Resume Skills to Land Your Dream Job in 2025 - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rbjhLMHhGOFZmV3N3UE5DQ09PYTR2bkFPekx4TThHcFZZaHI2N3o3Z3ZwcnZoYkd1UkV0a1lOSVJKcVVPakprVnN0bDloZm42SkFqWFRfZlhCWjQ?oc=5",
+    "summary": "17 Best Resume Skills to Land Your Dream Job in 2025 BetterUp",
+    "published_at": "Mon, 26 Dec 2022 15:06:24 GMT"
   },
   {
     "total": 5,
@@ -292,10 +274,10 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "17 Best Resume Skills to Land Your Dream Job in 2025 - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rbjhLMHhGOFZmV3N3UE5DQ09PYTR2bkFPekx4TThHcFZZaHI2N3o3Z3ZwcnZoYkd1UkV0a1lOSVJKcVVPakprVnN0bDloZm42SkFqWFRfZlhCWjQ?oc=5",
-    "summary": "17 Best Resume Skills to Land Your Dream Job in 2025 BetterUp",
-    "published_at": "Mon, 26 Dec 2022 15:06:24 GMT"
+    "title": "10 Essential Teacher Resume Skills to Include for 2024 - Prodigy",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04WFZxNWlVT19XaUE5b3lxcEwybk40NGYtREl3eS1PaEVtNEVNRGxEMlRfVHNJMkdVM3lLcFE0TVRLVnhrWnBSdi1tQ2ZLNmtuakVObnE2cVVQektSNUJ6OTNtQ2c3SVE1U0t5WmVWQQ?oc=5",
+    "summary": "10 Essential Teacher Resume Skills to Include for 2024 Prodigy",
+    "published_at": "Wed, 15 Nov 2023 08:00:00 GMT"
   },
   {
     "total": 5,
@@ -415,6 +397,23 @@
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOZXJ2UGNHVzhVenEyUzVfVVdZSVZVV2VzS0FkQ0ZaY0FWOV9yMzhVaG1ucGpsTGl4S0tXTWw2T05xdk9WQ05BeFE0MnNvaDNRWW1IRHczazhra0VpaTBxdVhmR25pMGhGYlpDdFk0cUpZTGNsMXfSAXtBVV95cUxQM2FTQ0lNOF9WVW84bkdGM21zUk0zc08tV3VVcTk1bWIwUmk5OTBhX2ZlZm5SU3pkcmRfa0h2OXR0RkhTQTRKWF9xNEpXdzFIM3hKQzhRSDctQ1o2dkJqTEpTTUxlQk94dF83NTZmVTRrNEJJUFhRZjZfNFU?oc=5",
     "summary": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 CNBC",
     "published_at": "Wed, 19 Oct 2022 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: cv",
+      "repeatable: template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "6 CV Templates That Will Actually Get You Interviews - Pulse Nigeria",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yd2VDMHNlWWJrSHphSWZSUjBNT1NWNFdSTUZDSWJOcl9JQ0h3OW5ReTZTQzBMbFpiWjZXZjB1d1NWRDR2eXJoRW5PWlhzN3RlTlFiYlRSVEtxcDFkYlRsQzBqMFJ0MGVTbmxTZ1ZOOFd6dw?oc=5",
+    "summary": "6 CV Templates That Will Actually Get You Interviews Pulse Nigeria",
+    "published_at": "Sun, 03 Aug 2025 07:00:00 GMT"
   },
   {
     "total": 4,
@@ -626,22 +625,6 @@
     "repeatability": 1,
     "risk": 3,
     "reasons": [
-      "easy keywords: tweet",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: A Little Excursion",
-    "url": "https://alittleexcursion.com/",
-    "summary": "I'm attempting to document the major events of the current Iran War in one place. Its incredibly difficult to know whats going on from across the world and most of what we see daily are just Trump's tweets. I've thrown together a scrolling timeline to help myself (and others) track events as they've been happening. I obviously cannot include every single missile strike or drone attack or statement by a politically aligned individual, but I've tried to be objective and include anything \"significa",
-    "published_at": "2026-04-07T19:13:56Z"
-  },
-  {
-    "total": 3,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
       "easy keywords: spreadsheet",
       "market-signal source without direct buyer intent"
     ],
@@ -842,5 +825,21 @@
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSzY4YmdFcVRodzJzTi1EQUk3UWhxV1NadV9ydUVuYnFuVWpEdHB3T1VKQ0o2aERVNFcyWWxRUHVmbXgtTXMzT3R2QmRnY082QXZnR05QOEhTVjlRN2VxRnVnSEY4ZDZqLXE2NV82aXRPWFhGZEkyVE52Mkp1ekdWbnNYVTY5UzI2d2xBRER0N29kV2NLemxXcHJad3pRRkJyQmNJWW5zdWlvdC05Zmd4cDE2elR5R2RmTlNib0F0ZG1nLTQ0a2hzeHo0M25aTHRBY0RRRHNxMWs1ZkZVUVZGZzU3TVVlUEZlclJQZmt3?oc=5",
     "summary": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions FinancialContent",
     "published_at": "Fri, 06 Feb 2026 08:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: commission",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/AI tools affiliate program launch",
+    "title": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNE03T19uSmZNUWZyLTVlb3lCckw2RnQtLXMwSWp5Y0E4enJ6UHJRWkE2TzJ4XzVhT2x4YmRTT053WGhwUmVPTXlCalZmdjZTRFdDOWJJMGJrYzY3cnEtZkpqTVFaTkhaTDN0N1ktcURFX0tlM0ZGQ2VzTUNwbnRGYTZpM0tVX3VrdDN1Vi1yalRCVW1hOEdEWUZzS2NCN2tqT1FSSU5JZTdFOXNFMEVRS0J4WWc4UTBaOVlr?oc=5",
+    "summary": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again Business Insider",
+    "published_at": "Tue, 24 Mar 2026 07:00:00 GMT"
   }
 ]
