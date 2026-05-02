@@ -20,23 +20,6 @@
   },
   {
     "total": 7,
-    "ease": 6,
-    "payment_probability": 3,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: blog, tweet",
-      "payment signals: contract, gig",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/paid gig",
-    "title": "Show HN: I built a blogging platform (5 years in, struggling with distribution)",
-    "url": "https://blogmaker.app/",
-    "summary": "A bit of context\u2026 I've been building https://blogmaker.app since April 2021, 5 years now. The launch tweet: https://x.com/BlogmakerApp/status/1383742023627247630 I had built it initially as a personal challenge to see if I could have a working product for 20 hours worth of work, and I did it. This was way before AI tools. A few months later, I included a Stripe button and the first payment came immediately in. In September 2022 I decided to focus (give up my contract gigs as a designer/dev). I t",
-    "published_at": "2026-04-21T14:17:47Z"
-  },
-  {
-    "total": 7,
     "ease": 4,
     "payment_probability": 3,
     "repeatability": 3,
@@ -70,40 +53,6 @@
     "url": "https://www.ogimageapi.io",
     "summary": "Hey HN! I built this because I was tired of manually creating OG images for every blog post and side project. How it works: - Send a POST request with JSON (title, subtitle, template, etc.) - Get back a PNG in ~50-100ms - No Puppeteer, no browser automation \u2014 uses node-canvas for fast server-side rendering Live demo on the homepage (no signup needed). Free tier includes 10 images/month. I'm launching on Product Hunt today too, but honestly HN feedback is what I care about most. Would love to hea",
     "published_at": "2025-12-11T18:47:55Z"
-  },
-  {
-    "total": 7,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 5,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume, template",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "ResumeTemplates.com Survey: 3 in 5 Business Leaders Back Microsoft's Warning That AI Will Replace Most White-Collar Work Within 18 Months - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdnZtM0pOY0RMdVBwRDhmOHZDVVF2T05fT05uU21FVDY4QmlNMEJKRC03YmhURi0yMWs0QWNHNGRuOUUtS1FDTExEenF6RGItZTM5M3lQdzM1Qm1HQ3NuWHk5aWhaTkZxR253SE9OMDFsQUE1d0MyUFZIWjFsLVM2ckdB?oc=5",
-    "summary": "ResumeTemplates.com Survey: 3 in 5 Business Leaders Back Microsoft's Warning That AI Will Replace Most White-Collar Work Within 18 Months Yahoo Finance",
-    "published_at": "Thu, 05 Mar 2026 08:00:00 GMT"
-  },
-  {
-    "total": 7,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 5,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume, template",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Hadoop Developer Resume: Sample Template and Advice - dice.com",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54RW9uWDVOVllkMnBOa1Bub1lGclN4bG9rdy0xeHRxODV1MVBDNTEwSFRzemF0YmpvUElpT1ZObHV3RDBlc0duTS1SMklELUlzV2k4Y0g0TE1JOFg3NER5d0dsZnQ0Zmk0dWR5dHFRUGJpOEk?oc=5",
-    "summary": "Hadoop Developer Resume: Sample Template and Advice dice.com",
-    "published_at": "Mon, 16 Oct 2023 07:00:00 GMT"
   },
   {
     "total": 7,
@@ -217,23 +166,6 @@
     "repeatability": 3,
     "risk": 3,
     "reasons": [
-      "easy keywords: prompt",
-      "repeatable: prompts",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: TogetherLetters \u2013 Group newsletters with no app, no feed, no login",
-    "url": "https://www.togetherletters.com",
-    "summary": "Hey all, we're reposting from our previous Show HN about 5 years ago: https://news.ycombinator.com/item?id=28644205 Since then we've grown to more than 5k users across nearly 1k groups and have sent out more than 100k update prompts. The premise is simple - social media stinks and you either don't see updates from people you care about (they never post) or you miss the updates (flooded by other people's updates or an algorithm that downplays an update you'd care about even if it's seemingly unim",
-    "published_at": "2026-04-21T16:13:54Z"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
       "easy keywords: logo",
       "repeatable: logo",
       "market-signal source without direct buyer intent"
@@ -260,23 +192,6 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0pQNWViSEpHSkhkZ1FKRHNiWFA0bEFDMWVMSWh5SWk3WDRWUG0zZ05helpNS0xVV0l5QWVmM1lOVUVMNF80NVlwUElPak5mQ1NmeFplRmpmWGRtTEQ2bUVUN25VQVhZN01Ba1AyWlZNZVpDeEx3VFZYWWxYckE4WlpQTDBCOWpmUEdiUGxiOFlpZk8yakUxeXF3TGN4YTNMczZtdEoyX204djBvRDRZLTFR?oc=5",
     "summary": "UIX Labs Highlights Pika AI Resume Tool Targeting HR Tech Demand TipRanks",
     "published_at": "Tue, 14 Apr 2026 07:00:00 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "The Top 20 Skills Employers Want to See on Your Resume - Money Talks News",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYXBvSmVJQzQ2UkhwelJPemx4NzdUTXpTN2NXRTdfVzJ5TnljTkVmZFpHQUFUMnh1SVFrZ3MyN1E2TmM1dlNRX1pnaGFPa0NWUl9PY2pXcFB3ZGwwcjVRbUpKeUZXVGpVUmFpTTdoV1dFam94VFBSMU1oVDdXb01qNVhXRHlUMlhoblVlZ2pReXp3QQ?oc=5",
-    "summary": "The Top 20 Skills Employers Want to See on Your Resume Money Talks News",
-    "published_at": "Thu, 19 Feb 2026 08:00:00 GMT"
   },
   {
     "total": 5,
@@ -324,10 +239,10 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "Favorite Attorney General of Liberal SDA's Demands Hospital Resume 'Gender-Affirming Care for Transgender Youth - Fulcrum7",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONDNoYjJNcm9SMmtmXzBjekN1VnpEbV9ndEZCN0U0NHQ4T05obVBQOUEwc2NWSjd0R3NYd0hJZllEeVM0UlRGdWFJaFJhZG42eWRvODFlSW1aaVhkMjBDWGhJSkQyVnJJUlZGZ3pHUlE0SDJydERqUGlqck51RmxqNnEwYkFOaUREM2E1ejVvYzhYanFwa0dYbGVtZElUd3QxeE5oeGs2MFRsZ0FGTFhjV3VMU2FyVkJLYk5FMFYxVlRFZDF0SlJCY2FMSV9QUGlmWUUwTlQyR2F5TWtmbGFHdWZB?oc=5",
-    "summary": "Favorite Attorney General of Liberal SDA's Demands Hospital Resume 'Gender-Affirming Care for Transgender Youth Fulcrum7",
-    "published_at": "Thu, 05 Mar 2026 08:00:00 GMT"
+    "title": "Don't write a Vh1 resume during Netflix era - Forbes India",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2RkdVJMZlNZVnVKVGhXS3RrNjI3d2hHb3ZXb09OaGE2Y2ZRNTJwb1RXLUJoZXdkd0tKOEpmQi1kYVFNLVFHRnRkYnpCcXY5Slp4aElDZWxyZjBVZmJ3c25uMzZxVFFRSjFLYjVQdjdGTkpCN05pNDE3NkVZbU5lRFB4LVlpV3NSS2hrN1dJMk9HWmwwcGJGWm5oRncyUzJ3MmFibWhmZ3Y?oc=5",
+    "summary": "Don't write a Vh1 resume during Netflix era Forbes India",
+    "published_at": "Tue, 11 Aug 2020 07:00:00 GMT"
   },
   {
     "total": 5,
@@ -358,23 +273,6 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "What Are Hard Skills? 45 Examples For Your Resume - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMHJreEhwRFdWQmszbDJuQzNUOVVtNDNSTW9MWHhFc3NFUzFqU1dKcm5vVkhsRi0zMTdNRE9mZ3dnLS1aV0F6U0pEWGFoY2k0QjRN?oc=5",
-    "summary": "What Are Hard Skills? 45 Examples For Your Resume BetterUp",
-    "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
     "title": "Marketing Skills for Your Resume in 2024 + Examples - BetterUp",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yZ2xqMlhLVzBkemppOUdMX0ZRVGd0UjJMREdTZnpuNGp1U3l5alJJdVo5MTJpY2pqOTh6RHFPalEtOVZsV0V3UEN6d0pkeGlHWjRSYWRtQko0Zw?oc=5",
     "summary": "Marketing Skills for Your Resume in 2024 + Examples BetterUp",
@@ -392,10 +290,10 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "Transferable Skills: 17 Examples to Boost Your Resume & Career - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
-    "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
-    "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
+    "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
+    "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
+    "published_at": "Thu, 23 Jan 2025 08:00:00 GMT"
   },
   {
     "total": 5,
@@ -409,10 +307,10 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
-    "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
-    "published_at": "Thu, 23 Jan 2025 08:00:00 GMT"
+    "title": "Transferable Skills: 17 Examples to Boost Your Resume & Career - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
+    "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
+    "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
   },
   {
     "total": 4,
@@ -675,9 +573,9 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech - fastcompany.com",
+    "title": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech - Fast Company",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYm5aTEdhUTQzX2FnRU00OUhBSW9DSlFiWTh2N2Y0VGh2dWIzQUFLUGRsSk40dTZxNXQwSFlWdndaZXV3dUo4VElFRGFqNTdnbEdCd2pjZngwdTl4YXFvZElKcEVyc0x6elk5eVZibGVfZDBtMFVKMjBUMnFqRGJCd0tGVlI4LVd6c01xV1BISVNTdEI0VVNGRklpUGg5Q0JzWUl5emN2Nkg?oc=5",
-    "summary": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech fastcompany.com",
+    "summary": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech Fast Company",
     "published_at": "Tue, 23 Feb 2021 08:00:00 GMT"
   },
   {
@@ -767,22 +665,6 @@
     "repeatability": 1,
     "risk": 3,
     "reasons": [
-      "payment signals: paid",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/paid gig",
-    "title": "Open Source AI engine that turns your local knowledge into paid walking tours",
-    "url": "https://github.com/ankbeg/tourflow",
-    "summary": "",
-    "published_at": "2026-04-21T16:58:19Z"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
       "payment signals: commission",
       "market-signal source without direct buyer intent"
     ],
@@ -835,9 +717,117 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "Hiring managers name the top hard skills and soft skills for 2026 - HR Dive",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHNvWHM0OWxaLTByQW03YkVRLTAxYkc1azhVX3F1YzhFOXd2YWN3X1ljSzMtdjhNYnBOMjA1cTYzZ1ZRaEFyMmNSR01sNGZZMjZaYkpYWHFVUXp3RUdNdzk4ODc0MkJMZ1dzZkdsQ19ISHV3TDNjY2E1WXdHMHZGc2FYZUJ5ZEpBQ29SelBxbnRYb1dxdGs5WQ?oc=5",
-    "summary": "Hiring managers name the top hard skills and soft skills for 2026 HR Dive",
-    "published_at": "Mon, 08 Dec 2025 08:00:00 GMT"
+    "title": "What Are the Top Skills to Prioritize in 2026? Hiring Managers Chime In - The HR Digest",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkd5R1FTU2FtNDFReWxRa2J1cmlub3h5WWl2T3EycWxUbEh4aXk4QU9JZzhRZ3ZwNDZNOGlPX1UzNFlpNW9VUlNMcXNEOXpkb2FUUGNTZG9XN2VjRkFvWFpLZmJsZC1uUmQ0VW41UW51Y0dRLWcyaHJqc2hRbEp5UWk4QzhZUzRoUG84TnREb3NPZW1VVUJNd21rUFE5b080?oc=5",
+    "summary": "What Are the Top Skills to Prioritize in 2026? Hiring Managers Chime In The HR Digest",
+    "published_at": "Tue, 09 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hiring",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants - U.S. Chamber of Commerce",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVlaVDNkUVMtT1BtV0V4S0ZxZHYxTExOT29iWVFySzRzaEFoTzVoODFUZWh4TWxMLVVNNlk0bS10UksyOUxfOVJmejlyWW5wNU4wZlBCb3VuZkJhNzFzQ2lrM1dEdzZGSjhSRzJ0N2Q4UTdEcnBqSHZWX1UxTi1FLW5haGFBMnNaaFZJ?oc=5",
+    "summary": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants U.S. Chamber of Commerce",
+    "published_at": "Wed, 24 Jan 2024 08:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hiring",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) - Toronto Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZjaTJlSkJHazlaVmJESkppS0tMMGpzdXh1SFR2NTNpOE5mQkg0NUlQMnR4MlR0VWtmRlFTckVESUh1UGpGV1dVWjN5NmxnMkxLbkVSTk9fZ1pYWlJoUm1TTWxJQlM3X3FaalZ5RFpQaFdVRXQ0ZzExd0tmOG9vaExENkFzTG96Y1pDYVAzdVB0eWxIR2xfUnZRc1Z6NFlDV2pPQTVMSnFaQQ?oc=5",
+    "summary": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) Toronto Guardian",
+    "published_at": "Mon, 11 Aug 2025 06:36:02 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hire",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "Business support case studies - Severnside Virtual Assistant - Worcestershire County Council",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPM2xUUHR5QTg4eGxnUFlKcTJLaGIzcWdKU3Y3NmNraHRxUE5TWmRWVS1zbWc5dURLSGpFN0VjeS1BOUQxamliNlRGTEpHVkF5Rmc2ZVFhVTJCclpSckpPTFBwcWhmbndFWTctTEdaU3Q3bmJoTzBnMEhlaWc0Zk93bll1VVRkdmdYZU9ZOFhuUHMyaEVVbElOeTFFRUxsbkhQcFZYNTl1SXMtZ2NyWmp5RTNqYWFoajNnWWc0ZU9YZGZIT1JuMlB3QkxTYWttQUphaFVvZl9lWmpfcTZEWEZJMl9UMUFaTkZzclBYcm81X0xpbE1JRGg3OUkxNVhBY1FxNW5NQmhPZ04?oc=5",
+    "summary": "Business support case studies - Severnside Virtual Assistant Worcestershire County Council",
+    "published_at": "Wed, 08 Jan 2025 01:46:05 GMT"
+  },
+  {
+    "total": 1,
+    "ease": 2,
+    "payment_probability": 1,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: A navigable map and recommender for 17M music entities",
+    "url": "https://toposonico.com/",
+    "summary": "Hello HN, This is toposonico, a music recommender and navigable map. At core it's a skipgram word2vec model trained over ~6M playlists. Tracks are embedded in a 128d space. Embeddings for albums, artists and labels are computed marginalizing over tracks. The 2D map was built with UMAP. Both the model and UMAP were trained in the cloud over a NVIDIA A100. All things considered it cost me around ~50EUR, over two main training sessions and a few experiments. For the slippy map I experimented with a",
+    "published_at": "2026-05-02T11:15:28Z"
+  },
+  {
+    "total": 1,
+    "ease": 2,
+    "payment_probability": 1,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: Free security scanning for OSS projects",
+    "url": "https://news.ycombinator.com/item?id=47983772",
+    "summary": "Hi HN, I've spent a lot of my career working in open source and I want to give back. Recently, I launched https://zeroquarry.com , which is a tool that helps you find 0-days in your software by through AI by tracing incoming requests down to the lowest level of implementation. The tool will do things like automatically suggest patches if you want or be more hands-off if you prefer. It will automatically produce POCs of the vulnerabilities for you to test. I'm giving the tool away for free to any",
+    "published_at": "2026-05-02T06:09:24Z"
+  },
+  {
+    "total": 1,
+    "ease": 2,
+    "payment_probability": 1,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: Lib0xc, the C standard library you wish you had",
+    "url": "https://github.com/microsoft/lib0xc",
+    "summary": "Various patterns for safer C programming have been cargo-culting around the industry for decades. Because the language evolves intentionally slowly, these patterns rarely get folded into the language as first-class constructs and are passed down through the generations in a sort of oral tradition of programming. lib0xc leverages GNUC extensions and C11 features to codify safer C practices and patterns into real APIs with real documentation and real testing. Reduce your casts to and from `void *`",
+    "published_at": "2026-05-01T19:07:03Z"
+  },
+  {
+    "total": 1,
+    "ease": 2,
+    "payment_probability": 1,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: Omar \u2013 A TUI for managing 100 coding agents",
+    "url": "https://omar.tech",
+    "summary": "We were both genuinely impressed by Claude Code after it helped each of us fix nasty CI problems overnight. Doing those fixes manually would have taken days. After that experience, we each found ourselves struggling through Ctrl+Tab through multiple Claude Code windows in our terminals. While we enjoyed having agents working for us in parallel, context switching and cycling through each terminal tab was a real pain. So we thought: Can we design a TUI dashboard that manages a large swarm of agent",
+    "published_at": "2026-05-01T18:35:13Z"
   }
 ]
