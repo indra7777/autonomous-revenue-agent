@@ -319,15 +319,15 @@
     "repeatability": 3,
     "risk": 3,
     "reasons": [
-      "easy keywords: cv",
-      "repeatable: template",
+      "easy keywords: resume",
+      "repeatable: resume",
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "6 CV Templates That Will Actually Get You Interviews - Pulse Nigeria",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yd2VDMHNlWWJrSHphSWZSUjBNT1NWNFdSTUZDSWJOcl9JQ0h3OW5ReTZTQzBMbFpiWjZXZjB1d1NWRDR2eXJoRW5PWlhzN3RlTlFiYlRSVEtxcDFkYlRsQzBqMFJ0MGVTbmxTZ1ZOOFd6dw?oc=5",
-    "summary": "6 CV Templates That Will Actually Get You Interviews Pulse Nigeria",
-    "published_at": "Sun, 03 Aug 2025 07:00:00 GMT"
+    "title": "10 Essential Teacher Resume Skills to Include for 2024 - Prodigy",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04WFZxNWlVT19XaUE5b3lxcEwybk40NGYtREl3eS1PaEVtNEVNRGxEMlRfVHNJMkdVM3lLcFE0TVRLVnhrWnBSdi1tQ2ZLNmtuakVObnE2cVVQektSNUJ6OTNtQ2c3SVE1U0t5WmVWQQ?oc=5",
+    "summary": "10 Essential Teacher Resume Skills to Include for 2024 Prodigy",
+    "published_at": "Wed, 15 Nov 2023 08:00:00 GMT"
   },
   {
     "total": 5,
@@ -375,27 +375,10 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "10 Essential Teacher Resume Skills to Include for 2024 - Prodigy",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04WFZxNWlVT19XaUE5b3lxcEwybk40NGYtREl3eS1PaEVtNEVNRGxEMlRfVHNJMkdVM3lLcFE0TVRLVnhrWnBSdi1tQ2ZLNmtuakVObnE2cVVQektSNUJ6OTNtQ2c3SVE1U0t5WmVWQQ?oc=5",
-    "summary": "10 Essential Teacher Resume Skills to Include for 2024 Prodigy",
-    "published_at": "Wed, 15 Nov 2023 08:00:00 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Marketing Skills for Your Resume in 2024 + Examples - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yZ2xqMlhLVzBkemppOUdMX0ZRVGd0UjJMREdTZnpuNGp1U3l5alJJdVo5MTJpY2pqOTh6RHFPalEtOVZsV0V3UEN6d0pkeGlHWjRSYWRtQko0Zw?oc=5",
-    "summary": "Marketing Skills for Your Resume in 2024 + Examples BetterUp",
-    "published_at": "Fri, 22 Sep 2023 07:00:00 GMT"
+    "title": "Don't write a Vh1 resume during Netflix era - Forbes India",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2RkdVJMZlNZVnVKVGhXS3RrNjI3d2hHb3ZXb09OaGE2Y2ZRNTJwb1RXLUJoZXdkd0tKOEpmQi1kYVFNLVFHRnRkYnpCcXY5Slp4aElDZWxyZjBVZmJ3c25uMzZxVFFRSjFLYjVQdjdGTkpCN05pNDE3NkVZbU5lRFB4LVlpV3NSS2hrN1dJMk9HWmwwcGJGWm5oRncyUzJ3MmFibWhmZ3Y?oc=5",
+    "summary": "Don't write a Vh1 resume during Netflix era Forbes India",
+    "published_at": "Tue, 11 Aug 2020 07:00:00 GMT"
   },
   {
     "total": 4,
@@ -430,23 +413,6 @@
     "url": "https://ogmap.com/",
     "summary": "Hey everyone I\u2019ve been hacking on a project \u2192 [OGMAP]( https://ogmap.com ). It\u2019s a *vector tiles API (PBF)* with simple prepaid pricing: - $10 = 1,000,000 tiles - 250k free on sign-up - Auto-buy with Stripe, with safety limits - Served worldwide via Cloudflare CDN We don\u2019t try to compete with Mapbox feature-wise. It\u2019s literally just fast, low-cost tiles + some basic styles for MapLibre. Why I built it: I wanted to start a web project and realized if it got even a bit popular (before monetization",
     "published_at": "2025-09-03T18:31:05Z"
-  },
-  {
-    "total": 4,
-    "ease": 4,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: prompt",
-      "payment signals: paid",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/paid gig",
-    "title": "Show HN: NotchPrompter \u2013 A simple, open-source teleprompter for macOS,no AI-slop",
-    "url": "https://github.com/jpomykala/NotchPrompter",
-    "summary": "Hi HN, I built NotchPrompter because I needed a simple way to read notes while looking at the camera during calls, without heavy or paid software. - 100% free & open-source - native macOS (SwiftUI) - minimalist - focuses on the essentials. Feedback and contributions are more than welcome! PS No, I didn't use AI for it. I always wanted to play with SwiftUI and this is my 6th approach to this. Previous projects were too complex for my beginner skills. I'm mainly a Java developer. It took me ~5 mon",
-    "published_at": "2026-04-17T11:39:46Z"
   },
   {
     "total": 4,
@@ -585,6 +551,23 @@
   },
   {
     "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "visible budget: $9,000",
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDJwNTd6OXlJR3JabldKZnF3QzB0ZUlOSlFNcTg4TW9zSmY5aVdqSG5WVklRQ0ZsNEhyVnFxS0dJT1QtbC11eGY4cEo0Si0tU1N0V2tmaGs1NktLVW5ITTlnRXdPREFtOTd4LW03S1JRX21OV3J1bE1Jc1NXcmhHdGZacFI1WEloT0xobTVYWk4xU0ItMzJDRHd6NVRxb2dES3c?oc=5",
+    "summary": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. Business Insider",
+    "published_at": "Fri, 18 Feb 2022 08:00:00 GMT"
+  },
+  {
+    "total": 3,
     "ease": 4,
     "payment_probability": 1,
     "repeatability": 1,
@@ -630,6 +613,22 @@
     "url": "https://tintekka.com",
     "summary": "Hi HN, I'm a first-time founder from Dhaka building TinTekka to solve a real pain point: agencies waste weeks evaluating AI tools, only to struggle with implementation and see minimal ROI. The core problem: there are thousands of AI tools launching monthly, but no structured way for teams to discover which ones actually fit their workflow* and *how to implement them properly. TinTekka has two sides: For agencies & startups: - Answer targeted questions about your team, workflows, and pain points ",
     "published_at": "2025-12-14T18:55:10Z"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "repeatable: template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech - Fast Company",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYm5aTEdhUTQzX2FnRU00OUhBSW9DSlFiWTh2N2Y0VGh2dWIzQUFLUGRsSk40dTZxNXQwSFlWdndaZXV3dUo4VElFRGFqNTdnbEdCd2pjZngwdTl4YXFvZElKcEVyc0x6elk5eVZibGVfZDBtMFVKMjBUMnFqRGJCd0tGVlI4LVd6c01xV1BISVNTdEI0VVNGRklpUGg5Q0JzWUl5emN2Nkg?oc=5",
+    "summary": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech Fast Company",
+    "published_at": "Tue, 23 Feb 2021 08:00:00 GMT"
   },
   {
     "total": 2,
@@ -802,10 +801,10 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "Hiring managers name the top hard skills and soft skills for 2026 - HR Dive",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHNvWHM0OWxaLTByQW03YkVRLTAxYkc1azhVX3F1YzhFOXd2YWN3X1ljSzMtdjhNYnBOMjA1cTYzZ1ZRaEFyMmNSR01sNGZZMjZaYkpYWHFVUXp3RUdNdzk4ODc0MkJMZ1dzZkdsQ19ISHV3TDNjY2E1WXdHMHZGc2FYZUJ5ZEpBQ29SelBxbnRYb1dxdGs5WQ?oc=5",
-    "summary": "Hiring managers name the top hard skills and soft skills for 2026 HR Dive",
-    "published_at": "Mon, 08 Dec 2025 08:00:00 GMT"
+    "title": "What Are the Top Skills to Prioritize in 2026? Hiring Managers Chime In - The HR Digest",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkd5R1FTU2FtNDFReWxRa2J1cmlub3h5WWl2T3EycWxUbEh4aXk4QU9JZzhRZ3ZwNDZNOGlPX1UzNFlpNW9VUlNMcXNEOXpkb2FUUGNTZG9XN2VjRkFvWFpLZmJsZC1uUmQ0VW41UW51Y0dRLWcyaHJqc2hRbEp5UWk4QzhZUzRoUG84TnREb3NPZW1VVUJNd21rUFE5b080?oc=5",
+    "summary": "What Are the Top Skills to Prioritize in 2026? Hiring Managers Chime In The HR Digest",
+    "published_at": "Tue, 09 Dec 2025 08:00:00 GMT"
   },
   {
     "total": 2,
