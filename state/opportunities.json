@@ -160,24 +160,6 @@
     "published_at": "2026-04-24T02:10:59Z"
   },
   {
-    "total": 6,
-    "ease": 4,
-    "payment_probability": 2,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: thread",
-      "payment signals: contract",
-      "repeatable: thread",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: I built a personal corporation of AI agents that runs on your PC",
-    "url": "https://github.com/re-marked/claude-corp",
-    "summary": "Claude Corp is a daemon that runs and orchestrates an autonomous personal corporation of AI agents on your machine. OpenClaw agents form a social hierarchy, and everybody knows who they listen and report to. Agents can discuss stuff in channels, by @mentioning each other or using threads. Agents can create Tasks and Contracts, where Tasks are persistent tasks stored as file, and Contracts are a bundle of tasks, with a shared goal. When all tasks in a contract are done, the Contract is marked as ",
-    "published_at": "2026-04-08T16:20:32Z"
-  },
-  {
     "total": 5,
     "ease": 4,
     "payment_probability": 3,
@@ -621,23 +603,6 @@
   },
   {
     "total": 3,
-    "ease": 2,
-    "payment_probability": 3,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "visible budget: $9,000",
-      "payment signals: $",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDJwNTd6OXlJR3JabldKZnF3QzB0ZUlOSlFNcTg4TW9zSmY5aVdqSG5WVklRQ0ZsNEhyVnFxS0dJT1QtbC11eGY4cEo0Si0tU1N0V2tmaGs1NktLVW5ITTlnRXdPREFtOTd4LW03S1JRX21OV3J1bE1Jc1NXcmhHdGZacFI1WEloT0xobTVYWk4xU0ItMzJDRHd6NVRxb2dES3c?oc=5",
-    "summary": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. Business Insider",
-    "published_at": "Fri, 18 Feb 2022 08:00:00 GMT"
-  },
-  {
-    "total": 3,
     "ease": 4,
     "payment_probability": 1,
     "repeatability": 1,
@@ -843,5 +808,37 @@
     "url": "https://github.com/anthropics/claude-code/issues/41930",
     "summary": "",
     "published_at": "2026-04-15T09:47:46Z"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: commission",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/AI tools affiliate program launch",
+    "title": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNE03T19uSmZNUWZyLTVlb3lCckw2RnQtLXMwSWp5Y0E4enJ6UHJRWkE2TzJ4XzVhT2x4YmRTT053WGhwUmVPTXlCalZmdjZTRFdDOWJJMGJrYzY3cnEtZkpqTVFaTkhaTDN0N1ktcURFX0tlM0ZGQ2VzTUNwbnRGYTZpM0tVX3VrdDN1Vi1yalRCVW1hOEdEWUZzS2NCN2tqT1FSSU5JZTdFOXNFMEVRS0J4WWc4UTBaOVlr?oc=5",
+    "summary": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again Business Insider",
+    "published_at": "Tue, 24 Mar 2026 07:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: commission",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/AI tools affiliate program launch",
+    "title": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSzY4YmdFcVRodzJzTi1EQUk3UWhxV1NadV9ydUVuYnFuVWpEdHB3T1VKQ0o2aERVNFcyWWxRUHVmbXgtTXMzT3R2QmRnY082QXZnR05QOEhTVjlRN2VxRnVnSEY4ZDZqLXE2NV82aXRPWFhGZEkyVE52Mkp1ekdWbnNYVTY5UzI2d2xBRER0N29kV2NLemxXcHJad3pRRkJyQmNJWW5zdWlvdC05Zmd4cDE2elR5R2RmTlNib0F0ZG1nLTQ0a2hzeHo0M25aTHRBY0RRRHNxMWs1ZkZVUVZGZzU3TVVlUEZlclJQZmt3?oc=5",
+    "summary": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions FinancialContent",
+    "published_at": "Fri, 06 Feb 2026 08:00:00 GMT"
   }
 ]
