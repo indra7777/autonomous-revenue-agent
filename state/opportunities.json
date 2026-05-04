@@ -19,6 +19,24 @@
     "published_at": "2026-04-09T08:28:34Z"
   },
   {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 2,
+    "repeatability": 5,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "payment signals: hiring",
+      "repeatable: resume, template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Use this new resume template and example to land an interview today, says hiring manager of 20 years - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUpMWEE4TXFlV0thVk1EMkdVNFprVWNsSy1xTW5IV3VrU3dVVmhaUzBBM2JRQlNIR0FhYWNSOGVoTVFtX3lkci01VnlMZkhZcEZjLVV2U3BtZWJrX2tiZnZodTl6b1ZPdWN6eU51QWhhLTh6MnZxSFVESkFCNnU0TENUMFEwVDFvTGc0cTFPRGlHNDJJSDlvdUpfVnVmLTAyMjVhZmdnRFBfMW5fMDdpcG02eEZ1WDU2WUtN0gHAAUFVX3lxTFBKdVhyRENSQXM2dHFrYXdIQ2V4MVdPR01qdzR4VkpiUFd2eWI5cXc1NERNbmVmbndDMGI4aGVwSmRnMWxVaDhjTFFZTGhmYTdfM1FFcnoyRVVTMXdmSEF5dHo1NFA3WWZiUFdaUmpNSGoyZ2JibFE1R254MzZQb1ZHU29BbE9MRnJrWENVako0UTcyZWxHYWt3bGl4NEFodnQ4MDJBNnBfdndBSERuTGV4aFhMeTBMalc3ZlZIX0lIcg?oc=5",
+    "summary": "Use this new resume template and example to land an interview today, says hiring manager of 20 years CNBC",
+    "published_at": "Tue, 01 Sep 2020 07:00:00 GMT"
+  },
+  {
     "total": 7,
     "ease": 6,
     "payment_probability": 3,
@@ -70,6 +88,23 @@
     "url": "https://www.ogimageapi.io",
     "summary": "Hey HN! I built this because I was tired of manually creating OG images for every blog post and side project. How it works: - Send a POST request with JSON (title, subtitle, template, etc.) - Get back a PNG in ~50-100ms - No Puppeteer, no browser automation \u2014 uses node-canvas for fast server-side rendering Live demo on the homepage (no signup needed). Free tier includes 10 images/month. I'm launching on Product Hunt today too, but honestly HN feedback is what I care about most. Would love to hea",
     "published_at": "2025-12-11T18:47:55Z"
+  },
+  {
+    "total": 7,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 5,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume, template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Hadoop Developer Resume: Sample Template and Advice - dice.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54RW9uWDVOVllkMnBOa1Bub1lGclN4bG9rdy0xeHRxODV1MVBDNTEwSFRzemF0YmpvUElpT1ZObHV3RDBlc0duTS1SMklELUlzV2k4Y0g0TE1JOFg3NER5d0dsZnQ0Zmk0dWR5dHFRUGJpOEk?oc=5",
+    "summary": "Hadoop Developer Resume: Sample Template and Advice dice.com",
+    "published_at": "Mon, 16 Oct 2023 07:00:00 GMT"
   },
   {
     "total": 7,
@@ -183,23 +218,6 @@
     "repeatability": 3,
     "risk": 3,
     "reasons": [
-      "easy keywords: prompt",
-      "repeatable: prompts",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: TogetherLetters \u2013 Group newsletters with no app, no feed, no login",
-    "url": "https://www.togetherletters.com",
-    "summary": "Hey all, we're reposting from our previous Show HN about 5 years ago: https://news.ycombinator.com/item?id=28644205 Since then we've grown to more than 5k users across nearly 1k groups and have sent out more than 100k update prompts. The premise is simple - social media stinks and you either don't see updates from people you care about (they never post) or you miss the updates (flooded by other people's updates or an algorithm that downplays an update you'd care about even if it's seemingly unim",
-    "published_at": "2026-04-21T16:13:54Z"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
       "easy keywords: logo",
       "repeatable: logo",
       "market-signal source without direct buyer intent"
@@ -239,10 +257,27 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "17 Best Resume Skills to Land Your Dream Job in 2025 - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rbjhLMHhGOFZmV3N3UE5DQ09PYTR2bkFPekx4TThHcFZZaHI2N3o3Z3ZwcnZoYkd1UkV0a1lOSVJKcVVPakprVnN0bDloZm42SkFqWFRfZlhCWjQ?oc=5",
-    "summary": "17 Best Resume Skills to Land Your Dream Job in 2025 BetterUp",
-    "published_at": "Mon, 26 Dec 2022 15:06:24 GMT"
+    "title": "Transferable Skills: 17 Examples to Boost Your Resume & Career - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
+    "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
+    "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: cv",
+      "repeatable: template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "6 CV Templates That Will Actually Get You Interviews - Pulse Nigeria",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yd2VDMHNlWWJrSHphSWZSUjBNT1NWNFdSTUZDSWJOcl9JQ0h3OW5ReTZTQzBMbFpiWjZXZjB1d1NWRDR2eXJoRW5PWlhzN3RlTlFiYlRSVEtxcDFkYlRsQzBqMFJ0MGVTbmxTZ1ZOOFd6dw?oc=5",
+    "summary": "6 CV Templates That Will Actually Get You Interviews Pulse Nigeria",
+    "published_at": "Sun, 03 Aug 2025 07:00:00 GMT"
   },
   {
     "total": 5,
@@ -273,44 +308,27 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "Don't write a Vh1 resume during Netflix era - Forbes India",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2RkdVJMZlNZVnVKVGhXS3RrNjI3d2hHb3ZXb09OaGE2Y2ZRNTJwb1RXLUJoZXdkd0tKOEpmQi1kYVFNLVFHRnRkYnpCcXY5Slp4aElDZWxyZjBVZmJ3c25uMzZxVFFRSjFLYjVQdjdGTkpCN05pNDE3NkVZbU5lRFB4LVlpV3NSS2hrN1dJMk9HWmwwcGJGWm5oRncyUzJ3MmFibWhmZ3Y?oc=5",
-    "summary": "Don't write a Vh1 resume during Netflix era Forbes India",
-    "published_at": "Tue, 11 Aug 2020 07:00:00 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Technical Skills You Should List on Your Resume - Investopedia",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13bWZRZFM0SVFkV0FRdVNMNzRockxiMC1uSUdCblQ5OHpNZ0NSSXQ3ZjNYVkpQUXVMUWhlS1lvR3ZGT3M4azNZQjJtN3RWVzlQRl9NdFE2cDVmTVUyTjY3ZUFDZWNFSTZE?oc=5",
-    "summary": "Technical Skills You Should List on Your Resume Investopedia",
-    "published_at": "Sat, 25 Mar 2017 18:53:54 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
     "title": "17 AI Skills To Put On Your Resume In 2025 - Forbes",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnBmWWhKLWpIZGFhNHFFMUlhR3pMd2thNlRJMDBqZTFubUVKMTlsdHFFVHdjUVpyYnBoTzNfMElNZGJxYUxrMDNvSFpCYVRPS0RWR2pXWjlnbGY5NzVzRktNakMtRnNqSnhxSlBMMHhCWlVvdVRMOHNLSWpFSXp6UDEySjRNd3ZIb0Npb1BWdnpNVkhLMG12WC1IYw?oc=5",
     "summary": "17 AI Skills To Put On Your Resume In 2025 Forbes",
     "published_at": "Fri, 11 Jul 2025 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "17 Best Resume Skills to Land Your Dream Job in 2025 - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rbjhLMHhGOFZmV3N3UE5DQ09PYTR2bkFPekx4TThHcFZZaHI2N3o3Z3ZwcnZoYkd1UkV0a1lOSVJKcVVPakprVnN0bDloZm42SkFqWFRfZlhCWjQ?oc=5",
+    "summary": "17 Best Resume Skills to Land Your Dream Job in 2025 BetterUp",
+    "published_at": "Mon, 26 Dec 2022 15:06:24 GMT"
   },
   {
     "total": 5,
@@ -341,27 +359,10 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
-    "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
-    "published_at": "Thu, 23 Jan 2025 08:00:00 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: cv",
-      "repeatable: template",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "6 CV Templates That Will Actually Get You Interviews - Pulse Nigeria",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yd2VDMHNlWWJrSHphSWZSUjBNT1NWNFdSTUZDSWJOcl9JQ0h3OW5ReTZTQzBMbFpiWjZXZjB1d1NWRDR2eXJoRW5PWlhzN3RlTlFiYlRSVEtxcDFkYlRsQzBqMFJ0MGVTbmxTZ1ZOOFd6dw?oc=5",
-    "summary": "6 CV Templates That Will Actually Get You Interviews Pulse Nigeria",
-    "published_at": "Sun, 03 Aug 2025 07:00:00 GMT"
+    "title": "What Are Hard Skills? 45 Examples For Your Resume - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMHJreEhwRFdWQmszbDJuQzNUOVVtNDNSTW9MWHhFc3NFUzFqU1dKcm5vVkhsRi0zMTdNRE9mZ3dnLS1aV0F6U0pEWGFoY2k0QjRN?oc=5",
+    "summary": "What Are Hard Skills? 45 Examples For Your Resume BetterUp",
+    "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
   },
   {
     "total": 4,
@@ -413,6 +414,22 @@
     "url": "https://upvoicy.com/",
     "summary": "Hi HN, I built Upvoicy to help teams, freelancers, and small businesses collect and manage user feedback in a simple way. While working on my own projects, I felt that most feedback tools were either too complex, too expensive, or packed with features I did not really need. So I decided to build something lightweight and straightforward. With Upvoicy, you can: Create a public feedback board Let users submit ideas and vote Manage suggestions in one place Keep your roadmap clear and organized The ",
     "published_at": "2026-02-24T23:47:51Z"
+  },
+  {
+    "total": 3,
+    "ease": 2,
+    "payment_probability": 3,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: freelance, usd",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: USD Accounts for Pakistani Freelancers",
+    "url": "https://www.rizqfinance.com/",
+    "summary": "Hey everyone, Tom here. My co-founder Mahmood and I have spent the past few months building Rizq, a financial platform for Pakistani freelancers. After speaking with 50+ freelancers, we saw a clear gap: despite issues like high fees and account freezes, many still rely on Payoneer because no alternative offers the same experience. Most end up juggling multiple tools just to make it work. Existing solutions focus a lot on USD accounts but we want to go a step further and offer invoice tooling and",
+    "published_at": "2026-05-04T18:17:31Z"
   },
   {
     "total": 3,
@@ -531,6 +548,22 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2JjdFBzTll6TmdzY2pERExBVV9ndDdnalViZXo2RmQ3V240V185TXZ5d0NmUG44NDExTmNXeUkzWXpLR1pPdFpzXzYxdkROOG9uOGdvd2k4cnEyUkJETUFCb3B2YUdQS2IwdGgta05MQnpnUExnS3g1WEw5dHJtVWxNaU1lY1ZfYmNBSGtJUFN4TkhDVTVnc2t3d1ZqOXVQM29vTWVVZw?oc=5",
     "summary": "I'm a virtual assistant making $10,000 a month in revenue. Here's how I started my business and make 6 figures a year. Business Insider",
     "published_at": "Thu, 09 Dec 2021 08:00:00 GMT"
+  },
+  {
+    "total": 3,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: blog",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: ByAllo \u2013 the online bookstore that runs itself",
+    "url": "https://byallo.com/",
+    "summary": "Allo runs an online bookstore at byallo.com. His mission is \"Make the world read more.\" His objective is to sell as many books as possible. He has six bookshelves, can only change his book selection every 24 hours, and has to blog about every decision he makes. That's it. No specific workflow - we genuinely don't know how he'll solve it. Under the hood: byallo.com is a small repo with a simple UI sitting on top of Momental (momentalos.com) \u2014 an agent harness with a self-maintaining context graph",
+    "published_at": "2026-05-04T21:01:14Z"
   },
   {
     "total": 3,
@@ -750,6 +783,22 @@
       "payment signals: hiring",
       "market-signal source without direct buyer intent"
     ],
+    "source": "google-news/new resume templates demand",
+    "title": "Hiring managers name the top hard skills and soft skills for 2026 - HR Dive",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHNvWHM0OWxaLTByQW03YkVRLTAxYkc1azhVX3F1YzhFOXd2YWN3X1ljSzMtdjhNYnBOMjA1cTYzZ1ZRaEFyMmNSR01sNGZZMjZaYkpYWHFVUXp3RUdNdzk4ODc0MkJMZ1dzZkdsQ19ISHV3TDNjY2E1WXdHMHZGc2FYZUJ5ZEpBQ29SelBxbnRYb1dxdGs5WQ?oc=5",
+    "summary": "Hiring managers name the top hard skills and soft skills for 2026 HR Dive",
+    "published_at": "Mon, 08 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hiring",
+      "market-signal source without direct buyer intent"
+    ],
     "source": "google-news/small business looking for virtual assistant",
     "title": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) - Toronto Guardian",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZjaTJlSkJHazlaVmJESkppS0tMMGpzdXh1SFR2NTNpOE5mQkg0NUlQMnR4MlR0VWtmRlFTckVESUh1UGpGV1dVWjN5NmxnMkxLbkVSTk9fZ1pYWlJoUm1TTWxJQlM3X3FaalZ5RFpQaFdVRXQ0ZzExd0tmOG9vaExENkFzTG96Y1pDYVAzdVB0eWxIR2xfUnZRc1Z6NFlDV2pPQTVMSnFaQQ?oc=5",
@@ -787,50 +836,5 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYWs3MjZlMER4c2Fkcm9iUVoxRjQ4clNSOGVtVkFOc2ZMblE1NEpjekJQZEZaM2RabDhZXzQ0VXJ5T2k4N2xnUnpXY3BBdFQwLWFGVTdybGRkMFVRZ1VKVHBQODRxbDJ2UlI3QVhXVGJDTm42RXFLX0FMNXlUeEEwaXNtaG5MaTJydGk4WktUdEhER3lHLXUweQ?oc=5",
     "summary": "I make 6 figures a year as a freelance virtual assistant. Here are 3 things that help me work smarter and faster. Business Insider",
     "published_at": "Tue, 05 Jul 2022 07:00:00 GMT"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Ask HN: Where are SWE's being replaced?",
-    "url": "https://news.ycombinator.com/item?id=48007425",
-    "summary": "Hi, in which software industries are Software Engineers no longer needed, or will soon no longer be needed? What evidence or statistics or reasoning backs this up? Background: I see a lot of posts on the HN frontpage about AI, in fact it's difficult to find any posts that aren't about AI. As a software engineer, I use LLMs extensively to help with my job. I also see that these machines are clearly not good enough to be left alone (for example Codex) to design or write anything that has more than",
-    "published_at": "2026-05-04T11:39:36Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: Optical Design and Simulation in Matlab",
-    "url": "https://www.mathworks.com/help/images/optical-system-design-and-analysis.html",
-    "summary": "Hi HN, We have been working an optical design and simulation library as a small start-up-ish team within MathWorks (makers of MATLAB and Simulink). I have seen a few optics and MATLAB posts here, so figured this would be a good place to show case this. A quick link to all the 'good stuff' is in a reddit post with pretty pictures and links: https://www.reddit.com/r/Optics/comments/1sy6z3h/optical_sys... Something that might align with the current trend of agentic dev: https://www.youtube.com/watc",
-    "published_at": "2026-05-03T23:01:15Z"
-  },
-  {
-    "total": 1,
-    "ease": 2,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: I built a web builder after 6 years of trying",
-    "url": "https://whale.kiraaziz.club",
-    "summary": "finally, after near 6 years I created the only app that I want to build. ok so basically I start learning it, programming and building software about 7/8 years, where see teacher show us how to build a game with scratch 3, well it was first time the it session in school look way too interesting, back then I didn't have computer so I write my first dino game with scratch and papers (I draw the brocks). then I start learning UI design, I start we some websites builders like axure rp, mobirise and ",
-    "published_at": "2026-05-03T12:07:35Z"
   }
 ]
