@@ -551,23 +551,6 @@
   },
   {
     "total": 3,
-    "ease": 2,
-    "payment_probability": 3,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "visible budget: $9,000",
-      "payment signals: $",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDJwNTd6OXlJR3JabldKZnF3QzB0ZUlOSlFNcTg4TW9zSmY5aVdqSG5WVklRQ0ZsNEhyVnFxS0dJT1QtbC11eGY4cEo0Si0tU1N0V2tmaGs1NktLVW5ITTlnRXdPREFtOTd4LW03S1JRX21OV3J1bE1Jc1NXcmhHdGZacFI1WEloT0xobTVYWk4xU0ItMzJDRHd6NVRxb2dES3c?oc=5",
-    "summary": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. Business Insider",
-    "published_at": "Fri, 18 Feb 2022 08:00:00 GMT"
-  },
-  {
-    "total": 3,
     "ease": 4,
     "payment_probability": 1,
     "repeatability": 1,
@@ -837,5 +820,20 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYWs3MjZlMER4c2Fkcm9iUVoxRjQ4clNSOGVtVkFOc2ZMblE1NEpjekJQZEZaM2RabDhZXzQ0VXJ5T2k4N2xnUnpXY3BBdFQwLWFGVTdybGRkMFVRZ1VKVHBQODRxbDJ2UlI3QVhXVGJDTm42RXFLX0FMNXlUeEEwaXNtaG5MaTJydGk4WktUdEhER3lHLXUweQ?oc=5",
     "summary": "I make 6 figures a year as a freelance virtual assistant. Here are 3 things that help me work smarter and faster. Business Insider",
     "published_at": "Tue, 05 Jul 2022 07:00:00 GMT"
+  },
+  {
+    "total": 1,
+    "ease": 2,
+    "payment_probability": 1,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: Optical Design and Simulation in Matlab",
+    "url": "https://www.mathworks.com/help/images/optical-system-design-and-analysis.html",
+    "summary": "Hi HN, We have been working an optical design and simulation library as a small start-up-ish team within MathWorks (makers of MATLAB and Simulink). I have seen a few optics and MATLAB posts here, so figured this would be a good place to show case this. A quick link to all the 'good stuff' is in a reddit post with pretty pictures and links: https://www.reddit.com/r/Optics/comments/1sy6z3h/optical_sys... Something that might align with the current trend of agentic dev: https://www.youtube.com/watc",
+    "published_at": "2026-05-03T23:01:15Z"
   }
 ]
