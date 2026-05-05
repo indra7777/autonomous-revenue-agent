@@ -101,23 +101,6 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "ResumeTemplates.com Survey: 3 in 5 Business Leaders Back Microsoft's Warning That AI Will Replace Most White-Collar Work Within 18 Months - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdnZtM0pOY0RMdVBwRDhmOHZDVVF2T05fT05uU21FVDY4QmlNMEJKRC03YmhURi0yMWs0QWNHNGRuOUUtS1FDTExEenF6RGItZTM5M3lQdzM1Qm1HQ3NuWHk5aWhaTkZxR253SE9OMDFsQUE1d0MyUFZIWjFsLVM2ckdB?oc=5",
-    "summary": "ResumeTemplates.com Survey: 3 in 5 Business Leaders Back Microsoft's Warning That AI Will Replace Most White-Collar Work Within 18 Months Yahoo Finance",
-    "published_at": "Thu, 05 Mar 2026 08:00:00 GMT"
-  },
-  {
-    "total": 7,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 5,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume, template",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
     "title": "Hadoop Developer Resume: Sample Template and Advice - dice.com",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54RW9uWDVOVllkMnBOa1Bub1lGclN4bG9rdy0xeHRxODV1MVBDNTEwSFRzemF0YmpvUElpT1ZObHV3RDBlc0duTS1SMklELUlzV2k4Y0g0TE1JOFg3NER5d0dsZnQ0Zmk0dWR5dHFRUGJpOEk?oc=5",
     "summary": "Hadoop Developer Resume: Sample Template and Advice dice.com",
@@ -840,5 +823,21 @@
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSzY4YmdFcVRodzJzTi1EQUk3UWhxV1NadV9ydUVuYnFuVWpEdHB3T1VKQ0o2aERVNFcyWWxRUHVmbXgtTXMzT3R2QmRnY082QXZnR05QOEhTVjlRN2VxRnVnSEY4ZDZqLXE2NV82aXRPWFhGZEkyVE52Mkp1ekdWbnNYVTY5UzI2d2xBRER0N29kV2NLemxXcHJad3pRRkJyQmNJWW5zdWlvdC05Zmd4cDE2elR5R2RmTlNib0F0ZG1nLTQ0a2hzeHo0M25aTHRBY0RRRHNxMWs1ZkZVUVZGZzU3TVVlUEZlclJQZmt3?oc=5",
     "summary": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions FinancialContent",
     "published_at": "Fri, 06 Feb 2026 08:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hire",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Trying to Get Hired? Here Are the Most In-Demand Job Skills Right Now - money.com",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDaFFZOXU1bDU1aXRnbzZrY1FBSWhrYzJmTG9TSDd4eDhsY1lWMFlXRmprM3E4OGwwbDZzTGRPNkpRM0FzbDVRR0xGWVc0VllNMmpUb3JsQkhMVkJq?oc=5",
+    "summary": "Trying to Get Hired? Here Are the Most In-Demand Job Skills Right Now money.com",
+    "published_at": "Tue, 03 Mar 2026 08:00:00 GMT"
   }
 ]
