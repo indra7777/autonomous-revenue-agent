@@ -206,6 +206,23 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "hn/looking for help",
+    "title": "Show HN: Layers \u2013 AI skills for deep product design",
+    "url": "https://layers.jamiemill.com/",
+    "summary": "Some years ago I wrote a mildly popular article called 'The Elements of Product Design' which broke down modern product design into 7 distinct layers. It was influenced heavily by Jesse James Garret's Elements of UX, hence the name similarity. The framework seems to help remind designers and their teams that there's more to design than just the visuals: structure and flow, concept modelling, product strategy, domain understanding, user needs. What's lacking from the article are concrete steps ho",
+    "published_at": "2026-05-04T21:35:18Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: article",
+      "repeatable: article",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
     "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
     "url": "https://snewpapers.com/",
     "summary": "Hello HN, over the past 7 months I've spent nearly 3,000 hours on building SNEWPAPERS, the first historical newpaper archive with full-text extractions, nearly perfect OCR, a vast categorization taxonomy and of course with semantic and agentic search capabilities. Problem: I wanted to search through newspaper archives, but when I tried every service only lets you search for keywords and dates, and gives you back raw images of the papers, and too many of them with no context. A sea of noise. Solu",
@@ -415,6 +432,23 @@
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yZ2xqMlhLVzBkemppOUdMX0ZRVGd0UjJMREdTZnpuNGp1U3l5alJJdVo5MTJpY2pqOTh6RHFPalEtOVZsV0V3UEN6d0pkeGlHWjRSYWRtQko0Zw?oc=5",
     "summary": "Marketing Skills for Your Resume in 2024 + Examples BetterUp",
     "published_at": "Fri, 22 Sep 2023 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "What Are Hard Skills? 45 Examples For Your Resume - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMHJreEhwRFdWQmszbDJuQzNUOVVtNDNSTW9MWHhFc3NFUzFqU1dKcm5vVkhsRi0zMTdNRE9mZ3dnLS1aV0F6U0pEWGFoY2k0QjRN?oc=5",
+    "summary": "What Are Hard Skills? 45 Examples For Your Resume BetterUp",
+    "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
   },
   {
     "total": 4,
@@ -809,37 +843,5 @@
     "url": "https://github.com/anthropics/claude-code/issues/41930",
     "summary": "",
     "published_at": "2026-04-15T09:47:46Z"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: commission",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/AI tools affiliate program launch",
-    "title": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNE03T19uSmZNUWZyLTVlb3lCckw2RnQtLXMwSWp5Y0E4enJ6UHJRWkE2TzJ4XzVhT2x4YmRTT053WGhwUmVPTXlCalZmdjZTRFdDOWJJMGJrYzY3cnEtZkpqTVFaTkhaTDN0N1ktcURFX0tlM0ZGQ2VzTUNwbnRGYTZpM0tVX3VrdDN1Vi1yalRCVW1hOEdEWUZzS2NCN2tqT1FSSU5JZTdFOXNFMEVRS0J4WWc4UTBaOVlr?oc=5",
-    "summary": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again Business Insider",
-    "published_at": "Tue, 24 Mar 2026 07:00:00 GMT"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: commission",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/AI tools affiliate program launch",
-    "title": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSzY4YmdFcVRodzJzTi1EQUk3UWhxV1NadV9ydUVuYnFuVWpEdHB3T1VKQ0o2aERVNFcyWWxRUHVmbXgtTXMzT3R2QmRnY082QXZnR05QOEhTVjlRN2VxRnVnSEY4ZDZqLXE2NV82aXRPWFhGZEkyVE52Mkp1ekdWbnNYVTY5UzI2d2xBRER0N29kV2NLemxXcHJad3pRRkJyQmNJWW5zdWlvdC05Zmd4cDE2elR5R2RmTlNib0F0ZG1nLTQ0a2hzeHo0M25aTHRBY0RRRHNxMWs1ZkZVUVZGZzU3TVVlUEZlclJQZmt3?oc=5",
-    "summary": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions FinancialContent",
-    "published_at": "Fri, 06 Feb 2026 08:00:00 GMT"
   }
 ]
