@@ -218,6 +218,40 @@
     "repeatability": 3,
     "risk": 3,
     "reasons": [
+      "easy keywords: prompt",
+      "repeatable: prompts",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: TogetherLetters \u2013 Group newsletters with no app, no feed, no login",
+    "url": "https://www.togetherletters.com",
+    "summary": "Hey all, we're reposting from our previous Show HN about 5 years ago: https://news.ycombinator.com/item?id=28644205 Since then we've grown to more than 5k users across nearly 1k groups and have sent out more than 100k update prompts. The premise is simple - social media stinks and you either don't see updates from people you care about (they never post) or you miss the updates (flooded by other people's updates or an algorithm that downplays an update you'd care about even if it's seemingly unim",
+    "published_at": "2026-04-21T16:13:54Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: prompt",
+      "repeatable: pack",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: SafeInstall \u2013 local install-time guardrails for NPM/pnpm/bun",
+    "url": "https://www.safeinstall.dev/",
+    "summary": "Hey HN \u2014 after the Axios attack I went looking for something that could help against this kind of install-time risk. I didn\u2019t find a tool that did what I wanted, so I built one. SafeInstall is a local CLI for npm, pnpm, and bun. It checks policy before the package manager runs. Especially now, when tons of people are building with AIs like Cursor and Claude and either give them full rights or just hit enter on every prompt, I thought it was important to build a guardrail before the install happe",
+    "published_at": "2026-04-14T12:28:40Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
       "easy keywords: logo",
       "repeatable: logo",
       "market-signal source without direct buyer intent"
@@ -227,6 +261,41 @@
     "url": "https://super-launch.app",
     "summary": "I've been launching side projects for a while and realized that after the initial Product Hunt spike, there's not many places to get consistent visibility. So I built Super Launch \u2014 a curated directory where indie developers can list their startups and keep getting discovered. Here's what it offers: Submit your product and reach thousands of potential users looking for new tools AI-powered submission \u2014 auto-fill your listing with generated copy, logos, and screenshots Friend links \u2014 build recipr",
     "published_at": "2026-02-20T22:44:39Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: article, cv",
+      "hard keywords: rust",
+      "repeatable: article",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: Cyber Pulse. AI pipeline for triage and alerting on cyber news/intel",
+    "url": "https://play.google.com/store/apps/details?id=com.cyberpulse.cyber_pulse&hl=en_US",
+    "summary": "I work in cyber security and built this android app to help me keep up to date with the latest news stories and summarise the most important information. It provides two executive summaries per day and alerts for critical news throughout. I\u2019m using Gemini Pro 3 to analyse recent articles from a list of trusted sources. It identifies the 5 highest priority stories, considering things like if a vulnerability is being actively exploited, novelty and breadth. If CVEs are identified, it will check fo",
+    "published_at": "2026-04-14T13:30:02Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: prompt",
+      "repeatable: prompts",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/AI tools affiliate program launch",
+    "title": "10 Perplexity AI Prompts You Can Use to Start Earning Online - Analytics Insight",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzhNbFBaWGYxaldXUW1HZzdFZFBLTy1YMHl0TjVJMVpiV3FyY2VnMlhRaXVxOGQ1OXJlaVZRTlgzSDVyeTlNemcwRGh6b3dLbGJFTTF5NjVnZ3hzd2ZoYVhiRXJJb1BOT1ZHd2xpeXZrYjVncGV5Vk5PNWZOd3ZTeG5GdWpQN0FWMHFnZFVsclJmdFc0RmZ2Y0xaMExXTGdlU2x4cjY3UnlPZmtMcjVWZ21XMTNYcFlz0gHGAUFVX3lxTFA5N01LbGFEM0YzclNDb1dhQVhJMXlaT0FqQTZEY2xuX1ZadGNTU2plSVJtR19vT24xS0RFUkxiZ3NaSFJxYjhxcENTRnJINHVrWE1NdmNtTVNJU0pwR2VqcnpITkpQcmVsZzRHTHBSZmgxZDhvWURxdVpfUlZMS0dURWRoVGhhY3VKalZqRWE5U3B3RlFJMHdWYkxjSnlBTlQ4R185ZVRkWEh5bjZQeHd0MGRsWnJiMloyNjY0RUNJWGtYZDg5Zw?oc=5",
+    "summary": "10 Perplexity AI Prompts You Can Use to Start Earning Online Analytics Insight",
+    "published_at": "Fri, 09 May 2025 07:00:00 GMT"
   },
   {
     "total": 5,
@@ -348,23 +417,6 @@
     "published_at": "Fri, 22 Sep 2023 07:00:00 GMT"
   },
   {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "What Are Hard Skills? 45 Examples For Your Resume - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMHJreEhwRFdWQmszbDJuQzNUOVVtNDNSTW9MWHhFc3NFUzFqU1dKcm5vVkhsRi0zMTdNRE9mZ3dnLS1aV0F6U0pEWGFoY2k0QjRN?oc=5",
-    "summary": "What Are Hard Skills? 45 Examples For Your Resume BetterUp",
-    "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
-  },
-  {
     "total": 4,
     "ease": 2,
     "payment_probability": 4,
@@ -400,6 +452,23 @@
   },
   {
     "total": 4,
+    "ease": 4,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: prompt",
+      "payment signals: paid",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "Show HN: NotchPrompter \u2013 A simple, open-source teleprompter for macOS,no AI-slop",
+    "url": "https://github.com/jpomykala/NotchPrompter",
+    "summary": "Hi HN, I built NotchPrompter because I needed a simple way to read notes while looking at the camera during calls, without heavy or paid software. - 100% free & open-source - native macOS (SwiftUI) - minimalist - focuses on the essentials. Feedback and contributions are more than welcome! PS No, I didn't use AI for it. I always wanted to play with SwiftUI and this is my 6th approach to this. Previous projects were too complex for my beginner skills. I'm mainly a Java developer. It took me ~5 mon",
+    "published_at": "2026-04-17T11:39:46Z"
+  },
+  {
+    "total": 4,
     "ease": 2,
     "payment_probability": 2,
     "repeatability": 3,
@@ -414,22 +483,6 @@
     "url": "https://upvoicy.com/",
     "summary": "Hi HN, I built Upvoicy to help teams, freelancers, and small businesses collect and manage user feedback in a simple way. While working on my own projects, I felt that most feedback tools were either too complex, too expensive, or packed with features I did not really need. So I decided to build something lightweight and straightforward. With Upvoicy, you can: Create a public feedback board Let users submit ideas and vote Manage suggestions in one place Keep your roadmap clear and organized The ",
     "published_at": "2026-02-24T23:47:51Z"
-  },
-  {
-    "total": 3,
-    "ease": 2,
-    "payment_probability": 3,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: freelance, usd",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: USD Accounts for Pakistani Freelancers",
-    "url": "https://www.rizqfinance.com/",
-    "summary": "Hey everyone, Tom here. My co-founder Mahmood and I have spent the past few months building Rizq, a financial platform for Pakistani freelancers. After speaking with 50+ freelancers, we saw a clear gap: despite issues like high fees and account freezes, many still rely on Payoneer because no alternative offers the same experience. Most end up juggling multiple tools just to make it work. Existing solutions focus a lot on USD accounts but we want to go a step further and offer invoice tooling and",
-    "published_at": "2026-05-04T18:17:31Z"
   },
   {
     "total": 3,
@@ -556,22 +609,6 @@
     "repeatability": 1,
     "risk": 3,
     "reasons": [
-      "easy keywords: blog",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: ByAllo \u2013 the online bookstore that runs itself",
-    "url": "https://byallo.com/",
-    "summary": "Allo runs an online bookstore at byallo.com. His mission is \"Make the world read more.\" His objective is to sell as many books as possible. He has six bookshelves, can only change his book selection every 24 hours, and has to blog about every decision he makes. That's it. No specific workflow - we genuinely don't know how he'll solve it. Under the hood: byallo.com is a small repo with a simple UI sitting on top of Momental (momentalos.com) \u2014 an agent harness with a self-maintaining context graph",
-    "published_at": "2026-05-04T21:01:14Z"
-  },
-  {
-    "total": 3,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
       "easy keywords: spreadsheet",
       "market-signal source without direct buyer intent"
     ],
@@ -628,6 +665,38 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYm5aTEdhUTQzX2FnRU00OUhBSW9DSlFiWTh2N2Y0VGh2dWIzQUFLUGRsSk40dTZxNXQwSFlWdndaZXV3dUo4VElFRGFqNTdnbEdCd2pjZngwdTl4YXFvZElKcEVyc0x6elk5eVZibGVfZDBtMFVKMjBUMnFqRGJCd0tGVlI4LVd6c01xV1BISVNTdEI0VVNGRklpUGg5Q0JzWUl5emN2Nkg?oc=5",
     "summary": "This ideal r\u00e9sum\u00e9 template to use if you\u2019re looking for a job in tech Fast Company",
     "published_at": "Tue, 23 Feb 2021 08:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: $",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: Cush \u2013 curl your shell, an HTTP tunnel for AI agents",
+    "url": "https://github.com/statespace-tech/cush",
+    "summary": "I built cush because coding agents can be helpful to diagnose and troubleshoot server issues. The problem is that getting said agents onto a remote server, especially one you don't control, means dealing with VPNs, bastion hosts, firewall rules, access controls, or audit trails. That's assuming SSH isn't even blocked. cush takes a different approach. Instead of a shell, it opens a temporary, outbound HTTPS tunnel that lets you and your AI agent run constrained CLI commands on the server: $ cush ",
+    "published_at": "2026-04-15T16:01:43Z"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: fixed",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: AI agents are bad at API integrations \u2013 we fixed it",
+    "url": "https://www.apimatic.io/product/context-plugins/showcase",
+    "summary": "Hi, we're Sohaib and Hannan from APIMatic. We've been building tools to help Developers integrate with APIs for 5+ years at APIMatic. We're now trying to help AI agents do the same. This started from a conversation at PayPal DevDay 2025. The PayPal developer experience team were monitoring developers using AI agents to integrate PayPal APIs, and the agents kept reaching for outdated docs and deprecated SDK versions, often falling back to training data instead of reading the current API documenta",
+    "published_at": "2026-04-09T15:06:54Z"
   },
   {
     "total": 2,
@@ -732,6 +801,22 @@
     "repeatability": 1,
     "risk": 3,
     "reasons": [
+      "payment signals: paid",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/paid gig",
+    "title": "Claude Code: Widespread abnormal usage limit drain across all paid tiers",
+    "url": "https://github.com/anthropics/claude-code/issues/41930",
+    "summary": "",
+    "published_at": "2026-04-15T09:47:46Z"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
       "payment signals: commission",
       "market-signal source without direct buyer intent"
     ],
@@ -756,85 +841,5 @@
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSzY4YmdFcVRodzJzTi1EQUk3UWhxV1NadV9ydUVuYnFuVWpEdHB3T1VKQ0o2aERVNFcyWWxRUHVmbXgtTXMzT3R2QmRnY082QXZnR05QOEhTVjlRN2VxRnVnSEY4ZDZqLXE2NV82aXRPWFhGZEkyVE52Mkp1ekdWbnNYVTY5UzI2d2xBRER0N29kV2NLemxXcHJad3pRRkJyQmNJWW5zdWlvdC05Zmd4cDE2elR5R2RmTlNib0F0ZG1nLTQ0a2hzeHo0M25aTHRBY0RRRHNxMWs1ZkZVUVZGZzU3TVVlUEZlclJQZmt3?oc=5",
     "summary": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions FinancialContent",
     "published_at": "Fri, 06 Feb 2026 08:00:00 GMT"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: hire",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Trying to Get Hired? Here Are the Most In-Demand Job Skills Right Now - money.com",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDaFFZOXU1bDU1aXRnbzZrY1FBSWhrYzJmTG9TSDd4eDhsY1lWMFlXRmprM3E4OGwwbDZzTGRPNkpRM0FzbDVRR0xGWVc0VllNMmpUb3JsQkhMVkJq?oc=5",
-    "summary": "Trying to Get Hired? Here Are the Most In-Demand Job Skills Right Now money.com",
-    "published_at": "Tue, 03 Mar 2026 08:00:00 GMT"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: hiring",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Hiring managers name the top hard skills and soft skills for 2026 - HR Dive",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHNvWHM0OWxaLTByQW03YkVRLTAxYkc1azhVX3F1YzhFOXd2YWN3X1ljSzMtdjhNYnBOMjA1cTYzZ1ZRaEFyMmNSR01sNGZZMjZaYkpYWHFVUXp3RUdNdzk4ODc0MkJMZ1dzZkdsQ19ISHV3TDNjY2E1WXdHMHZGc2FYZUJ5ZEpBQ29SelBxbnRYb1dxdGs5WQ?oc=5",
-    "summary": "Hiring managers name the top hard skills and soft skills for 2026 HR Dive",
-    "published_at": "Mon, 08 Dec 2025 08:00:00 GMT"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: hiring",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) - Toronto Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZjaTJlSkJHazlaVmJESkppS0tMMGpzdXh1SFR2NTNpOE5mQkg0NUlQMnR4MlR0VWtmRlFTckVESUh1UGpGV1dVWjN5NmxnMkxLbkVSTk9fZ1pYWlJoUm1TTWxJQlM3X3FaalZ5RFpQaFdVRXQ0ZzExd0tmOG9vaExENkFzTG96Y1pDYVAzdVB0eWxIR2xfUnZRc1Z6NFlDV2pPQTVMSnFaQQ?oc=5",
-    "summary": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) Toronto Guardian",
-    "published_at": "Mon, 11 Aug 2025 06:36:02 GMT"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: hiring",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants - U.S. Chamber of Commerce",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVlaVDNkUVMtT1BtV0V4S0ZxZHYxTExOT29iWVFySzRzaEFoTzVoODFUZWh4TWxMLVVNNlk0bS10UksyOUxfOVJmejlyWW5wNU4wZlBCb3VuZkJhNzFzQ2lrM1dEdzZGSjhSRzJ0N2Q4UTdEcnBqSHZWX1UxTi1FLW5haGFBMnNaaFZJ?oc=5",
-    "summary": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants U.S. Chamber of Commerce",
-    "published_at": "Wed, 24 Jan 2024 08:00:00 GMT"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: freelance",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "I make 6 figures a year as a freelance virtual assistant. Here are 3 things that help me work smarter and faster. - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYWs3MjZlMER4c2Fkcm9iUVoxRjQ4clNSOGVtVkFOc2ZMblE1NEpjekJQZEZaM2RabDhZXzQ0VXJ5T2k4N2xnUnpXY3BBdFQwLWFGVTdybGRkMFVRZ1VKVHBQODRxbDJ2UlI3QVhXVGJDTm42RXFLX0FMNXlUeEEwaXNtaG5MaTJydGk4WktUdEhER3lHLXUweQ?oc=5",
-    "summary": "I make 6 figures a year as a freelance virtual assistant. Here are 3 things that help me work smarter and faster. Business Insider",
-    "published_at": "Tue, 05 Jul 2022 07:00:00 GMT"
   }
 ]
