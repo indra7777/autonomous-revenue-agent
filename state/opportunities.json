@@ -19,21 +19,22 @@
     "published_at": "2026-04-09T08:28:34Z"
   },
   {
-    "total": 7,
-    "ease": 6,
-    "payment_probability": 3,
-    "repeatability": 1,
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 2,
+    "repeatability": 5,
     "risk": 3,
     "reasons": [
-      "easy keywords: blog, tweet",
-      "payment signals: contract, gig",
+      "easy keywords: resume",
+      "payment signals: hiring",
+      "repeatable: resume, template",
       "market-signal source without direct buyer intent"
     ],
-    "source": "hn/paid gig",
-    "title": "Show HN: I built a blogging platform (5 years in, struggling with distribution)",
-    "url": "https://blogmaker.app/",
-    "summary": "A bit of context\u2026 I've been building https://blogmaker.app since April 2021, 5 years now. The launch tweet: https://x.com/BlogmakerApp/status/1383742023627247630 I had built it initially as a personal challenge to see if I could have a working product for 20 hours worth of work, and I did it. This was way before AI tools. A few months later, I included a Stripe button and the first payment came immediately in. In September 2022 I decided to focus (give up my contract gigs as a designer/dev). I t",
-    "published_at": "2026-04-21T14:17:47Z"
+    "source": "google-news/new resume templates demand",
+    "title": "Use this new resume template and example to land an interview today, says hiring manager of 20 years - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUpMWEE4TXFlV0thVk1EMkdVNFprVWNsSy1xTW5IV3VrU3dVVmhaUzBBM2JRQlNIR0FhYWNSOGVoTVFtX3lkci01VnlMZkhZcEZjLVV2U3BtZWJrX2tiZnZodTl6b1ZPdWN6eU51QWhhLTh6MnZxSFVESkFCNnU0TENUMFEwVDFvTGc0cTFPRGlHNDJJSDlvdUpfVnVmLTAyMjVhZmdnRFBfMW5fMDdpcG02eEZ1WDU2WUtN0gHAAUFVX3lxTFBKdVhyRENSQXM2dHFrYXdIQ2V4MVdPR01qdzR4VkpiUFd2eWI5cXc1NERNbmVmbndDMGI4aGVwSmRnMWxVaDhjTFFZTGhmYTdfM1FFcnoyRVVTMXdmSEF5dHo1NFA3WWZiUFdaUmpNSGoyZ2JibFE1R254MzZQb1ZHU29BbE9MRnJrWENVako0UTcyZWxHYWt3bGl4NEFodnQ4MDJBNnBfdndBSERuTGV4aFhMeTBMalc3ZlZIX0lIcg?oc=5",
+    "summary": "Use this new resume template and example to land an interview today, says hiring manager of 20 years CNBC",
+    "published_at": "Tue, 01 Sep 2020 07:00:00 GMT"
   },
   {
     "total": 7,
@@ -200,6 +201,23 @@
     "repeatability": 3,
     "risk": 3,
     "reasons": [
+      "easy keywords: thread",
+      "repeatable: thread",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: Naval Strike \u2013 simultaneous turn-based fleet combat in the browser",
+    "url": "https://navalstrike.app",
+    "summary": "A few weeks ago there was a thread about using AI to finish abandoned projects, and a comment from avereveard https://news.ycombinator.com/item?id=47905088 on building their 100x100 grid battleship got my spark. I didn\u2019t build that , but it pushed me to finally finish a combat idea I\u2019ve been wanting to play for ages. Introducing Naval Strike! It\u2019s a simultaneous turn-based fleet vs fleet on a grid played in the browser. There\u2019s no account or signups needed. Both players plan their moves, then th",
+    "published_at": "2026-05-06T21:27:53Z"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
       "easy keywords: article",
       "repeatable: article",
       "market-signal source without direct buyer intent"
@@ -226,23 +244,6 @@
     "url": "https://snewpapers.com/",
     "summary": "Hello HN, over the past 7 months I've spent nearly 3,000 hours on building SNEWPAPERS, the first historical newpaper archive with full-text extractions, nearly perfect OCR, a vast categorization taxonomy and of course with semantic and agentic search capabilities. Problem: I wanted to search through newspaper archives, but when I tried every service only lets you search for keywords and dates, and gives you back raw images of the papers, and too many of them with no context. A sea of noise. Solu",
     "published_at": "2026-05-02T08:42:45Z"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: prompt",
-      "repeatable: prompts",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: TogetherLetters \u2013 Group newsletters with no app, no feed, no login",
-    "url": "https://www.togetherletters.com",
-    "summary": "Hey all, we're reposting from our previous Show HN about 5 years ago: https://news.ycombinator.com/item?id=28644205 Since then we've grown to more than 5k users across nearly 1k groups and have sent out more than 100k update prompts. The premise is simple - social media stinks and you either don't see updates from people you care about (they never post) or you miss the updates (flooded by other people's updates or an algorithm that downplays an update you'd care about even if it's seemingly unim",
-    "published_at": "2026-04-21T16:13:54Z"
   },
   {
     "total": 5,
@@ -324,23 +325,6 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "Don't write a Vh1 resume during Netflix era - Forbes India",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2RkdVJMZlNZVnVKVGhXS3RrNjI3d2hHb3ZXb09OaGE2Y2ZRNTJwb1RXLUJoZXdkd0tKOEpmQi1kYVFNLVFHRnRkYnpCcXY5Slp4aElDZWxyZjBVZmJ3c25uMzZxVFFRSjFLYjVQdjdGTkpCN05pNDE3NkVZbU5lRFB4LVlpV3NSS2hrN1dJMk9HWmwwcGJGWm5oRncyUzJ3MmFibWhmZ3Y?oc=5",
-    "summary": "Don't write a Vh1 resume during Netflix era Forbes India",
-    "published_at": "Tue, 11 Aug 2020 07:00:00 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
     "title": "17 AI Skills To Put On Your Resume In 2025 - Forbes",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnBmWWhKLWpIZGFhNHFFMUlhR3pMd2thNlRJMDBqZTFubUVKMTlsdHFFVHdjUVpyYnBoTzNfMElNZGJxYUxrMDNvSFpCYVRPS0RWR2pXWjlnbGY5NzVzRktNakMtRnNqSnhxSlBMMHhCWlVvdVRMOHNLSWpFSXp6UDEySjRNd3ZIb0Npb1BWdnpNVkhLMG12WC1IYw?oc=5",
     "summary": "17 AI Skills To Put On Your Resume In 2025 Forbes",
@@ -375,6 +359,23 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
+    "title": "What Are Hard Skills? 45 Examples For Your Resume - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMHJreEhwRFdWQmszbDJuQzNUOVVtNDNSTW9MWHhFc3NFUzFqU1dKcm5vVkhsRi0zMTdNRE9mZ3dnLS1aV0F6U0pEWGFoY2k0QjRN?oc=5",
+    "summary": "What Are Hard Skills? 45 Examples For Your Resume BetterUp",
+    "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
     "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
     "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
@@ -396,6 +397,23 @@
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOZXJ2UGNHVzhVenEyUzVfVVdZSVZVV2VzS0FkQ0ZaY0FWOV9yMzhVaG1ucGpsTGl4S0tXTWw2T05xdk9WQ05BeFE0MnNvaDNRWW1IRHczazhra0VpaTBxdVhmR25pMGhGYlpDdFk0cUpZTGNsMXfSAXtBVV95cUxQM2FTQ0lNOF9WVW84bkdGM21zUk0zc08tV3VVcTk1bWIwUmk5OTBhX2ZlZm5SU3pkcmRfa0h2OXR0RkhTQTRKWF9xNEpXdzFIM3hKQzhRSDctQ1o2dkJqTEpTTUxlQk94dF83NTZmVTRrNEJJUFhRZjZfNFU?oc=5",
     "summary": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 CNBC",
     "published_at": "Wed, 19 Oct 2022 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Transferable Skills: 17 Examples to Boost Your Resume & Career - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
+    "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
+    "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
   },
   {
     "total": 4,
@@ -565,6 +583,22 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2JjdFBzTll6TmdzY2pERExBVV9ndDdnalViZXo2RmQ3V240V185TXZ5d0NmUG44NDExTmNXeUkzWXpLR1pPdFpzXzYxdkROOG9uOGdvd2k4cnEyUkJETUFCb3B2YUdQS2IwdGgta05MQnpnUExnS3g1WEw5dHJtVWxNaU1lY1ZfYmNBSGtJUFN4TkhDVTVnc2t3d1ZqOXVQM29vTWVVZw?oc=5",
     "summary": "I'm a virtual assistant making $10,000 a month in revenue. Here's how I started my business and make 6 figures a year. Business Insider",
     "published_at": "Thu, 09 Dec 2021 08:00:00 GMT"
+  },
+  {
+    "total": 3,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: summary",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "hn/looking for help",
+    "title": "Show HN: I built a skill, grounded in research, to make your writing less boring",
+    "url": "https://github.com/ericfitz/skills/blob/main/boring/README.md",
+    "summary": "My job at a large tech company requires me to write. A lot. Mainly I write docs to help align technical people on a technical strategy, or to inform executives about technical matters, or to make requests of executives about technical proposals. I wanted to ensure that my writing was captivating and that the audience didn't just read the summary and skip the rest. I used a chat agent to build a research report on the academic literature about what makes writing boring or not-boring (\"not-boring\"",
+    "published_at": "2026-05-06T18:32:27Z"
   },
   {
     "total": 3,
@@ -805,37 +839,5 @@
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDaFFZOXU1bDU1aXRnbzZrY1FBSWhrYzJmTG9TSDd4eDhsY1lWMFlXRmprM3E4OGwwbDZzTGRPNkpRM0FzbDVRR0xGWVc0VllNMmpUb3JsQkhMVkJq?oc=5",
     "summary": "Trying to Get Hired? Here Are the Most In-Demand Job Skills Right Now money.com",
     "published_at": "Tue, 03 Mar 2026 08:00:00 GMT"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: hiring",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "What Are the Top Skills to Prioritize in 2026? Hiring Managers Chime In - The HR Digest",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkd5R1FTU2FtNDFReWxRa2J1cmlub3h5WWl2T3EycWxUbEh4aXk4QU9JZzhRZ3ZwNDZNOGlPX1UzNFlpNW9VUlNMcXNEOXpkb2FUUGNTZG9XN2VjRkFvWFpLZmJsZC1uUmQ0VW41UW51Y0dRLWcyaHJqc2hRbEp5UWk4QzhZUzRoUG84TnREb3NPZW1VVUJNd21rUFE5b080?oc=5",
-    "summary": "What Are the Top Skills to Prioritize in 2026? Hiring Managers Chime In The HR Digest",
-    "published_at": "Tue, 09 Dec 2025 08:00:00 GMT"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: hiring",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) - Toronto Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZjaTJlSkJHazlaVmJESkppS0tMMGpzdXh1SFR2NTNpOE5mQkg0NUlQMnR4MlR0VWtmRlFTckVESUh1UGpGV1dVWjN5NmxnMkxLbkVSTk9fZ1pYWlJoUm1TTWxJQlM3X3FaalZ5RFpQaFdVRXQ0ZzExd0tmOG9vaExENkFzTG96Y1pDYVAzdVB0eWxIR2xfUnZRc1Z6NFlDV2pPQTVMSnFaQQ?oc=5",
-    "summary": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) Toronto Guardian",
-    "published_at": "Mon, 11 Aug 2025 06:36:02 GMT"
   }
 ]
