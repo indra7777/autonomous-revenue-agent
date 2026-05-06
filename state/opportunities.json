@@ -19,6 +19,24 @@
     "published_at": "2026-04-09T08:28:34Z"
   },
   {
+    "total": 8,
+    "ease": 4,
+    "payment_probability": 2,
+    "repeatability": 5,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "payment signals: hiring",
+      "repeatable: resume, template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Use this new resume template and example to land an interview today, says hiring manager of 20 years - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUpMWEE4TXFlV0thVk1EMkdVNFprVWNsSy1xTW5IV3VrU3dVVmhaUzBBM2JRQlNIR0FhYWNSOGVoTVFtX3lkci01VnlMZkhZcEZjLVV2U3BtZWJrX2tiZnZodTl6b1ZPdWN6eU51QWhhLTh6MnZxSFVESkFCNnU0TENUMFEwVDFvTGc0cTFPRGlHNDJJSDlvdUpfVnVmLTAyMjVhZmdnRFBfMW5fMDdpcG02eEZ1WDU2WUtN0gHAAUFVX3lxTFBKdVhyRENSQXM2dHFrYXdIQ2V4MVdPR01qdzR4VkpiUFd2eWI5cXc1NERNbmVmbndDMGI4aGVwSmRnMWxVaDhjTFFZTGhmYTdfM1FFcnoyRVVTMXdmSEF5dHo1NFA3WWZiUFdaUmpNSGoyZ2JibFE1R254MzZQb1ZHU29BbE9MRnJrWENVako0UTcyZWxHYWt3bGl4NEFodnQ4MDJBNnBfdndBSERuTGV4aFhMeTBMalc3ZlZIX0lIcg?oc=5",
+    "summary": "Use this new resume template and example to land an interview today, says hiring manager of 20 years CNBC",
+    "published_at": "Tue, 01 Sep 2020 07:00:00 GMT"
+  },
+  {
     "total": 7,
     "ease": 6,
     "payment_probability": 3,
@@ -251,23 +269,6 @@
     "repeatability": 3,
     "risk": 3,
     "reasons": [
-      "easy keywords: prompt",
-      "repeatable: pack",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: SafeInstall \u2013 local install-time guardrails for NPM/pnpm/bun",
-    "url": "https://www.safeinstall.dev/",
-    "summary": "Hey HN \u2014 after the Axios attack I went looking for something that could help against this kind of install-time risk. I didn\u2019t find a tool that did what I wanted, so I built one. SafeInstall is a local CLI for npm, pnpm, and bun. It checks policy before the package manager runs. Especially now, when tons of people are building with AIs like Cursor and Claude and either give them full rights or just hit enter on every prompt, I thought it was important to build a guardrail before the install happe",
-    "published_at": "2026-04-14T12:28:40Z"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
       "easy keywords: logo",
       "repeatable: logo",
       "market-signal source without direct buyer intent"
@@ -375,6 +376,23 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
+    "title": "What Are Hard Skills? 45 Examples For Your Resume - BetterUp",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMHJreEhwRFdWQmszbDJuQzNUOVVtNDNSTW9MWHhFc3NFUzFqU1dKcm5vVkhsRi0zMTdNRE9mZ3dnLS1aV0F6U0pEWGFoY2k0QjRN?oc=5",
+    "summary": "What Are Hard Skills? 45 Examples For Your Resume BetterUp",
+    "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: resume",
+      "repeatable: resume",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
     "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
     "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
@@ -413,23 +431,6 @@
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
     "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
     "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: cv",
-      "repeatable: template",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "6 CV Templates That Will Actually Get You Interviews - Pulse Nigeria",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yd2VDMHNlWWJrSHphSWZSUjBNT1NWNFdSTUZDSWJOcl9JQ0h3OW5ReTZTQzBMbFpiWjZXZjB1d1NWRDR2eXJoRW5PWlhzN3RlTlFiYlRSVEtxcDFkYlRsQzBqMFJ0MGVTbmxTZ1ZOOFd6dw?oc=5",
-    "summary": "6 CV Templates That Will Actually Get You Interviews Pulse Nigeria",
-    "published_at": "Sun, 03 Aug 2025 07:00:00 GMT"
   },
   {
     "total": 4,
