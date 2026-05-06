@@ -19,24 +19,6 @@
     "published_at": "2026-04-09T08:28:34Z"
   },
   {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 2,
-    "repeatability": 5,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "payment signals: hiring",
-      "repeatable: resume, template",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Use this new resume template and example to land an interview today, says hiring manager of 20 years - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUpMWEE4TXFlV0thVk1EMkdVNFprVWNsSy1xTW5IV3VrU3dVVmhaUzBBM2JRQlNIR0FhYWNSOGVoTVFtX3lkci01VnlMZkhZcEZjLVV2U3BtZWJrX2tiZnZodTl6b1ZPdWN6eU51QWhhLTh6MnZxSFVESkFCNnU0TENUMFEwVDFvTGc0cTFPRGlHNDJJSDlvdUpfVnVmLTAyMjVhZmdnRFBfMW5fMDdpcG02eEZ1WDU2WUtN0gHAAUFVX3lxTFBKdVhyRENSQXM2dHFrYXdIQ2V4MVdPR01qdzR4VkpiUFd2eWI5cXc1NERNbmVmbndDMGI4aGVwSmRnMWxVaDhjTFFZTGhmYTdfM1FFcnoyRVVTMXdmSEF5dHo1NFA3WWZiUFdaUmpNSGoyZ2JibFE1R254MzZQb1ZHU29BbE9MRnJrWENVako0UTcyZWxHYWt3bGl4NEFodnQ4MDJBNnBfdndBSERuTGV4aFhMeTBMalc3ZlZIX0lIcg?oc=5",
-    "summary": "Use this new resume template and example to land an interview today, says hiring manager of 20 years CNBC",
-    "published_at": "Tue, 01 Sep 2020 07:00:00 GMT"
-  },
-  {
     "total": 7,
     "ease": 6,
     "payment_probability": 3,
@@ -393,23 +375,6 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/new resume templates demand",
-    "title": "What Are Hard Skills? 45 Examples For Your Resume - BetterUp",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrMHJreEhwRFdWQmszbDJuQzNUOVVtNDNSTW9MWHhFc3NFUzFqU1dKcm5vVkhsRi0zMTdNRE9mZ3dnLS1aV0F6U0pEWGFoY2k0QjRN?oc=5",
-    "summary": "What Are Hard Skills? 45 Examples For Your Resume BetterUp",
-    "published_at": "Fri, 14 Jun 2024 07:00:00 GMT"
-  },
-  {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
     "title": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research - Forbes",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEVudTN6Yk5zd2xHTVU1MEppd2pBZ3pWZzlORjNFQmpReGZ4NER2ZEkwU1k2NnFEeWZvMW55RDNULVBneTNSN01tTlRRYlVicHBPWFVlcDd3YmVNUGpwREtLczhHaWJmLTFkQWc4MWl4bE5WbWU1NTc2VmM1cUJoaVFuSGpvQml2Tlg1dGI5RDh3R01uTnlF?oc=5",
     "summary": "10 Must-Have Skills For Your 2025 Resume, According To Recent Research Forbes",
@@ -448,6 +413,23 @@
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aEQzWHZQcEwwOWJYSkdJMkZzUmxqUW52amw4ckd4YmVJemlaYy1FNU5nWWhGYTMteEFRVkVlSVQ0ZnBUMXI5emZDZmVpb01EcEFlbGk0OUZ1eVdiQWc?oc=5",
     "summary": "Transferable Skills: 17 Examples to Boost Your Resume & Career BetterUp",
     "published_at": "Wed, 04 Jun 2025 07:00:00 GMT"
+  },
+  {
+    "total": 5,
+    "ease": 4,
+    "payment_probability": 1,
+    "repeatability": 3,
+    "risk": 3,
+    "reasons": [
+      "easy keywords: cv",
+      "repeatable: template",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "6 CV Templates That Will Actually Get You Interviews - Pulse Nigeria",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yd2VDMHNlWWJrSHphSWZSUjBNT1NWNFdSTUZDSWJOcl9JQ0h3OW5ReTZTQzBMbFpiWjZXZjB1d1NWRDR2eXJoRW5PWlhzN3RlTlFiYlRSVEtxcDFkYlRsQzBqMFJ0MGVTbmxTZ1ZOOFd6dw?oc=5",
+    "summary": "6 CV Templates That Will Actually Get You Interviews Pulse Nigeria",
+    "published_at": "Sun, 03 Aug 2025 07:00:00 GMT"
   },
   {
     "total": 4,
@@ -841,5 +823,21 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNE03T19uSmZNUWZyLTVlb3lCckw2RnQtLXMwSWp5Y0E4enJ6UHJRWkE2TzJ4XzVhT2x4YmRTT053WGhwUmVPTXlCalZmdjZTRFdDOWJJMGJrYzY3cnEtZkpqTVFaTkhaTDN0N1ktcURFX0tlM0ZGQ2VzTUNwbnRGYTZpM0tVX3VrdDN1Vi1yalRCVW1hOEdEWUZzS2NCN2tqT1FSSU5JZTdFOXNFMEVRS0J4WWc4UTBaOVlr?oc=5",
     "summary": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again Business Insider",
     "published_at": "Tue, 24 Mar 2026 07:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: commission",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/AI tools affiliate program launch",
+    "title": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSzY4YmdFcVRodzJzTi1EQUk3UWhxV1NadV9ydUVuYnFuVWpEdHB3T1VKQ0o2aERVNFcyWWxRUHVmbXgtTXMzT3R2QmRnY082QXZnR05QOEhTVjlRN2VxRnVnSEY4ZDZqLXE2NV82aXRPWFhGZEkyVE52Mkp1ekdWbnNYVTY5UzI2d2xBRER0N29kV2NLemxXcHJad3pRRkJyQmNJWW5zdWlvdC05Zmd4cDE2elR5R2RmTlNib0F0ZG1nLTQ0a2hzeHo0M25aTHRBY0RRRHNxMWs1ZkZVUVZGZzU3TVVlUEZlclJQZmt3?oc=5",
+    "summary": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions FinancialContent",
+    "published_at": "Fri, 06 Feb 2026 08:00:00 GMT"
   }
 ]
