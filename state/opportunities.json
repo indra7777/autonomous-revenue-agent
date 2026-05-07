@@ -19,24 +19,6 @@
     "published_at": "2026-04-09T08:28:34Z"
   },
   {
-    "total": 8,
-    "ease": 4,
-    "payment_probability": 2,
-    "repeatability": 5,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "payment signals: hiring",
-      "repeatable: resume, template",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "Use this new resume template and example to land an interview today, says hiring manager of 20 years - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUpMWEE4TXFlV0thVk1EMkdVNFprVWNsSy1xTW5IV3VrU3dVVmhaUzBBM2JRQlNIR0FhYWNSOGVoTVFtX3lkci01VnlMZkhZcEZjLVV2U3BtZWJrX2tiZnZodTl6b1ZPdWN6eU51QWhhLTh6MnZxSFVESkFCNnU0TENUMFEwVDFvTGc0cTFPRGlHNDJJSDlvdUpfVnVmLTAyMjVhZmdnRFBfMW5fMDdpcG02eEZ1WDU2WUtN0gHAAUFVX3lxTFBKdVhyRENSQXM2dHFrYXdIQ2V4MVdPR01qdzR4VkpiUFd2eWI5cXc1NERNbmVmbndDMGI4aGVwSmRnMWxVaDhjTFFZTGhmYTdfM1FFcnoyRVVTMXdmSEF5dHo1NFA3WWZiUFdaUmpNSGoyZ2JibFE1R254MzZQb1ZHU29BbE9MRnJrWENVako0UTcyZWxHYWt3bGl4NEFodnQ4MDJBNnBfdndBSERuTGV4aFhMeTBMalc3ZlZIX0lIcg?oc=5",
-    "summary": "Use this new resume template and example to land an interview today, says hiring manager of 20 years CNBC",
-    "published_at": "Tue, 01 Sep 2020 07:00:00 GMT"
-  },
-  {
     "total": 7,
     "ease": 6,
     "payment_probability": 3,
@@ -399,23 +381,6 @@
     "published_at": "Thu, 23 Jan 2025 08:00:00 GMT"
   },
   {
-    "total": 5,
-    "ease": 4,
-    "payment_probability": 1,
-    "repeatability": 3,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: resume",
-      "repeatable: resume",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/new resume templates demand",
-    "title": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOZXJ2UGNHVzhVenEyUzVfVVdZSVZVV2VzS0FkQ0ZaY0FWOV9yMzhVaG1ucGpsTGl4S0tXTWw2T05xdk9WQ05BeFE0MnNvaDNRWW1IRHczazhra0VpaTBxdVhmR25pMGhGYlpDdFk0cUpZTGNsMXfSAXtBVV95cUxQM2FTQ0lNOF9WVW84bkdGM21zUk0zc08tV3VVcTk1bWIwUmk5OTBhX2ZlZm5SU3pkcmRfa0h2OXR0RkhTQTRKWF9xNEpXdzFIM3hKQzhRSDctQ1o2dkJqTEpTTUxlQk94dF83NTZmVTRrNEJJUFhRZjZfNFU?oc=5",
-    "summary": "3 terms you should always have on your resume to target what \u2018every organization cares about\u2019 CNBC",
-    "published_at": "Wed, 19 Oct 2022 07:00:00 GMT"
-  },
-  {
     "total": 4,
     "ease": 2,
     "payment_probability": 4,
@@ -448,23 +413,6 @@
     "url": "https://ogmap.com/",
     "summary": "Hey everyone I\u2019ve been hacking on a project \u2192 [OGMAP]( https://ogmap.com ). It\u2019s a *vector tiles API (PBF)* with simple prepaid pricing: - $10 = 1,000,000 tiles - 250k free on sign-up - Auto-buy with Stripe, with safety limits - Served worldwide via Cloudflare CDN We don\u2019t try to compete with Mapbox feature-wise. It\u2019s literally just fast, low-cost tiles + some basic styles for MapLibre. Why I built it: I wanted to start a web project and realized if it got even a bit popular (before monetization",
     "published_at": "2025-09-03T18:31:05Z"
-  },
-  {
-    "total": 4,
-    "ease": 4,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "easy keywords: prompt",
-      "payment signals: paid",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/paid gig",
-    "title": "Show HN: NotchPrompter \u2013 A simple, open-source teleprompter for macOS,no AI-slop",
-    "url": "https://github.com/jpomykala/NotchPrompter",
-    "summary": "Hi HN, I built NotchPrompter because I needed a simple way to read notes while looking at the camera during calls, without heavy or paid software. - 100% free & open-source - native macOS (SwiftUI) - minimalist - focuses on the essentials. Feedback and contributions are more than welcome! PS No, I didn't use AI for it. I always wanted to play with SwiftUI and this is my 6th approach to this. Previous projects were too complex for my beginner skills. I'm mainly a Java developer. It took me ~5 mon",
-    "published_at": "2026-04-17T11:39:46Z"
   },
   {
     "total": 4,
@@ -586,23 +534,6 @@
   },
   {
     "total": 3,
-    "ease": 2,
-    "payment_probability": 3,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "visible budget: $9,000",
-      "payment signals: $",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "google-news/small business looking for virtual assistant",
-    "title": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDJwNTd6OXlJR3JabldKZnF3QzB0ZUlOSlFNcTg4TW9zSmY5aVdqSG5WVklRQ0ZsNEhyVnFxS0dJT1QtbC11eGY4cEo0Si0tU1N0V2tmaGs1NktLVW5ITTlnRXdPREFtOTd4LW03S1JRX21OV3J1bE1Jc1NXcmhHdGZacFI1WEloT0xobTVYWk4xU0ItMzJDRHd6NVRxb2dES3c?oc=5",
-    "summary": "A virtual assistant followed this daily routine to earn $9,000 a month and scale her business to $1.1 million in sales. Business Insider",
-    "published_at": "Fri, 18 Feb 2022 08:00:00 GMT"
-  },
-  {
-    "total": 3,
     "ease": 4,
     "payment_probability": 1,
     "repeatability": 1,
@@ -680,22 +611,6 @@
     "url": "https://github.com/statespace-tech/cush",
     "summary": "I built cush because coding agents can be helpful to diagnose and troubleshoot server issues. The problem is that getting said agents onto a remote server, especially one you don't control, means dealing with VPNs, bastion hosts, firewall rules, access controls, or audit trails. That's assuming SSH isn't even blocked. cush takes a different approach. Instead of a shell, it opens a temporary, outbound HTTPS tunnel that lets you and your AI agent run constrained CLI commands on the server: $ cush ",
     "published_at": "2026-04-15T16:01:43Z"
-  },
-  {
-    "total": 2,
-    "ease": 2,
-    "payment_probability": 2,
-    "repeatability": 1,
-    "risk": 3,
-    "reasons": [
-      "payment signals: fixed",
-      "market-signal source without direct buyer intent"
-    ],
-    "source": "hn/looking for help",
-    "title": "Show HN: AI agents are bad at API integrations \u2013 we fixed it",
-    "url": "https://www.apimatic.io/product/context-plugins/showcase",
-    "summary": "Hi, we're Sohaib and Hannan from APIMatic. We've been building tools to help Developers integrate with APIs for 5+ years at APIMatic. We're now trying to help AI agents do the same. This started from a conversation at PayPal DevDay 2025. The PayPal developer experience team were monitoring developers using AI agents to integrate PayPal APIs, and the agents kept reaching for outdated docs and deprecated SDK versions, often falling back to training data instead of reading the current API documenta",
-    "published_at": "2026-04-09T15:06:54Z"
   },
   {
     "total": 2,
@@ -816,14 +731,14 @@
     "repeatability": 1,
     "risk": 3,
     "reasons": [
-      "payment signals: paid",
+      "payment signals: commission",
       "market-signal source without direct buyer intent"
     ],
-    "source": "hn/paid gig",
-    "title": "Claude Code: Widespread abnormal usage limit drain across all paid tiers",
-    "url": "https://github.com/anthropics/claude-code/issues/41930",
-    "summary": "",
-    "published_at": "2026-04-15T09:47:46Z"
+    "source": "google-news/AI tools affiliate program launch",
+    "title": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNE03T19uSmZNUWZyLTVlb3lCckw2RnQtLXMwSWp5Y0E4enJ6UHJRWkE2TzJ4XzVhT2x4YmRTT053WGhwUmVPTXlCalZmdjZTRFdDOWJJMGJrYzY3cnEtZkpqTVFaTkhaTDN0N1ktcURFX0tlM0ZGQ2VzTUNwbnRGYTZpM0tVX3VrdDN1Vi1yalRCVW1hOEdEWUZzS2NCN2tqT1FSSU5JZTdFOXNFMEVRS0J4WWc4UTBaOVlr?oc=5",
+    "summary": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again Business Insider",
+    "published_at": "Tue, 24 Mar 2026 07:00:00 GMT"
   },
   {
     "total": 2,
@@ -836,9 +751,89 @@
       "market-signal source without direct buyer intent"
     ],
     "source": "google-news/AI tools affiliate program launch",
-    "title": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNE03T19uSmZNUWZyLTVlb3lCckw2RnQtLXMwSWp5Y0E4enJ6UHJRWkE2TzJ4XzVhT2x4YmRTT053WGhwUmVPTXlCalZmdjZTRFdDOWJJMGJrYzY3cnEtZkpqTVFaTkhaTDN0N1ktcURFX0tlM0ZGQ2VzTUNwbnRGYTZpM0tVX3VrdDN1Vi1yalRCVW1hOEdEWUZzS2NCN2tqT1FSSU5JZTdFOXNFMEVRS0J4WWc4UTBaOVlr?oc=5",
-    "summary": "Instagram and Facebook are letting influencers earn a commission from products \u2014 again Business Insider",
-    "published_at": "Tue, 24 Mar 2026 07:00:00 GMT"
+    "title": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSzY4YmdFcVRodzJzTi1EQUk3UWhxV1NadV9ydUVuYnFuVWpEdHB3T1VKQ0o2aERVNFcyWWxRUHVmbXgtTXMzT3R2QmRnY082QXZnR05QOEhTVjlRN2VxRnVnSEY4ZDZqLXE2NV82aXRPWFhGZEkyVE52Mkp1ekdWbnNYVTY5UzI2d2xBRER0N29kV2NLemxXcHJad3pRRkJyQmNJWW5zdWlvdC05Zmd4cDE2elR5R2RmTlNib0F0ZG1nLTQ0a2hzeHo0M25aTHRBY0RRRHNxMWs1ZkZVUVZGZzU3TVVlUEZlclJQZmt3?oc=5",
+    "summary": "Answrr Launches Best AI SaaS Affiliate Program with 30% Lifetime Recurring Commissions FinancialContent",
+    "published_at": "Fri, 06 Feb 2026 08:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hire",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "Trying to Get Hired? Here Are the Most In-Demand Job Skills Right Now - money.com",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDaFFZOXU1bDU1aXRnbzZrY1FBSWhrYzJmTG9TSDd4eDhsY1lWMFlXRmprM3E4OGwwbDZzTGRPNkpRM0FzbDVRR0xGWVc0VllNMmpUb3JsQkhMVkJq?oc=5",
+    "summary": "Trying to Get Hired? Here Are the Most In-Demand Job Skills Right Now money.com",
+    "published_at": "Tue, 03 Mar 2026 08:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hiring",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/new resume templates demand",
+    "title": "What Are the Top Skills to Prioritize in 2026? Hiring Managers Chime In - The HR Digest",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkd5R1FTU2FtNDFReWxRa2J1cmlub3h5WWl2T3EycWxUbEh4aXk4QU9JZzhRZ3ZwNDZNOGlPX1UzNFlpNW9VUlNMcXNEOXpkb2FUUGNTZG9XN2VjRkFvWFpLZmJsZC1uUmQ0VW41UW51Y0dRLWcyaHJqc2hRbEp5UWk4QzhZUzRoUG84TnREb3NPZW1VVUJNd21rUFE5b080?oc=5",
+    "summary": "What Are the Top Skills to Prioritize in 2026? Hiring Managers Chime In The HR Digest",
+    "published_at": "Tue, 09 Dec 2025 08:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hiring",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) - Toronto Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZjaTJlSkJHazlaVmJESkppS0tMMGpzdXh1SFR2NTNpOE5mQkg0NUlQMnR4MlR0VWtmRlFTckVESUh1UGpGV1dVWjN5NmxnMkxLbkVSTk9fZ1pYWlJoUm1TTWxJQlM3X3FaalZ5RFpQaFdVRXQ0ZzExd0tmOG9vaExENkFzTG96Y1pDYVAzdVB0eWxIR2xfUnZRc1Z6NFlDV2pPQTVMSnFaQQ?oc=5",
+    "summary": "7 Best Virtual Assistant Companies for 2025 (With Real Hiring Insights) Toronto Guardian",
+    "published_at": "Mon, 11 Aug 2025 06:36:02 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: hiring",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants - U.S. Chamber of Commerce",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVlaVDNkUVMtT1BtV0V4S0ZxZHYxTExOT29iWVFySzRzaEFoTzVoODFUZWh4TWxMLVVNNlk0bS10UksyOUxfOVJmejlyWW5wNU4wZlBCb3VuZkJhNzFzQ2lrM1dEdzZGSjhSRzJ0N2Q4UTdEcnBqSHZWX1UxTi1FLW5haGFBMnNaaFZJ?oc=5",
+    "summary": "A Small Business Owner\u2019s Guide to Hiring Virtual Assistants U.S. Chamber of Commerce",
+    "published_at": "Wed, 24 Jan 2024 08:00:00 GMT"
+  },
+  {
+    "total": 2,
+    "ease": 2,
+    "payment_probability": 2,
+    "repeatability": 1,
+    "risk": 3,
+    "reasons": [
+      "payment signals: freelance",
+      "market-signal source without direct buyer intent"
+    ],
+    "source": "google-news/small business looking for virtual assistant",
+    "title": "I make 6 figures a year as a freelance virtual assistant. Here are 3 things that help me work smarter and faster. - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYWs3MjZlMER4c2Fkcm9iUVoxRjQ4clNSOGVtVkFOc2ZMblE1NEpjekJQZEZaM2RabDhZXzQ0VXJ5T2k4N2xnUnpXY3BBdFQwLWFGVTdybGRkMFVRZ1VKVHBQODRxbDJ2UlI3QVhXVGJDTm42RXFLX0FMNXlUeEEwaXNtaG5MaTJydGk4WktUdEhER3lHLXUweQ?oc=5",
+    "summary": "I make 6 figures a year as a freelance virtual assistant. Here are 3 things that help me work smarter and faster. Business Insider",
+    "published_at": "Tue, 05 Jul 2022 07:00:00 GMT"
   }
 ]
